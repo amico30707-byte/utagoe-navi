@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://utagoe-navi.jp/sitemap.xml
