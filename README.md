@@ -11,3 +11,11 @@ GitHub Pages で公開しています。`_build/` はページを作るための
 
 ## 広告（A8）
 `python3 _build/ads.py` で、くらべる記事・都道府県ページ・ボイトレ／おとな／シニアの記事に「PR」つきの広告をいれます（なんどでも実行可）。リンクをかえるときは ads.py の ADS を直します。
+
+## 教室ページ・市区町村ページ
+`python3 _build/kyoshitsu_pages.py` で、教室ごとのページ（公式サイトで確認できた教室）と、教室が3つ以上ある市区町村のページを作ります。データは `_build/kyoshitsu/classrooms.json`。
+
+## サイトを作りなおしたあとの順番
+1. `python3 _build/kyoshitsu_pages.py`
+2. `python3 _build/ads.py`
+3. `python3 _build/update_contests.py`
