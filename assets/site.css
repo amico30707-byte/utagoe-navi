@@ -57,3 +57,12 @@ img{max-width:100%;height:auto}
 .sf-logo{font-family:'Zen Maru Gothic',sans-serif;font-size:19px;font-weight:700;margin:0 0 10px}
 .sf-links{display:flex;flex-wrap:wrap;gap:6px 16px;margin:0 0 14px;font-size:14px}
 .sf-pr,.sf-c{font-size:13px;color:#C9D6E6;margin:0 0 4px}
+.pr-tag{display:inline-block;margin-right:6px;padding:0 6px;border:1px solid #8A4B14;border-radius:4px;font-size:11px;font-weight:700;color:#8A4B14;line-height:1.6;vertical-align:middle}
+.ad-box{margin:24px 0;padding:16px 18px;background:#fff;border:2px solid #F0E0CC;border-radius:14px}
+.ad-box-t{margin:0 0 4px;font-weight:700;color:#1F3A5F}
+.ad-box-l{margin:0 0 8px;font-size:14px}
+.ad-box ul{margin:0 0 8px;padding-left:1.2em}
+.ad-box li{margin-bottom:6px}
+.ad-box-n{margin:0;font-size:12px;color:#4B5563}
+.ad-cta{margin:14px 0 24px;padding:12px 14px;background:#FDF1E4;border-radius:10px;font-weight:700}
+#kuta .ad-box a,.ad-box a{color:#1F3A5F}
