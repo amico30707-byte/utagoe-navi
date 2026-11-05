@@ -53,7 +53,8 @@ def page(path, title, desc, body, *, h1_in_body=True, jsonld=None, noindex=False
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:url" content="{url}">
 <meta property="og:site_name" content="{SITE}">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://utagoe-navi.jp/assets/ogp.png">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
