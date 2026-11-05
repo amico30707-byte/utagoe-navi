@@ -15,6 +15,7 @@ ADS = {
   'nayutas':ad('4BGDZ7+8TC5AQ+4GDM+C164Y', 'www14', 'NAYUTAS（ナユタス）ボイトレスクールの公式サイト'),
   'eys':    ad('4BGDZ7+8SQPOY+3H64+65EOI', 'www10', '生ピアノで歌う　ヴォーカル教室'),
   'avalon': ad('4BGDZ7+941Y6Q+4FRO+60OXE', 'www16', '【アバロンミュージックスクール】'),
+  'tsubaki':ad('3N1YIE+EHJQPE+4N3U+5YRHE', 'www15', '【椿音楽教室】'),
   'wacca':  ad('4BGDZ7+9A0A8I+5OGK+5YJRM', 'www19', '東京のボイトレならWACCA MUSIC SCHOOL'),
 }
 PR = '<span class="pr-tag">PR</span>'
@@ -36,10 +37,10 @@ n = 0
 p = 'voitore-kyoshitsu-hikaku/index.html'
 s = strip(open(p).read())
 swap = {'https://www.sheer.jp/': 'sheer', 'https://nayutas.net/': 'nayutas',
-        'https://eys-musicschool.com/': 'eys', 'https://www.avalon-works.com/': 'avalon'}
+        'https://eys-musicschool.com/': 'eys', 'https://www.avalon-works.com/': 'avalon', 'https://tsubaki-musicschool.com/': 'tsubaki'}
 for url, k in swap.items():
     s = re.sub(r'<a href="' + re.escape(url) + r'"[^>]*>[^<]*</a>', START + ADS[k] + PR + END, s, count=1)
-for h, k in [('シアーミュージック', 'sheer'), ('NAYUTAS（ナユタス）', 'nayutas'), ('EYS音楽教室 / EYS-Kids', 'eys'), ('アバロンミュージックスクール', 'avalon')]:
+for h, k in [('シアーミュージック', 'sheer'), ('NAYUTAS（ナユタス）', 'nayutas'), ('EYS音楽教室 / EYS-Kids', 'eys'), ('椿音楽教室', 'tsubaki'), ('アバロンミュージックスクール', 'avalon')]:
     m = re.search(r'<h2>' + re.escape(h) + r'</h2>', s)
     if not m: continue
     nxt = s.find('<h2>', m.end())
@@ -50,7 +51,7 @@ save(p, s); n += 1
 # 2) 都道府県ページ：はじめの説明のあとに案内
 for p in glob.glob('kyoshitsu/*/index.html'):
     s = strip(open(p).read())
-    keys = ['wacca', 'sheer', 'nayutas', 'avalon'] if '/tokyo/' in p else ['sheer', 'nayutas', 'avalon']
+    keys = ['wacca', 'sheer', 'nayutas', 'tsubaki', 'avalon'] if '/tokyo/' in p else (['sheer', 'nayutas', 'tsubaki', 'avalon'] if '/osaka/' in p else ['sheer', 'nayutas', 'avalon'])
     b = box('全国やオンラインで習える教室', '近くに合う教室が見つからないときは、全国に教室がある大手の教室や、オンラインのレッスンも候補になります。', keys)
     i = s.find('</div>', s.find('class="kuta-intro"'))
     if i < 0: continue
@@ -65,7 +66,7 @@ for p in glob.glob('*/index.html'):
     if not set(tags) & {'voitore', 'otona', 'senior'}: continue
     s = strip(s)
     b = box('ボイトレの無料体験ができる教室', '体験レッスンで先生との相性をたしかめるのが、いちばんの近道です。',
-            ['sheer', 'nayutas', 'avalon'])
+            ['sheer', 'nayutas', 'tsubaki', 'avalon'])
     i = s.find('<p class="art-tags">')
     s = s[:i] + b + s[i:]
     save(p, s); n += 1
