@@ -664,7 +664,8 @@
   "feeText": "予選6,600円／本選11,000〜14,300円／全国大会13,200〜16,500円（税込、重唱合唱は人数加算）",
   "restriction": "",
   "source": "https://www.sing.or.jp/sinsyu_songs_contest2026/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/shinshu-doyo-contest/"
  },
  {
   "id": "doyo-music-2027w",
@@ -782,7 +783,8 @@
   "feeText": "予選12,000〜18,000円／本選15,000〜23,000円（税別）",
   "restriction": "",
   "source": "https://mozartmusic.jp/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/mozart-contest-seigaku/"
  },
  {
   "id": "eve11-maestro-kitakanto",
@@ -1024,7 +1026,8 @@
   "feeText": "予選6,000〜8,000円／地区本選17,500〜19,500円／ファイナル21,600〜29,800円（区分別）",
   "restriction": "",
   "source": "https://www.osakaimc.com/overview/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/osaka-kokusai-seigaku/"
  },
  {
   "id": "ivc-tokyo-2026",
@@ -1056,7 +1059,8 @@
   "feeText": "13,750円（基本受験料12,000円の部門・公式伴奏なし）〜39,050円（愛好者部門・公式伴奏あり）。税・事務料込（東京5の例）",
   "restriction": "",
   "source": "https://ivctokyo.com/ivc/schedule",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/ivc-tokyo/"
  },
  {
   "id": "tiwsvc-5-voice",
@@ -1112,7 +1116,8 @@
   "feeText": "予選6,000円／本選6,000円／中学生チャレンジ6,000円",
   "restriction": "過去の優秀賞受賞者・既卒者は対象外",
   "source": "https://www.tosei-showa-music.ac.jp/admission/kakyoku/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/koukousei-kakyoku-contest/"
  },
  {
   "id": "active-senior-4",
@@ -1224,7 +1229,8 @@
   "feeText": "アマチュア 予選審査料17,000円／本選審査料20,000円",
   "restriction": "音大声楽専攻卒で演奏活動中の人・オペラ団体会員は一般に出られない（65歳以上はシニア可）。入賞者はコンサート出演（3,000円チケット15枚の負担）",
   "source": "https://www.soleilmusic.com/competition-Harunokoe.html",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/harunokoe-seigaku/"
  },
  {
   "id": "jacompa-kayou-senshuken",
@@ -1287,7 +1293,8 @@
   "feeText": "参加費の記載なし（カラオケ利用料・交通費は自己負担）",
   "restriction": "DAM★とも応募はビッグエコー・CLUB DAM等の会員登録が必要（自撮り応募は不要） 受付は11月9日23:59まで延長（公式発表）",
   "source": "https://www.clubdam.com/campaign/audition/ad202608_karaokegrandprix.html",
-  "checked": "2026-11-05"
+  "checked": "2026-11-05",
+  "guide": "/dam-karaoke-grandprix/"
  },
  {
   "id": "nihon-ensouka-28-voice",
@@ -1341,7 +1348,8 @@
   "feeText": "参加料15,000円（予選・本選含む）",
   "restriction": "日本歌曲のみ（自由曲に唱歌・童謡・民謡・演歌・歌謡曲は不可）。全曲暗譜。過去の第1位は応募不可",
   "source": "https://djkg.org/concours_jp.php",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/nihon-kakyoku-yakushiji/"
  },
  {
   "id": "otona-douyou-winter-2026",
