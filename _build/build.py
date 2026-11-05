@@ -40,6 +40,8 @@ def page(path, title, desc, body, *, h1_in_body=True, jsonld=None, noindex=False
     doc = f'''<!doctype html>
 <html lang="ja">
 <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2LQJEDZ04M"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-2LQJEDZ04M');</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(t)}</title>
