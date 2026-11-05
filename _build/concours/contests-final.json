@@ -26,7 +26,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-miyagi",
@@ -55,7 +56,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-tochigi",
@@ -84,7 +86,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-gunma",
@@ -113,7 +116,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-saitama1",
@@ -142,7 +146,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-ibaraki",
@@ -171,7 +176,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-chiba3",
@@ -200,7 +206,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-tokyo2",
@@ -229,7 +236,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-tokyo5",
@@ -258,7 +266,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-kanagawa3",
@@ -287,7 +296,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-aichi1",
@@ -316,7 +326,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-gifu2",
@@ -345,7 +356,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-shizuoka",
@@ -374,7 +386,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-osaka1",
@@ -403,7 +416,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-osaka2",
@@ -432,7 +446,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-hyogo",
@@ -461,7 +476,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-okayama",
@@ -490,7 +506,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-kagawa",
@@ -519,7 +536,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-fukuoka",
@@ -548,7 +566,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "jcmcj52-kumamoto",
@@ -577,7 +596,8 @@
   "feeText": "予選10,500〜14,500円／本選13,500〜18,500円／全国大会14,500〜20,500円（税込・学年別）",
   "restriction": "暗譜必須。ミュージカル曲・ポップス系は不可",
   "source": "https://www.tiaa-jp.com/jcmcj/schedule/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/jr-classic-seigaku/"
  },
  {
   "id": "sing-kodomo-8",
@@ -610,7 +630,8 @@
   "feeText": "予選 独唱9,900円・重唱合唱14,300円／本選15,400〜18,700円／全国大会18,700〜22,000円（税込、重唱合唱は人数加算）",
   "restriction": "自由曲（ジャンル自由）。暗譜。本選・全国大会は市販CD・カラオケ音源不可",
   "source": "https://www.sing.or.jp/the8th-all-japan-childrens-song-contest/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/zennihon-kodomo-uta/"
  },
  {
   "id": "shinshu-doyo-2026",
@@ -671,7 +692,8 @@
   "feeText": "予選6,000円／本選ソロ10,000〜13,500円（フレンズ・ファミリー本選15,000円＋1人1,000円）",
   "restriction": "予選は課題曲リストから選曲。暗譜・伴奏つき（無伴奏不可）",
   "source": "https://doyo-music.com/2027winter/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kodomo-doyo-contest/"
  },
  {
   "id": "romania-jr10-regional",
@@ -789,7 +811,8 @@
   "feeText": "参加費無料（交通費は自己負担）",
   "restriction": "英語曲のみ（ソロ2分45秒以内）。グループは4〜9人。楽器の持ち込み不可",
   "source": "https://www.eve-hq.com/maestro-entry",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/eve-eigo-kasho/"
  },
  {
   "id": "eve11-maestro-minamikanto",
@@ -818,7 +841,8 @@
   "feeText": "参加費無料（交通費は自己負担）",
   "restriction": "英語曲のみ（ソロ2分45秒以内）。グループは4〜9人。楽器の持ち込み不可",
   "source": "https://www.eve-hq.com/maestro-entry",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/eve-eigo-kasho/"
  },
  {
   "id": "eve11-maestro-kansai",
@@ -847,7 +871,8 @@
   "feeText": "参加費無料（交通費は自己負担）",
   "restriction": "英語曲のみ（ソロ2分45秒以内）。グループは4〜9人。楽器の持ち込み不可",
   "source": "https://www.eve-hq.com/maestro-entry",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/eve-eigo-kasho/"
  },
  {
   "id": "eve11-maestro-chubu",
@@ -876,7 +901,8 @@
   "feeText": "参加費無料（交通費は自己負担）",
   "restriction": "英語曲のみ（ソロ2分45秒以内）。グループは4〜9人。楽器の持ち込み不可",
   "source": "https://www.eve-hq.com/maestro-entry",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/eve-eigo-kasho/"
  },
  {
   "id": "eve11-maestro-kyushu",
@@ -905,7 +931,8 @@
   "feeText": "参加費無料（交通費は自己負担）",
   "restriction": "英語曲のみ（ソロ2分45秒以内）。グループは4〜9人。楽器の持ち込み不可",
   "source": "https://www.eve-hq.com/maestro-entry",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/eve-eigo-kasho/"
  },
  {
   "id": "mmm-karaoke-2027",
@@ -964,7 +991,8 @@
   "feeText": "",
   "restriction": "",
   "source": "https://gaccon.mainichi-classic.net/department/vocal/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/gakusei-ongaku-seigaku/"
  },
  {
   "id": "osakaimc-27-voice",
@@ -1110,7 +1138,8 @@
   "feeText": "音源審査7,000円／予選12,000円／本選15,000円（伴奏者 予選4,000円・本選7,000円）",
   "restriction": "音楽を専門とした学校教育を受けていない60歳以上（アマチュア限定）。課題曲は1番のみ原語（移調可）。本選の自由曲はイタリア語・ドイツ語の曲（2曲で5分以内）",
   "source": "https://vecchi-allegri.com/jiman/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/active-senior-seigaku/"
  },
  {
   "id": "primavera-2027-amatori",
@@ -1340,7 +1369,8 @@
   "feeText": "",
   "restriction": "",
   "source": "https://g-doyo.org/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/otona-doyo-shoka-contest/"
  },
  {
   "id": "grandprix-2027",
@@ -1378,7 +1408,8 @@
   "feeText": "1部門8,800円（税込）",
   "restriction": "",
   "source": "https://utagoe-navi.jp/grandprix/",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/grandprix/"
  },
  {
   "id": "kawai60-uta-hokkaido-0",
@@ -1407,7 +1438,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/hokkaido",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-hokkaido-1",
@@ -1436,7 +1468,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/hokkaido",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-hokkaido-2",
@@ -1465,7 +1498,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/hokkaido",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-hokkaido-3",
@@ -1494,7 +1528,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/hokkaido",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-hokkaido-4",
@@ -1523,7 +1558,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/hokkaido",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-5",
@@ -1552,7 +1588,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-6",
@@ -1581,7 +1618,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-7",
@@ -1610,7 +1648,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-8",
@@ -1639,7 +1678,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-9",
@@ -1668,7 +1708,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-10",
@@ -1697,7 +1738,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-11",
@@ -1726,7 +1768,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-12",
@@ -1755,7 +1798,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-13",
@@ -1784,7 +1828,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-14",
@@ -1813,7 +1858,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-15",
@@ -1842,7 +1888,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tohoku-16",
@@ -1871,7 +1918,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tohoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kita-kanto-17",
@@ -1900,7 +1948,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kita-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kita-kanto-18",
@@ -1929,7 +1978,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kita-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kita-kanto-19",
@@ -1958,7 +2008,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kita-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kita-kanto-20",
@@ -1987,7 +2038,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kita-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kita-kanto-21",
@@ -2016,7 +2068,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kita-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-higashi-kanto-22",
@@ -2045,7 +2098,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/higashi-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-higashi-kanto-23",
@@ -2074,7 +2128,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/higashi-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-higashi-kanto-24",
@@ -2103,7 +2158,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/higashi-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-higashi-kanto-25",
@@ -2132,7 +2188,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/higashi-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-higashi-kanto-26",
@@ -2161,7 +2218,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/higashi-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-higashi-kanto-27",
@@ -2190,7 +2248,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/higashi-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-higashi-kanto-28",
@@ -2219,7 +2278,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/higashi-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-higashi-kanto-29",
@@ -2248,7 +2308,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/higashi-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-higashi-kanto-30",
@@ -2277,7 +2338,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/higashi-kanto",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tokyo-31",
@@ -2306,7 +2368,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tokyo",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tokyo-32",
@@ -2335,7 +2398,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tokyo",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tokyo-33",
@@ -2364,7 +2428,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tokyo",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tokyo-34",
@@ -2393,7 +2458,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tokyo",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tokyo-35",
@@ -2422,7 +2488,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tokyo",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tokyo-36",
@@ -2451,7 +2518,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tokyo",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tokyo-37",
@@ -2480,7 +2548,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tokyo",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-tokyo-38",
@@ -2509,7 +2578,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/tokyo",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kanagawa-39",
@@ -2538,7 +2608,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kanagawa",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kanagawa-40",
@@ -2567,7 +2638,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kanagawa",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kanagawa-41",
@@ -2596,7 +2668,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kanagawa",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kanagawa-42",
@@ -2625,7 +2698,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kanagawa",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kanagawa-43",
@@ -2654,7 +2728,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kanagawa",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-shizuoka-44",
@@ -2683,7 +2758,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/shizuoka",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-shizuoka-45",
@@ -2712,7 +2788,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/shizuoka",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-shizuoka-46",
@@ -2741,7 +2818,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/shizuoka",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chubu-47",
@@ -2770,7 +2848,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chubu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chubu-48",
@@ -2799,7 +2878,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chubu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chubu-49",
@@ -2828,7 +2908,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chubu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chubu-50",
@@ -2857,7 +2938,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chubu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chubu-51",
@@ -2886,7 +2968,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chubu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chubu-52",
@@ -2915,7 +2998,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chubu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chubu-53",
@@ -2944,7 +3028,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chubu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-54",
@@ -2973,7 +3058,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-55",
@@ -3002,7 +3088,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-56",
@@ -3031,7 +3118,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-57",
@@ -3060,7 +3148,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-58",
@@ -3089,7 +3178,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-59",
@@ -3118,7 +3208,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-60",
@@ -3147,7 +3238,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-61",
@@ -3176,7 +3268,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-62",
@@ -3205,7 +3298,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-63",
@@ -3234,7 +3328,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-64",
@@ -3263,7 +3358,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-65",
@@ -3292,7 +3388,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-66",
@@ -3321,7 +3418,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-67",
@@ -3350,7 +3448,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kansai-shikoku-68",
@@ -3379,7 +3478,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kansai-shikoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chugoku-69",
@@ -3408,7 +3508,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chugoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chugoku-70",
@@ -3437,7 +3538,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chugoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chugoku-71",
@@ -3466,7 +3568,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chugoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chugoku-72",
@@ -3495,7 +3598,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chugoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chugoku-73",
@@ -3524,7 +3628,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chugoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-chugoku-74",
@@ -3553,7 +3658,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/chugoku",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kyushu-75",
@@ -3582,7 +3688,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kyushu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kyushu-76",
@@ -3611,7 +3718,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kyushu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kyushu-77",
@@ -3640,7 +3748,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kyushu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kyushu-78",
@@ -3669,7 +3778,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kyushu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kyushu-79",
@@ -3698,7 +3808,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kyushu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kyushu-80",
@@ -3727,7 +3838,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kyushu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kyushu-81",
@@ -3756,7 +3868,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kyushu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kyushu-82",
@@ -3785,7 +3898,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kyushu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kyushu-83",
@@ -3814,7 +3928,8 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kyushu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  },
  {
   "id": "kawai60-uta-kyushu-84",
@@ -3843,6 +3958,7 @@
   "feeText": "オーディション参加料10,890円・大会参加料10,890円（税込）",
   "restriction": "参加資格：カワイ音楽教室生徒／カワイシステム教育生徒／カワイ音楽教育研究会会員生徒（申込区分は公式で確認）",
   "source": "https://competition.kawai.jp/ucon/2027/kyushu",
-  "checked": "2026-11-01"
+  "checked": "2026-11-01",
+  "guide": "/kawai-uta-contest/"
  }
 ]

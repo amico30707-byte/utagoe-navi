@@ -144,7 +144,7 @@ function card(x){
    </dl>
    ${x.eventText?`<p class="sub" style="grid-column:1/-1">${esc(x.eventText)}</p>`:""}
    ${x.restriction?`<p class="warn">${esc(x.restriction)}</p>`:""}
-   <div class="links"><a href="${esc(x.source)}" target="_blank" rel="noopener">公式サイトを見る</a><span>確認日：${esc(x.checked||"")}</span></div>
+   <div class="links"><a href="${esc(x.source)}" target="_blank" rel="noopener">公式サイトを見る</a>${x.guide?`<a href="${esc(x.guide)}">くわしいガイド記事</a>`:""}<span>確認日：${esc(x.checked||"")}</span></div>
   </article>`}
 function render(){
   const hits=DATA.filter(match).sort(sorter);
