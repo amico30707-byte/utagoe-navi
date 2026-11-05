@@ -1279,15 +1279,15 @@
   "place": "予選：DAM★とも動画・録音または自撮り動画／決勝：東京都 品川ピボット（品川プリンスホテル）",
   "method": "video-venue",
   "start": "2026-08-08",
-  "deadline": "2026-10-31",
+  "deadline": "2026-11-09",
   "eventDate": "2027-01-30",
-  "eventText": "受付 2026/8/8〜10/31（終了）→通過者へ12月上旬に連絡→決勝 2027/1/30",
+  "eventText": "受付 2026/8/8〜11/9 23:59（延長）→通過者へ12月上旬に連絡→決勝 2027/1/30",
   "feeMin": null,
   "feeMax": null,
   "feeText": "参加費の記載なし（カラオケ利用料・交通費は自己負担）",
-  "restriction": "DAM★とも応募はビッグエコー・CLUB DAM等の会員登録が必要（自撮り応募は不要）",
+  "restriction": "DAM★とも応募はビッグエコー・CLUB DAM等の会員登録が必要（自撮り応募は不要） 受付は11月9日23:59まで延長（公式発表）",
   "source": "https://www.clubdam.com/campaign/audition/ad202608_karaokegrandprix.html",
-  "checked": "2026-11-01"
+  "checked": "2026-11-05"
  },
  {
   "id": "nihon-ensouka-28-voice",
