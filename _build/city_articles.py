@@ -13,6 +13,18 @@ M = {  # 県のslug: [記事のslug, ...]
  'tochigi':['tochigi-uta'],'shiga':['shiga-uta'],'kagawa':['kagawa-uta'],'okinawa':['okinawa-uta'],
  'toyama':['toyama-uta'],'ishikawa':['ishikawa-uta'],'tottori':['tottori-uta'],'ibaraki':['ibaraki-uta'],
  'gunma':['gunma-uta'],'shimane':['shimane-uta'],'nagasaki':['nagasaki-uta'],'yamanashi':['yamanashi-uta'],
+ 'wakayama':['wakayama-uta'],
+ 'akita':['akita-uta'],
+ 'miyazaki':['miyazaki-uta'],
+ 'fukushima':['fukushima-uta'],
+ 'aomori':['aomori-uta'],
+ 'tokushima':['tokushima-uta'],
+ 'yamagata':['yamagata-uta'],
+ 'iwate':['iwate-uta'],
+ 'fukui':['fukui-uta'],
+ 'saga':['saga-uta'],
+ 'kochi':['kochi-uta'],
+ 'ehime':['ehime-uta'],
 }
 def title(slug):
     p = os.path.join(ROOT, slug, 'index.html')
