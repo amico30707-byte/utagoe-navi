@@ -157,10 +157,12 @@ for n, it in enumerate(raw_items, start=1):
     cat = re.findall(r'<category domain="category" nicename="([^"]+)"', it)
     tags = re.findall(r'<category domain="post_tag" nicename="([^"]+)"', it)
     desc = meta('meta_description', it)
+    pd = (cdata('wp:post_date', it) or '2026-11-04')[:10]
+    if pd < '2026-11-04': pd = '2026-11-04'
     body = body.replace(DOMAIN + '/', '/').replace(DOMAIN, '/')
     body = fix_placeholders(body)
     body = re.sub(r'<p>\s*</p>', '', body)
-    arts.append(dict(n=n, title=title, slug=slug, body=body, cat=cat[0] if cat else 'contest', tags=tags, desc=desc))
+    arts.append(dict(n=n, title=title, slug=slug, body=body, cat=cat[0] if cat else 'contest', tags=tags, desc=desc, date=pd))
 
 assert not any('【' in a['body'] for a in arts), [a['slug'] for a in arts if '【' in a['body']]
 
@@ -182,7 +184,7 @@ for a in arts:
     body = (f'<article class="art wrap">{bc}'
             f'<p class="art-cat"><a href="/category/{a["cat"]}/">{esc(CATS[a["cat"]])}</a></p>'
             f'<h1>{esc(a["title"])}</h1>'
-            f'<p class="art-meta">更新日：2026年11月4日 ・ 書いた人：うみ</p>'
+            f'<p class="art-meta">更新日：{int(a["date"][:4])}年{int(a["date"][5:7])}月{int(a["date"][8:10])}日 ・ 書いた人：うみ</p>'
             f'<div class="art-body">{a["body"]}</div>'
             f'<p class="art-tags">{tagl}</p>'
             f'{AUTHOR}</article>'
@@ -190,7 +192,7 @@ for a in arts:
             + (f'<section class="rel"><h2>あわせて読みたい</h2><div class="acl">{"".join(card(b) for b in rel)}</div></section>' if rel else '')
             + '</div>')
     ld = [bld, {"@context": "https://schema.org", "@type": "Article", "headline": a['title'][:110],
-                "description": a['desc'], "datePublished": TODAY, "dateModified": TODAY,
+                "description": a['desc'], "datePublished": a["date"], "dateModified": a["date"],
                 "author": {"@type": "Person", "name": "うみ", "url": DOMAIN + '/about/'},
                 "publisher": {"@type": "Organization", "name": "株式会社Bright Future Family"},
                 "mainEntityOfPage": f'{DOMAIN}/{a["slug"]}/'}]
@@ -199,13 +201,13 @@ for a in arts:
 # article list / category / tag pages
 def listing(path, h1, lead, items, crumb):
     bc, bld = crumbs(crumb)
-    body = f'<div class="wrap">{bc}<h1 class="ph">{esc(h1)}</h1><p class="lead">{lead}</p><div class="acl">{"".join(card(b) for b in items)}</div>{CTA}</div>'
+    body = f'<div class="wrap">{bc}<h1 class="ph">{esc(h1)}</h1><p class="lead">{lead}</p><div class="acl">{"".join(card(b) for b in items[::-1])}</div>{CTA}</div>'
     page(path, h1, f'{h1}の記事一覧です。{SITE}では、歌の習い事・コンクール・練習のことを、やさしくまとめています。', body, jsonld=[bld])
 
 cat_nav = '<p class="chips">' + ''.join(f'<a href="/category/{k}/">{esc(v)}</a>' for k, v in CATS.items()) + '</p>'
 bc, bld = crumbs([('記事一覧', None)])
 page('/articles/', '記事一覧', f'{SITE}の記事一覧です。歌の習い事、コンクール、練習、お礼や費用のことまで、{len(arts)}本の記事をのせています。',
-     f'<div class="wrap">{bc}<h1 class="ph">記事一覧</h1>{cat_nav}<div class="acl">{"".join(card(b) for b in arts)}</div>{CTA}</div>', jsonld=[bld])
+     f'<div class="wrap">{bc}<h1 class="ph">記事一覧</h1>{cat_nav}<h2 class="ut-h" style="font-size:20px;color:#1F3A5F">あたらしい記事</h2><div class="acl">{"".join(card(b) for b in arts[::-1][:8])}</div><h2 class="ut-h" style="font-size:20px;color:#1F3A5F">すべての記事（あたらしい順）</h2><div class="acl">{"".join(card(b) for b in arts[::-1])}</div>{CTA}</div>', jsonld=[bld])
 for k, v in CATS.items():
     listing(f'/category/{k}/', v, f'「{esc(v)}」の記事をまとめています。', [a for a in arts if a['cat'] == k], [('記事一覧', '/articles/'), (v, None)])
 for k, v in TAGS.items():
