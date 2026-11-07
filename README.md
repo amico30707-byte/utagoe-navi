@@ -19,3 +19,7 @@ GitHub Pages で公開しています。`_build/` はページを作るための
 1. `python3 _build/kyoshitsu_pages.py`
 2. `python3 _build/ads.py`
 3. `python3 _build/update_contests.py`
+
+
+## 都道府県ページの「近くで出られるコンクール」
+`python3 _build/region_contests.py` を、update_contests.py のあとに実行（くりかえし実行してよい）。
