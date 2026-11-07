@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """Build the static site for utagoe-navi.jp into /home/claude/site"""
+import json as _json_ncon
+NCON=len(_json_ncon.load(open('/home/claude/utagoe-navi/_build/concours/contests-final.json')))
 import re, os, json, csv, html, shutil, datetime
 
 ROOT = '/home/claude'
@@ -170,7 +172,7 @@ AUTHOR = ('<aside class="author"><div class="author-ic" aria-hidden="true">う</
           '<p>息子といっしょに、たくさんの歌のコンクールに出てきた母です。お礼や費用、教室えらびで なやんだ経験をもとに書いています。<a href="/about/">くわしいプロフィール</a></p></div></aside>')
 CTA = ('<section class="cta"><h2>つぎの一歩を さがす</h2><div class="cta-g">'
        '<a href="/kyoshitsu/" class="cta-a">歌の教室をさがす<small>全国1,988か所</small></a>'
-       '<a href="/concours/" class="cta-b">コンクールをさがす<small>132件</small></a>'
+       '<a href="/concours/" class="cta-b">コンクールをさがす<small>'+str(NCON)+'件</small></a>'
        '<a href="/grandprix/" class="cta-c">こどもの歌声グランプリ<small>動画で出られる</small></a></div></section>')
 
 def card(a):
@@ -235,14 +237,14 @@ for name, slug, _u, title, desc, cnt in prefs:
 
 bc, bld = crumbs([('コンクールさがし', None)])
 page('/concours/', '歌のコンクールさがし｜子どもからシニアまで',
-     '歌のコンクールを132件のせています。年代、ジャンル（童謡・声楽・ミュージカル・合唱など）、地域、会場か動画か、しめきりでさがせます。',
+     '歌のコンクールを'+str(NCON)+'件のせています。年代、ジャンル（童謡・声楽・ミュージカル・合唱など）、地域、会場か動画か、しめきりでさがせます。',
      f'<div class="wrap">{bc}</div>' + wrapfrag(f'{ROOT}/concours/concours-wordpress.html'), jsonld=[bld],
      full_title='歌のコンクールさがし｜子どもからシニアまで｜うたごえナビ')
 
 # ---------------------------------------------------------------- top
 top = open(f'{ROOT}/top/template.html').read()
 d = json.load(open(f'{ROOT}/top/data.json'))
-top = top.replace('__DATA__', json.dumps(d, ensure_ascii=False)).replace('__NCLS__', '1,988').replace('__NCON__', '132').replace('__NEW__', '\n'.join(f'<a href="/{a["slug"]}/">{esc(a["title"])}</a>' for a in arts[::-1][:5]))
+top = top.replace('__DATA__', json.dumps(d, ensure_ascii=False)).replace('__NCLS__', '1,988').replace('__NCON__', str(NCON)).replace('__NEW__', '\n'.join(f'<a href="/{a["slug"]}/">{esc(a["title"])}</a>' for a in arts[::-1][:5]))
 top = top.replace('<h1 class="ut-h">', '<h1 class="ut-h">', 1)
 page('/', SITE, '全国の歌の教室・ボイトレ教室・合唱団と、歌のコンクールを、お子様からシニアの方までさがせるサイトです。動画で出られる「こどもの歌声グランプリ」も開いています。',
      top, jsonld=[{"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": DOMAIN + '/',

@@ -3976,5 +3976,403 @@
     "source": "https://competition.kawai.jp/ucon/2027/kyushu",
     "checked": "2026-11-01",
     "guide": "/kawai-uta-contest/"
+  },
+  {
+    "id": "tokyo-enjoy-karaoke-2027",
+    "family": "tokyo-enjoy",
+    "name": "第6回「TOKYO縁（エン）ジョイ！」2027 東京都シニア・コミュニティ交流大会（カラオケ）",
+    "subtitle": "カラオケ・東京都",
+    "genres": [
+      "歌謡・演歌",
+      "ポップス"
+    ],
+    "ages": [
+      "シニア"
+    ],
+    "ageText": "2027年4月1日時点で60歳以上の都内在住者",
+    "region": "関東",
+    "place": "小金井 宮地楽器ホール 大ホール（東京都小金井市）",
+    "method": "venue",
+    "start": "",
+    "deadline": "2026-12-03",
+    "eventDate": "2027-01-23",
+    "eventText": "2027年1月23日（土）カラオケ大会",
+    "feeMin": 1000,
+    "feeMax": 1000,
+    "feeText": "1人1種目1,000円",
+    "restriction": "東京都在住・60歳以上。カラオケ定員120名（超えた場合は抽選）。申込はWebまたは郵送（12/3必着）",
+    "source": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026091812",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "kobe-imc-32",
+    "family": "kobe-imc",
+    "name": "第32回KOBE国際音楽コンクール",
+    "subtitle": "声楽部門",
+    "genres": [
+      "声楽"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな"
+    ],
+    "ageText": "A:12歳以下／B:18歳以下／C:18〜35歳（2026年4月2日時点）",
+    "region": "近畿",
+    "place": "神戸文化ホール 中ホール（本選）",
+    "method": "venue",
+    "start": "",
+    "deadline": "2026-11-01",
+    "eventDate": "2027-01-10",
+    "eventText": "予選結果 2026年12月上旬（メール）、声楽本選 2027年1月10日、入賞者演奏会 3月7日",
+    "feeMin": 22000,
+    "feeMax": 28000,
+    "feeText": "本選参加料 A・B 22,000円／C 28,000円（予選通過者）",
+    "restriction": "自由曲（予選・本選同曲）、アリアは原調、ピアノ伴奏。時間 A 6分・B/C 8分以内。申込は締切済み（本選は公開・入場無料）",
+    "source": "https://musicsatoh.com/",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "k-unlimited-20",
+    "family": "k-concours",
+    "name": "第20回Kアンリミテッド音楽コンクール",
+    "subtitle": "声楽（独唱・重唱）",
+    "genres": [
+      "声楽",
+      "合唱・重唱"
+    ],
+    "ages": [
+      "幼児",
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢制限なし",
+    "region": "関東",
+    "place": "K東銀座コンサートホール（東京都中央区）／動画審査",
+    "method": "video-venue",
+    "start": "",
+    "deadline": "2026-12-08",
+    "eventDate": "2027-01-11",
+    "eventText": "予選は動画（12/8締切）、本選 2027年1月11日 ホール審査（動画審査は1/5締切）",
+    "feeMin": 11000,
+    "feeMax": 19800,
+    "feeText": "予選 講評なし11,000円／講評あり19,800円、本選19,800円（税込）",
+    "restriction": "自由曲・10分以内（複数曲可）、自作曲不可、録音伴奏可、動画は無編集。重唱は8名＋ピアノまで",
+    "source": "https://officesekkei.heteml.net/k-concours.org/unlimited_20.html",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "k-amateur-26",
+    "family": "k-concours",
+    "name": "第26回Kアマチュア音楽コンクール",
+    "subtitle": "声楽（独唱・重唱）",
+    "genres": [
+      "声楽",
+      "合唱・重唱"
+    ],
+    "ages": [
+      "幼児",
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢制限なし（演奏を主な仕事とするプロは不可）",
+    "region": "関東",
+    "place": "K東銀座コンサートホール（東京都中央区）／動画審査",
+    "method": "video-venue",
+    "start": "",
+    "deadline": "2026-12-08",
+    "eventDate": "2027-01-11",
+    "eventText": "予選は動画（12/8締切）、本選 2027年1月11日 ホール審査（動画審査は1/5締切）",
+    "feeMin": 11000,
+    "feeMax": 19800,
+    "feeText": "予選 講評なし11,000円／講評あり19,800円、本選19,800円（税込）",
+    "restriction": "アマチュア限定。自由曲・10分以内、自作曲不可、楽譜使用可、録音伴奏可。重唱は8名＋ピアノまで",
+    "source": "https://officesekkei.heteml.net/k-concours.org/amateur_26.html",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "nami-nihon-kakyoku-24",
+    "family": "nami-nihon-kakyoku",
+    "name": "第24回日本歌曲コンクール",
+    "subtitle": "声楽部門（日本歌曲 波の会）",
+    "genres": [
+      "声楽"
+    ],
+    "ages": [
+      "幼児",
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢・学歴・国籍不問（波の会賞は70歳以上の本選出場者が対象）",
+    "region": "関東",
+    "place": "豊洲シビックセンターホール（予選）／すみだトリフォニーホール小ホール（本選）",
+    "method": "venue",
+    "start": "2027-05-01",
+    "deadline": "2027-05-31",
+    "eventDate": "2027-08-18",
+    "eventText": "予選 2027年7月20〜21日、本選・表彰式 8月18日",
+    "feeMin": 15000,
+    "feeMax": 15000,
+    "feeText": "15,000円",
+    "restriction": "全曲暗譜。予選：山田耕筰の課題曲1曲＋自由曲（日本歌曲）計7分以内。本選：波の会歌曲選集からの課題曲＋自由曲 計13分以内（予選と別の曲）。伴奏者は各自同伴、移調可。過去の1位等は不可",
+    "source": "https://nihonkakyokunaminokai.com/competition/260701-270831/",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "tokyo-musical-kasyou-10",
+    "family": "tokyo-musical-kasyou",
+    "name": "第10回TOKYO全国ミュージカル歌唱コンクール（第14回座間全国ミュージカルコンクール 歌唱部門 合同）",
+    "subtitle": "ミュージカル歌唱",
+    "genres": [
+      "ミュージカル"
+    ],
+    "ages": [
+      "幼児",
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "ジュニア部門：中学生以下／シニア部門：高校生以上",
+    "region": "関東",
+    "place": "音楽の友ホール（東京都新宿区神楽坂）",
+    "method": "venue",
+    "start": "",
+    "deadline": "",
+    "eventDate": "2027-08-29",
+    "eventText": "2027年8月29日（日）開催。2027年の募集要項は未発表",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "",
+    "restriction": "ミュージカル作品の歌・4分以内（自由曲）。申込期間・参加費は今後発表",
+    "source": "https://sakadoentertainment.wixsite.com/tokyo-kasyou",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "vocal-ensemble-fukushima-20",
+    "family": "vocal-ensemble-fukushima",
+    "name": "第20回声楽アンサンブルコンテスト全国大会",
+    "subtitle": "小学生・ジュニア／中学生／高等学校／一般部門",
+    "genres": [
+      "合唱・重唱"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "中学生・高等学校・小学生・ジュニア・一般の4部門",
+    "region": "東北",
+    "place": "ふくしん夢の音楽堂（福島市音楽堂）",
+    "method": "venue",
+    "start": "2026-12-07",
+    "deadline": "2027-01-07",
+    "eventDate": "2027-03-19",
+    "eventText": "2027年3月19〜21日 部門別審査、22日 金賞団体による本選",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "",
+    "restriction": "都道府県合唱連盟の推薦（2/1必着）または公募審査（12/7〜1/7必着）。アンサンブル（小編成）が対象。人数・参加料は応募要項参照",
+    "source": "https://www.pref.fukushima.lg.jp/sec/11055a/seigaku.html",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "harukon-2027-jusho",
+    "family": "harukon",
+    "name": "春こん。2027（東京春のコーラスコンテスト）",
+    "subtitle": "声楽アンサンブルコンテスト 一般の部 重唱部門",
+    "genres": [
+      "合唱・重唱"
+    ],
+    "ages": [
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "一般の部（年齢の記載なし）",
+    "region": "関東",
+    "place": "浜離宮朝日ホール（東京都中央区）",
+    "method": "venue",
+    "start": "",
+    "deadline": "",
+    "eventDate": "2027-03-06",
+    "eventText": "重唱部門は2027年3月6日（土）。申込受付中（締切は参加要項参照）",
+    "feeMin": 4500,
+    "feeMax": 5500,
+    "feeText": "個人参加費 1人4,500円（加盟団体）／5,500円（非加盟）。非加盟団体は加算あり",
+    "restriction": "東京都合唱連盟主催。重唱部門は新設で、各パート1名で演奏（ジャンル・時代は不問）。1申込2名以上、最大5曲。連盟非加盟でも参加可",
+    "source": "https://tokyochorus.com/event/springcontest/",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "utagassen-sakai-2027",
+    "family": "utagassen-sakai",
+    "name": "第1回 ギュっと団結！歌合戦!! IN SAKAI 2027",
+    "subtitle": "チーム対抗・福井県坂井市",
+    "genres": [
+      "ポップス",
+      "合唱・重唱"
+    ],
+    "ages": [
+      "幼児",
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢の条件なし（坂井市で活動するチーム、または代表者が坂井市在住）",
+    "region": "中部",
+    "place": "福井県坂井市（会場未発表）",
+    "method": "venue",
+    "start": "",
+    "deadline": "2026-12-31",
+    "eventDate": "2027-08-08",
+    "eventText": "予選を経て、2027年8月8日 決勝（生バンド演奏）",
+    "feeMin": 0,
+    "feeMax": 0,
+    "feeText": "参加無料",
+    "restriction": "チームで参加。坂井市で活動するチーム、または代表者が坂井市在住。曲・ジャンルの条件は記載なし。申込はGoogleフォーム",
+    "source": "https://www.shoko-sakaicity.or.jp/unclassified/post-5581/",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "keihanna-5",
+    "family": "keihanna",
+    "name": "第5回けいはんな音楽コンクール",
+    "subtitle": "童謡・声楽部門（奈良）",
+    "genres": [
+      "童謡",
+      "声楽"
+    ],
+    "ages": [
+      "幼児",
+      "小学生",
+      "中学生",
+      "高校生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "幼児（年少〜年長）・小学生・中学生・高校生、ミドルエイジの部（50歳以上）",
+    "region": "近畿",
+    "place": "奈良市北部会館 市民文化ホール（本選）",
+    "method": "video-venue",
+    "start": "2026-11-08",
+    "deadline": "2026-12-06",
+    "eventDate": "2027-02-14",
+    "eventText": "予選は動画（11/8〜12/6）、予選結果 1/4、本選 2027年2月14日",
+    "feeMin": 5000,
+    "feeMax": 11000,
+    "feeText": "予選5,000円、本選8,000円、ミドルエイジ（本選のみ）11,000円。別途手数料",
+    "restriction": "童謡部門は指定曲リストから1曲（本選の曲変更不可）。声楽・ミドルエイジは自由曲。時間 幼児2分〜中高生・ミドルエイジ5分。ミドルエイジは予選なし",
+    "source": "https://keihanna-music.com/",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "grandir-2026-vocal",
+    "family": "grandir",
+    "name": "2026年度 グランディール音楽コンクール",
+    "subtitle": "声楽部門（動画審査）",
+    "genres": [
+      "声楽"
+    ],
+    "ages": [
+      "幼児",
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "未就学〜音大・一般（年齢制限なし、各部門の学年・年齢による）",
+    "region": "全国（動画）",
+    "place": "動画審査",
+    "method": "video",
+    "start": "2026-06-01",
+    "deadline": "2027-02-20",
+    "eventDate": "",
+    "eventText": "本選 2026年12月28日〜（動画本選結果 2027/2/1）、動画ファイナル結果 3/27、全国大会 2027年3月下旬予定",
+    "feeMin": 10000,
+    "feeMax": null,
+    "feeText": "予選 音大・一般 10,000円＋事務手数料1,000円（会員は手数料なし）。他部門は公式参照",
+    "restriction": "声楽は動画審査のみ。暗譜。予選と本選（全国）で同じ曲は不可。うた・ソプラノ・アルト・テノール・バリトンの区分",
+    "source": "https://grandirconcours.com/",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "isac-junior-3",
+    "family": "isac-junior",
+    "name": "第3回 ISAC国際ジュニア音楽コンクール 2027",
+    "subtitle": "オンライン（声楽・器楽）",
+    "genres": [
+      "声楽"
+    ],
+    "ages": [
+      "幼児",
+      "小学生",
+      "中学生",
+      "高校生"
+    ],
+    "ageText": "申込時3〜17歳",
+    "region": "全国（動画）",
+    "place": "動画審査",
+    "method": "video",
+    "start": "",
+    "deadline": "2027-01-31",
+    "eventDate": "",
+    "eventText": "動画締切 2027年1月31日 23:59（GMT）、結果発表 3月末予定",
+    "feeMin": 5000,
+    "feeMax": 7000,
+    "feeText": "1演奏5,000円（締切前14日間は7,000円）、講評は+3,000円",
+    "restriction": "自由曲1曲・30秒〜10分の無編集動画（YouTube等）。無伴奏・生伴奏・録音伴奏いずれも可。暗譜は任意",
+    "source": "https://en.iseshimaart.com/competition-for-youngmusicians",
+    "checked": "2026-11-07"
+  },
+  {
+    "id": "okiden-sugarhall-32",
+    "family": "okiden-sugarhall",
+    "name": "第32回おきでんシュガーホール新人演奏会オーディション",
+    "subtitle": "声楽部門ほか（沖縄）",
+    "genres": [
+      "声楽"
+    ],
+    "ages": [
+      "大学生",
+      "おとな"
+    ],
+    "ageText": "声楽は20〜28歳（オーディション年の4月1日時点）",
+    "region": "九州・沖縄",
+    "place": "沖縄県南城市（シュガーホール）",
+    "method": "venue",
+    "start": "",
+    "deadline": "",
+    "eventDate": "",
+    "eventText": "募集は例年10月頃〜1月初旬。録音による予備審査→2027年3月オーディション→5〜6月 新人演奏会",
+    "feeMin": 12000,
+    "feeMax": 12000,
+    "feeText": "参加料12,000円",
+    "restriction": "予備審査は録音。オーディションは公開・暗譜、声楽10分以内（伴奏者は各自）。国籍不問。過去の大賞・優秀賞受賞者や主要コンクール上位入賞者は不可",
+    "source": "https://www.city.nanjo.okinawa.jp/sugarhall/okiden/",
+    "checked": "2026-11-07"
   }
 ]
