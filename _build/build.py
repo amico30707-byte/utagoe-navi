@@ -242,7 +242,7 @@ page('/concours/', '歌のコンクールさがし｜子どもからシニアま
 # ---------------------------------------------------------------- top
 top = open(f'{ROOT}/top/template.html').read()
 d = json.load(open(f'{ROOT}/top/data.json'))
-top = top.replace('__DATA__', json.dumps(d, ensure_ascii=False)).replace('__NCLS__', '1,988').replace('__NCON__', '132')
+top = top.replace('__DATA__', json.dumps(d, ensure_ascii=False)).replace('__NCLS__', '1,988').replace('__NCON__', '132').replace('__NEW__', '\n'.join(f'<a href="/{a["slug"]}/">{esc(a["title"])}</a>' for a in arts[::-1][:5]))
 top = top.replace('<h1 class="ut-h">', '<h1 class="ut-h">', 1)
 page('/', SITE, '全国の歌の教室・ボイトレ教室・合唱団と、歌のコンクールを、お子様からシニアの方までさがせるサイトです。動画で出られる「こどもの歌声グランプリ」も開いています。',
      top, jsonld=[{"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": DOMAIN + '/',

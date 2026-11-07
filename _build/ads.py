@@ -17,6 +17,7 @@ ADS = {
   'avalon': ad('4BGDZ7+941Y6Q+4FRO+60OXE', 'www16', '【アバロンミュージックスクール】'),
   'tsubaki':ad('3N1YIE+EHJQPE+4N3U+5YRHE', 'www15', '【椿音楽教室】'),
   'wacca':  ad('4BGDZ7+9A0A8I+5OGK+5YJRM', 'www19', '東京のボイトレならWACCA MUSIC SCHOOL'),
+  'theatre':ad('3BQDI1+6DTFDE+1E2S+6ARKY', 'www14', '【テアトルアカデミー】演技・ダンス・ヴォーカル・声優のレッスン'),
 }
 PR = '<span class="pr-tag">PR</span>'
 START, END = '<!--ads-start-->', '<!--ads-end-->'
@@ -58,16 +59,21 @@ for p in glob.glob('kyoshitsu/*/index.html'):
     s = s[:i+6] + b + s[i+6:]
     save(p, s); n += 1
 
-# 3) ボイトレ・おとな・シニアの記事：本文のおわりに案内
+# 3) ボイトレ・おとな・シニアの記事、ミュージカル・進路の記事：本文のおわりに案内
 for p in glob.glob('*/index.html'):
     s = open(p).read()
     if '<article class="art' not in s or 'voitore-kyoshitsu-hikaku' in p: continue
     tags = re.findall(r'href="/tag/([a-z]+)/"', s[s.find('art-tags'):s.find('art-tags')+600]) if 'art-tags' in s else []
-    if not set(tags) & {'voitore', 'otona', 'senior'}: continue
-    s = strip(s)
-    b = box('ボイトレの無料体験ができる教室', '体験レッスンで先生との相性をたしかめるのが、いちばんの近道です。',
-            ['sheer', 'nayutas', 'tsubaki', 'avalon'])
-    i = s.find('<p class="art-tags">')
-    s = s[:i] + b + s[i:]
-    save(p, s); n += 1
+    boxes = ''
+    if set(tags) & {'voitore', 'otona', 'senior'}:
+        boxes += box('ボイトレの無料体験ができる教室', '体験レッスンで先生との相性をたしかめるのが、いちばんの近道です。',
+                     ['sheer', 'nayutas', 'tsubaki', 'avalon'])
+    if 'musical' in tags or p.split('/')[0] in ('kodomo-musical', 'uta-shinro'):
+        boxes += box('歌だけでなく、演技やダンスも習いたいときは', '歌・演技・ダンスをまとめて習えるところもあります。くわしくは公式サイトでたしかめてください。', ['theatre'])
+    new = strip(s)
+    if boxes:
+        i = new.find('<p class="art-tags">')
+        new = new[:i] + boxes + new[i:]
+    if new != s:
+        save(p, new); n += 1
 print('pages updated:', n)

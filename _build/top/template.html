@@ -1,0 +1,157 @@
+<div id="utop">
+<style>
+#utop{--ac:#B9530F;--nv:#1F3A5F;--rose:#A3335A;--bg:#FFFBF5;--ln:#EADCC8;--tx:#1F2A37;--sub:#4B5563;font-family:'Noto Sans JP','Hiragino Kaku Gothic ProN','Hiragino Sans',Meiryo,sans-serif;color:var(--tx);background:var(--bg);line-height:1.7;max-width:960px;margin:0 auto;padding:0 0 24px}
+#utop *{box-sizing:border-box}
+#utop a{color:var(--nv)}
+#utop .ut-h{font-family:'Zen Maru Gothic','Hiragino Maru Gothic ProN',sans-serif;font-weight:700;color:var(--nv);margin:0}
+#utop .ut-band{display:none;align-items:center;justify-content:space-between;gap:8px;padding:12px 16px;background:var(--rose);color:#fff;text-decoration:none;font-weight:700;font-size:15px}
+#utop .ut-band.on{display:flex}
+#utop .ut-hero{padding:28px 20px 22px}
+#utop .ut-kicker{margin:0 0 8px;font-size:15px;color:#8A4B14;font-weight:700}
+#utop h1.ut-h{font-size:clamp(26px,5vw,36px);line-height:1.45}
+#utop .ut-search{display:flex;gap:8px;margin-top:18px;max-width:620px}
+#utop .ut-search input{flex:1;min-width:0;height:54px;padding:0 14px;border:2px solid var(--ln);border-radius:12px;font-size:16px;background:#fff;color:var(--tx)}
+#utop .ut-search button{height:54px;padding:0 20px;border:0;border-radius:12px;background:var(--nv);color:#fff;font-size:17px;font-weight:700;cursor:pointer}
+#utop .ut-sr{position:absolute;left:-9999px}
+#utop .ut-sec{padding:30px 16px 0}
+#utop .ut-sec>.ut-h{font-size:21px;margin-bottom:12px}
+#utop .ut-big{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;padding:0 16px}
+#utop .ut-big a{display:flex;align-items:center;gap:14px;padding:18px;border-radius:16px;text-decoration:none;color:#fff;min-height:88px}
+#utop .ut-big a:hover{filter:brightness(1.08)}
+#utop .ut-big b{display:block;font-family:'Zen Maru Gothic',sans-serif;font-size:21px;font-weight:700}
+#utop .ut-big small{font-size:14px}
+#utop .ut-ages{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+@media(min-width:720px){#utop .ut-ages{grid-template-columns:repeat(4,minmax(0,1fr))}}
+#utop .ut-ages a{display:flex;flex-direction:column;gap:4px;padding:16px;min-height:124px;background:#fff;border:2px solid #EFE3D2;border-radius:16px;text-decoration:none;color:var(--tx)}
+#utop .ut-ages a:hover{border-color:var(--ac)}
+#utop .ut-ages i{width:40px;height:40px;border-radius:20px;display:flex;align-items:center;justify-content:center;font-style:normal;font-family:'Zen Maru Gothic',sans-serif;font-size:17px;font-weight:700}
+#utop .ut-ages b{font-family:'Zen Maru Gothic',sans-serif;font-size:20px}
+#utop .ut-ages small{font-size:13px;color:var(--sub)}
+#utop .ut-gp{margin:28px 16px 0;padding:20px;background:#fff;border:2px solid #F1D3DC;border-radius:18px}
+#utop .ut-gp .ut-k{font-size:14px;color:#8A2A4C;font-weight:700}
+#utop .ut-gp .ut-h{color:var(--tx);font-size:23px;margin:4px 0 6px}
+#utop .ut-gp p{margin:0 0 14px;font-size:16px}
+#utop .ut-btn{display:flex;align-items:center;justify-content:center;height:52px;border-radius:26px;background:var(--rose);color:#fff!important;font-size:17px;font-weight:700;text-decoration:none;max-width:360px}
+#utop details{background:#fff;border:1px solid var(--ln);border-radius:12px;margin-bottom:8px}
+#utop summary{cursor:pointer;padding:14px 16px;font-size:16px;font-weight:700;list-style:none;display:flex;justify-content:space-between}
+#utop summary::-webkit-details-marker{display:none}
+#utop summary::after{content:"＋";color:var(--ac)}
+#utop details[open] summary::after{content:"－"}
+#utop .ut-pl{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:6px;padding:0 12px 14px}
+#utop .ut-pl a{display:flex;justify-content:space-between;align-items:center;min-height:44px;padding:0 12px;border-radius:8px;background:#FFF5EA;text-decoration:none;font-size:15px}
+#utop .ut-pl span{font-size:12px;color:var(--sub)}
+#utop .ut-dl{display:flex;flex-direction:column;gap:10px}
+#utop .ut-dl a{display:flex;gap:12px;align-items:center;padding:14px;background:#fff;border:1px solid #F0E6D8;border-radius:12px;text-decoration:none;color:var(--tx)}
+#utop .ut-day{flex:none;width:60px;height:60px;border-radius:10px;background:#FDEBD9;color:#8A4B14;display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:12px;line-height:1.2}
+#utop .ut-day b{font-size:20px}
+#utop .ut-dl strong{display:block;font-size:16px;line-height:1.5}
+#utop .ut-dl small{font-size:13px;color:var(--sub)}
+#utop .ut-more{display:block;text-align:right;padding:12px 0;font-size:15px}
+#utop .ut-list{background:#fff;border:1px solid #F0E6D8;border-radius:14px}
+#utop .ut-list a{display:block;padding:15px 16px;font-size:16px;line-height:1.6;border-bottom:1px solid #F0E6D8}
+#utop .ut-list a:last-child{border-bottom:0}
+#utop .ut-me{margin:30px 16px 0;padding:20px;background:#EEF3F8;border-radius:16px}
+#utop .ut-me p{margin:8px 0;font-size:15px}
+#utop .ut-pr{margin:24px 16px 0;font-size:13px;color:var(--sub)}
+</style>
+
+<a class="ut-band" id="ut-band" href="/grandprix/"><span>こどもの歌声グランプリ 応募受付中（3/31まで）</span><span>見る</span></a>
+
+<section class="ut-hero">
+<p class="ut-kicker">お子様から シニアの方まで</p>
+<h1 class="ut-h">歌の教室とコンクールが<br>ここで ぜんぶ さがせます</h1>
+<form class="ut-search" action="/" method="get" role="search">
+<label class="ut-sr" for="ut-q">教室やコンクール、記事を さがす</label>
+<input id="ut-q" type="search" name="s" placeholder="地名・ジャンルなど">
+<button type="submit">さがす</button>
+</form>
+</section>
+
+<div class="ut-big">
+<a href="/kyoshitsu/" style="background:var(--ac)">
+<svg width="40" height="40" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z" fill="none" stroke="#fff" stroke-width="1.8"/><circle cx="12" cy="9.5" r="2.5" fill="none" stroke="#fff" stroke-width="1.8"/></svg>
+<span><b>歌の教室をさがす</b><small>全国__NCLS__か所 ・ ボイトレ・声楽・合唱</small></span></a>
+<a href="/concours/" style="background:var(--nv)">
+<svg width="40" height="40" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="5" width="16" height="15" rx="2" fill="none" stroke="#fff" stroke-width="1.8"/><path d="M4 10h16M9 3v4M15 3v4" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>
+<span><b>コンクールをさがす</b><small>__NCON__件 ・ しめきりの近い順にならべかえ</small></span></a>
+</div>
+
+<section class="ut-sec">
+<h2 class="ut-h">どなたが歌いますか？</h2>
+<div class="ut-ages">
+<a href="/tag/shogakusei/"><i style="background:#FCE3CF">こ</i><b>お子様</b><small>幼児・小学生</small></a>
+<a href="/tag/chugakusei/"><i style="background:#DCEAF7">中</i><b>中高生</b><small>部活や受験の合間に</small></a>
+<a href="/tag/otona/"><i style="background:#F6DDE4">お</i><b>おとな</b><small>大学生・社会人</small></a>
+<a href="/tag/senior/"><i style="background:#DCEFD9">シ</i><b>シニア</b><small>65歳以上の方</small></a>
+</div>
+</section>
+
+<section class="ut-gp">
+<span class="ut-k">動画で出られる歌のコンクール</span>
+<h2 class="ut-h">こどもの歌声グランプリ</h2>
+<p>幼児からシニアまで 8部門。出た方全員に講評をお届けします。審査員へのお礼はいりません。</p>
+<a class="ut-btn" href="/grandprix/">募集要項を見る</a>
+</section>
+
+<section class="ut-sec">
+<h2 class="ut-h">都道府県から さがす</h2>
+<div id="ut-regions"></div>
+</section>
+
+<section class="ut-sec">
+<h2 class="ut-h">しめきりが近いコンクール</h2>
+<div class="ut-dl" id="ut-dl"></div>
+<a class="ut-more" href="/concours/">コンクールを もっと見る</a>
+</section>
+
+<section class="ut-sec">
+<h2 class="ut-h">よく読まれている記事</h2>
+<div class="ut-list">
+<a href="/online-contest/">動画で出られる子どもの歌のコンクールまとめ</a>
+<a href="/sensei-orei/">声楽の先生へのお礼はいくら？ 相場とわたし方</a>
+<a href="/chugakusei-voitore/">中学生のボイトレ。声変わり・部活とのつきあい方</a>
+<a href="/senior-uta-hajimeru/">60代・70代から歌を習いたい。やさしいはじめかた</a>
+</div>
+<h2 class="ut-h" style="margin-top:28px">あたらしい記事</h2>
+<div class="ut-list">
+__NEW__
+</div>
+<p style="margin-top:10px"><a href="/articles/">記事をすべて見る</a></p>
+</section>
+
+<section class="ut-me">
+<h2 class="ut-h" style="font-size:18px">運営しているのは</h2>
+<p>歌のコンクールに、息子といっしょに たくさん出てきた母です。お礼や費用で なやんだ経験から、このサイトを作りました。</p>
+<a href="/about/">くわしいプロフィール</a>
+</section>
+
+<p class="ut-pr">本サイトはアフィリエイト広告（PR）をふくみます。</p>
+
+<script>
+(function(){
+var D=__DATA__;
+var now=new Date();now.setHours(0,0,0,0);
+var m=now.getMonth()+1;
+if(m===2||m===3){document.getElementById('ut-band').classList.add('on');}
+var R=[["北海道・東北",0,7],["関東",7,14],["中部",14,23],["近畿",23,30],["中国・四国",30,39],["九州・沖縄",39,47]];
+var h='';
+R.forEach(function(r){
+ var ps=D.p.slice(r[1],r[2]);
+ h+='<details><summary>'+r[0]+'</summary><div class="ut-pl">';
+ ps.forEach(function(p){h+='<a href="/kyoshitsu/'+p[1]+'/">'+p[0]+'<span>'+p[2]+'件</span></a>';});
+ h+='</div></details>';
+});
+document.getElementById('ut-regions').innerHTML=h;
+var meth={venue:'会場',video:'動画',"video-venue":'動画→会場'};
+var up=D.c.map(function(c){var t=new Date(c.d+'T00:00:00');return {c:c,n:Math.round((t-now)/864e5)};})
+ .filter(function(x){return x.n>=0;}).sort(function(a,b){return a.n-b.n;});
+var seen={};up=up.filter(function(x){var k=x.c.f||x.c.n;if(seen[k])return false;seen[k]=1;return true;}).slice(0,3);
+var esc=function(s){return String(s).replace(/[&<>"]/g,function(ch){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch];});};
+var o='';
+up.forEach(function(x){var c=x.c;
+ o+='<a href="/concours/"><span class="ut-day">'+(x.n===0?'<b>今日</b>':'あと<b>'+x.n+'</b>日')+'</span><span><strong>'+esc(c.n)+(c.s?'（'+esc(c.s)+'）':'')+'</strong><small>'+(meth[c.m]||'')+' ・ '+esc(c.a)+' ・ しめきり '+c.d.slice(5).replace('-','/')+'</small></span></a>';
+});
+document.getElementById('ut-dl').innerHTML=o||'<p>いま、しめきりの近いコンクールはありません。</p>';
+})();
+</script>
+</div>
