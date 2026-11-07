@@ -23,3 +23,4 @@ GitHub Pages で公開しています。`_build/` はページを作るための
 
 ## 都道府県ページの「近くで出られるコンクール」
 `python3 _build/region_contests.py` を、update_contests.py のあとに実行（くりかえし実行してよい）。
+`python3 _build/city_articles.py` を、region_contests.py のあとに実行（都道府県ページに地域の記事へのリンクを入れる。くりかえし実行してよい）。
