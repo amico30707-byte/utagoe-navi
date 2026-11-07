@@ -48,3 +48,11 @@ for pref, slugs in M.items():
         i = s.rfind('</main>'); s = s[:i] + box + s[i:]
     open(p, 'w', encoding='utf-8').write(s); n += 1
 print('city article boxes:', n)
+# 教室さがしのトップに、地域の記事まとめへのリンクを入れる
+p = os.path.join(ROOT, 'kyoshitsu', 'index.html')
+if os.path.exists(p) and os.path.exists(os.path.join(ROOT, 'chiiki-matome', 'index.html')):
+    s = open(p, encoding='utf-8').read()
+    s = re.sub(r'<!--hub-start-->.*?<!--hub-end-->', '', s, flags=re.S)
+    box = '<!--hub-start--><section class="city-box"><h2>地域ごとの「歌を習う」記事</h2><p><a href="/chiiki-matome/">都道府県別・歌の教室さがし記事まとめ</a>から、お住まいの地域の記事を読めます。</p></section><!--hub-end-->'
+    i = s.rfind('</main>'); s = s[:i] + box + s[i:]
+    open(p, 'w', encoding='utf-8').write(s); print('hub box added')
