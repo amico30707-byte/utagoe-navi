@@ -4540,7 +4540,8 @@
     "feeText": "公式サイトでご確認ください（12/30までの申込は予選費用1,000円引き・YouTube提出割引あり。公式伴奏 20,000円）",
     "restriction": "声楽部門はクラシックとミュージカル歌唱。参加料・演奏時間は公式サイトでご確認ください",
     "source": "https://www.cecilia-imc.com/en/entry/",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/cecilia-imc/"
   },
   {
     "id": "tiaa-concert98",
@@ -4569,7 +4570,8 @@
     "feeText": "参加申込金 3,300円／出演参加費 45,000円（4,000円のチケット15枚を含む・税込）",
     "restriction": "声楽は自由曲10分以内",
     "source": "https://www.tiaa-jp.com/tajcmc/",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/tiaa-concert/"
   },
   {
     "id": "tiaa-shinjin97",
@@ -4597,7 +4599,8 @@
     "feeText": "1人 13,000円（税込）",
     "restriction": "自由曲1曲（審査は出入り含め約6〜7分。声楽は5分未満の曲も可）",
     "source": "https://www.tiaa-jp.com/tfc/",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/tiaa-shinjin/"
   },
   {
     "id": "takarazuka-ticc42",
@@ -4628,7 +4631,8 @@
     "feeText": "予備審査料 1部門2,000円／参加料 ジュニア 団体20,000円＋1人1,000円、シニア・同声・混声 団体30,000円＋1人3,000円",
     "restriction": "8〜24名の合唱団（指揮者・伴奏者を除く）。5分以上10分以内。部門ごとに時代・無伴奏の曲の条件あり",
     "source": "https://takarazuka-c.jp/topics/t-ticc/entry-240.html",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/takarazuka-ticc/"
   },
   {
     "id": "dam-anikara2027",
@@ -4660,7 +4664,8 @@
     "feeText": "無料（カラオケ代・交通費などは自己負担）",
     "restriction": "アニソン・ゲーム主題歌・キャラソンなど。コラボ動画（最大6名）・コラボ録音（最大12名）も可。写真の添付が必要",
     "source": "https://www.clubdam.com/campaign/audition/ad202610_damanikarafes2027.html",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/dam-anikara/"
   },
   {
     "id": "koebato-budokan2027",
@@ -4686,13 +4691,14 @@
     "start": "2026-10-12",
     "deadline": "2026-12-26",
     "eventDate": "2027-02-21",
-    "eventText": "予選ウィーク（第3週 2026/12/14〜12/27）→セミファイナル 2027/1/11〜1/24→グランドファイナル 2/8〜2/21→グランプリは2027/3/15 日本武道館に出演",
+    "eventText": "アプリで動画投稿。予選は3週（10/12〜10/25、11/16〜11/29、12/14〜12/27、各回19:00〜21:59）。動画は各回の終了24時間前までに提出→グランプリは2027/3/15 日本武道館で歌唱。くわしくは公式サイトでご確認ください",
     "feeMin": null,
     "feeMax": null,
     "feeText": "公式サイトでご確認ください",
     "restriction": "アカペラグループ・ボーカルグループ・ソロ。オリジナル・カバー可。各ラウンド終了24時間前まで投稿可。審査にファンの応援も加味",
     "source": "https://www.mysta.co.jp/blog/2026/10/14/8590-2/",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/koebato-budokan/"
   },
   {
     "id": "kawasaki-shinjin9",
@@ -4720,6 +4726,7 @@
     "feeText": "1次予選 5,000円／2次予選・本選 25,000円",
     "restriction": "オペラアリア。本選は歌曲1曲＋提出アリア2曲から当日指定の1曲",
     "source": "https://preludio.co.jp/concert/2026/2581",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/kawasaki-shinjin/"
   }
 ]
