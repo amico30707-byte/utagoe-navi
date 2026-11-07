@@ -4002,7 +4002,8 @@
     "feeText": "1人1種目1,000円",
     "restriction": "東京都在住・60歳以上。カラオケ定員120名（超えた場合は抽選）。申込はWebまたは郵送（12/3必着）",
     "source": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026091812",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/tokyo-enjoy-karaoke/"
   },
   {
     "id": "kobe-imc-32",
@@ -4065,7 +4066,8 @@
     "feeText": "予選 講評なし11,000円／講評あり19,800円、本選19,800円（税込）",
     "restriction": "自由曲・10分以内（複数曲可）、自作曲不可、録音伴奏可、動画は無編集。重唱の人数は公式サイトでご確認ください",
     "source": "https://officesekkei.heteml.net/k-concours.org/unlimited_20.html",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/k-unlimited/"
   },
   {
     "id": "k-amateur-26",
@@ -4098,7 +4100,8 @@
     "feeText": "予選 講評なし11,000円／講評あり19,800円、本選19,800円（税込）",
     "restriction": "アマチュア限定。自由曲・10分以内、自作曲不可、楽譜使用可、録音伴奏可。重唱の人数は公式サイトでご確認ください",
     "source": "https://officesekkei.heteml.net/k-concours.org/amateur_26.html",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/k-amateur/"
   },
   {
     "id": "nami-nihon-kakyoku-24",
@@ -4130,7 +4133,8 @@
     "feeText": "15,000円",
     "restriction": "全曲暗譜。予選：山田耕筰の課題曲1曲＋自由曲（日本歌曲）計7分以内。本選：波の会歌曲選集からの課題曲＋自由曲 計13分以内（予選と別の曲）。伴奏者は各自同伴、移調可。過去の1位等は不可",
     "source": "https://nihonkakyokunaminokai.com/competition/260701-270831/",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/nami-nihon-kakyoku/"
   },
   {
     "id": "tokyo-musical-kasyou-10",
@@ -4188,12 +4192,13 @@
     "deadline": "2027-01-07",
     "eventDate": "2027-03-19",
     "eventText": "2027年3月19〜21日 部門別審査、22日 金賞団体による本選",
-    "feeMin": null,
-    "feeMax": null,
-    "feeText": "",
+    "feeMin": 1000,
+    "feeMax": 1000,
+    "feeText": "参加料 1人1,000円",
     "restriction": "都道府県合唱連盟の推薦（2/1必着）または公募審査（12/7〜1/7必着）。アンサンブル（小編成）が対象。人数・参加料は応募要項参照",
     "source": "https://www.pref.fukushima.lg.jp/sec/11055a/seigaku.html",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/seigaku-ensemble-contest/"
   },
   {
     "id": "harukon-2027-jusho",
@@ -4285,7 +4290,8 @@
     "feeText": "予選5,000円、本選8,000円、ミドルエイジ（本選のみ）11,000円。別途手数料",
     "restriction": "童謡部門は指定曲リストから1曲（本選の曲変更不可）。声楽・ミドルエイジは自由曲。時間 幼児2分〜中高生・ミドルエイジ5分。ミドルエイジは予選なし",
     "source": "https://keihanna-music.com/",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/keihanna-contest/"
   },
   {
     "id": "grandir-2026-vocal",
@@ -4317,7 +4323,8 @@
     "feeText": "予選 音大・一般 10,000円＋事務手数料1,000円（会員は手数料なし）。他部門は公式参照",
     "restriction": "声楽は動画審査のみ。暗譜。予選と本選（全国）で同じ曲は不可。うた・ソプラノ・アルト・テノール・バリトンの区分",
     "source": "https://grandirconcours.com/",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/grandir-seigaku/"
   },
   {
     "id": "isac-junior-3",
@@ -4346,7 +4353,8 @@
     "feeText": "1演奏5,000円（締切前14日間は7,000円）、講評は+3,000円",
     "restriction": "自由曲1曲・30秒〜10分の無編集動画（YouTube等）。無伴奏・生伴奏・録音伴奏いずれも可。暗譜は任意",
     "source": "https://en.iseshimaart.com/competition-for-youngmusicians",
-    "checked": "2026-11-07"
+    "checked": "2026-11-07",
+    "guide": "/isac-junior/"
   },
   {
     "id": "okiden-sugarhall-32",
