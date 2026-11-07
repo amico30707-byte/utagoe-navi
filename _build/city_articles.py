@@ -3,10 +3,10 @@
 import os, re, html, csv
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 M = {  # 県のslug: [記事のslug, ...]
- 'hokkaido':['sapporo-uta','senior-hokkaido','otona-hokkaido'],'miyagi':['sendai-uta'],'tokyo':['tokyo-uta','tama-uta','senior-tokyo','otona-tokyo'],
- 'kanagawa':['yokohama-uta','shonan-uta','senior-kanagawa','otona-kanagawa'],'saitama':['saitama-uta','senior-saitama'],'aichi':['nagoya-uta','aichi-uta','senior-aichi','otona-aichi'],
- 'osaka':['osaka-uta','osakafu-uta','senior-osaka','otona-osaka'],'fukuoka':['fukuoka-uta','kitakyushu-uta','senior-fukuoka','otona-fukuoka'],'hyogo':['kobe-uta','senior-hyogo','otona-hyogo'],
- 'kyoto':['kyoto-uta','senior-kyoto'],'hiroshima':['hiroshima-uta','senior-hiroshima'],'chiba':['chiba-uta','senior-chiba'],'shizuoka':['shizuoka-uta','senior-shizuoka','otona-shizuoka'],
+ 'hokkaido':['sapporo-uta','senior-hokkaido','otona-hokkaido','kodomo-gassho-hokkaido'],'miyagi':['sendai-uta'],'tokyo':['tokyo-uta','tama-uta','senior-tokyo','otona-tokyo','kodomo-gassho-tokyo'],
+ 'kanagawa':['yokohama-uta','shonan-uta','senior-kanagawa','otona-kanagawa','kodomo-gassho-kanagawa'],'saitama':['saitama-uta','senior-saitama'],'aichi':['nagoya-uta','aichi-uta','senior-aichi','otona-aichi','kodomo-gassho-aichi'],
+ 'osaka':['osaka-uta','osakafu-uta','senior-osaka','otona-osaka','kodomo-gassho-osaka'],'fukuoka':['fukuoka-uta','kitakyushu-uta','senior-fukuoka','otona-fukuoka','kodomo-gassho-fukuoka'],'hyogo':['kobe-uta','senior-hyogo','otona-hyogo','kodomo-gassho-hyogo'],
+ 'kyoto':['kyoto-uta','senior-kyoto'],'hiroshima':['hiroshima-uta','senior-hiroshima'],'chiba':['chiba-uta','senior-chiba'],'shizuoka':['shizuoka-uta','senior-shizuoka','otona-shizuoka','kodomo-gassho-shizuoka'],
  'niigata':['niigata-uta'],'okayama':['okayama-uta'],'kumamoto':['kumamoto-uta'],'gifu':['gifu-uta','senior-gifu'],
  'kagoshima':['kagoshima-uta'],'nagano':['nagano-uta'],
  'yamaguchi':['yamaguchi-uta'],'mie':['mie-uta'],'oita':['oita-uta'],'nara':['nara-uta'],
