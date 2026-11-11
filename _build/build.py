@@ -7,7 +7,9 @@ import re, os, json, csv, html, shutil, datetime
 ROOT = '/home/claude'
 OUT = f'{ROOT}/site'
 DOMAIN = 'https://utagoe-navi.jp'
-TODAY = '2026-11-04'
+import datetime as _dt, os as _os
+TODAY = (_dt.datetime.now(_dt.timezone.utc) + _dt.timedelta(hours=9)).date().isoformat()
+LASTMOD = {}
 SITE = 'うたごえナビ'
 
 if os.path.exists(OUT):
@@ -166,6 +168,12 @@ for n, it in enumerate(raw_items, start=1):
     body = re.sub(r'<p>\s*</p>', '', body)
     arts.append(dict(n=n, title=title, slug=slug, body=body, cat=cat[0] if cat else 'contest', tags=tags, desc=desc, date=pd))
 
+for a in arts:
+    mp = '/home/claude/wp-import/md/%s.md' % (('%02d' % a['n']) if a['n'] < 10 else a['n'])
+    d = a['date']
+    if _os.path.exists(mp):
+        d = max(d, (_dt.datetime.fromtimestamp(_os.path.getmtime(mp), _dt.timezone.utc) + _dt.timedelta(hours=9)).date().isoformat())
+    LASTMOD[f"{DOMAIN}/{a['slug']}/"] = d
 assert not any('【' in a['body'] for a in arts), [a['slug'] for a in arts if '【' in a['body']]
 
 AUTHOR = ('<aside class="author"><div class="author-ic" aria-hidden="true">う</div><div><p class="author-n">この記事を書いた人：うみ</p>'
@@ -297,7 +305,7 @@ with open(f'{OUT}/robots.txt', 'w') as f:
 with open(f'{OUT}/sitemap.xml', 'w') as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
     for u in sitemap:
-        f.write(f'<url><loc>{u}</loc><lastmod>{TODAY}</lastmod></url>\n')
+        f.write(f'<url><loc>{u}</loc><lastmod>{LASTMOD.get(u, TODAY)}</lastmod></url>\n')
     f.write('</urlset>\n')
 
 print('articles', len(arts), 'pages', len(sitemap), 'fills used', fill_used)

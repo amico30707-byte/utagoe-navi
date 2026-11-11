@@ -13,7 +13,8 @@ import os, re, json, csv, html, hashlib, collections, shutil, urllib.parse
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 DOMAIN = 'https://utagoe-navi.jp'
-TODAY = '2026-11-05'
+import datetime as _dt
+TODAY = (_dt.datetime.now(_dt.timezone.utc) + _dt.timedelta(hours=9)).date().isoformat()
 SITE = 'うたごえナビ'
 MIN_CITY = 3
 
