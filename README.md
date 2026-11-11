@@ -31,3 +31,4 @@ GitHub Pages で公開しています。`_build/` はページを作るための
 - 更新日と dateModified、sitemap の lastmod は、md ファイルを直した日を使う。
 - 記事の重なりチェック：`python3 /home/claude/simcheck.py 番号`（0.25 をこえたら書き直す）。
 - md を直したあとの公開：`/home/claude/repub.sh "メッセージ" 番号 番号 ...`
+- しめきりカレンダー：`python3 _build/deadline_page.py`（city_articles.py のあと）。/concours/shimekiri/ と /concours/shimekiri.ics をつくる。
