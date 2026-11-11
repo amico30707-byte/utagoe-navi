@@ -6,6 +6,7 @@ W=/tmp/claude-0/-home-claude/c7b1aa7e-094d-5d48-a807-2cdf8450c9b8/scratchpad/wxr
 cd /home/claude
 python3 $W/refresh.py "$@" | tail -c 200
 python3 site-build/build.py > /dev/null
+(cd utagoe-navi && git pull -q --rebase origin main)
 cp -r site/. utagoe-navi/
 cd utagoe-navi
 for s in kyoshitsu_pages ads update_contests region_contests city_articles deadline_page contest_pages; do python3 _build/$s.py > /dev/null; done
