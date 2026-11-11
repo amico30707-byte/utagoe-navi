@@ -175,13 +175,32 @@ CTA = ('<section class="cta"><h2>つぎの一歩を さがす</h2><div class="ct
        '<a href="/concours/" class="cta-b">コンクールをさがす<small>'+str(NCON)+'件</small></a>'
        '<a href="/grandprix/" class="cta-c">こどもの歌声グランプリ<small>動画で出られる</small></a></div></section>')
 
+def _bg(t):
+    t = re.sub(r'[。、？！?!・｜「」（）()\s]', '', t)
+    return {t[i:i+2] for i in range(len(t) - 1)}
+_BG = {a['slug']: _bg(a['title']) for a in arts}
+_USED = {}
+REL = {}
+for a in arts:
+    linked = set(re.findall(r'href="/([^/"]+)/"', a['body']))
+    sc = []
+    for b in arts:
+        if b is a or b['slug'] in linked: continue
+        A, B = _BG[a['slug']], _BG[b['slug']]
+        j = len(A & B) / max(1, len(A | B))
+        v = 10 * j + 3 * (b['cat'] == a['cat']) + len(set(a['tags']) & set(b['tags'])) - 0.4 * _USED.get(b['slug'], 0)
+        sc.append((v, b['n'], b))
+    sc.sort(key=lambda x: (-x[0], x[1]))
+    REL[a['slug']] = [b for _, _, b in sc[:4]]
+    for b in REL[a['slug']]: _USED[b['slug']] = _USED.get(b['slug'], 0) + 1
+
 def card(a):
     return (f'<a class="ac" href="/{a["slug"]}/"><span class="ac-c">{esc(CATS[a["cat"]])}</span>'
             f'<span class="ac-t">{esc(a["title"])}</span></a>')
 
 for a in arts:
     bc, bld = crumbs([(CATS[a['cat']], f'/category/{a["cat"]}/'), (a['title'], None)])
-    rel = [b for b in arts if b['cat'] == a['cat'] and b is not a][:4]
+    rel = REL[a['slug']]
     tagl = ''.join(f'<a href="/tag/{t}/">{esc(TAGS[t])}</a>' for t in a['tags'] if t in TAGS)
     body = (f'<article class="art wrap">{bc}'
             f'<p class="art-cat"><a href="/category/{a["cat"]}/">{esc(CATS[a["cat"]])}</a></p>'
