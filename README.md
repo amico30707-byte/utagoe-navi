@@ -32,3 +32,4 @@ GitHub Pages で公開しています。`_build/` はページを作るための
 - 記事の重なりチェック：`python3 /home/claude/simcheck.py 番号`（0.25 をこえたら書き直す）。
 - md を直したあとの公開：`/home/claude/repub.sh "メッセージ" 番号 番号 ...`
 - しめきりカレンダー：`python3 _build/deadline_page.py`（city_articles.py のあと）。/concours/shimekiri/ と /concours/shimekiri.ics をつくる。
+- 要項ボックス・一覧ページ：`python3 _build/contest_pages.py`（deadline_page.py のあと）。説明記事の上に「要項のまとめ」（Event構造化データつき）、/concours/list/{youji,shogakusei,chugakusei,koukousei,otona,senior,douga}/、/concours/shimekiri/YYYY-MM/ をつくる。

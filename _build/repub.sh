@@ -8,7 +8,7 @@ python3 $W/refresh.py "$@" | tail -c 200
 python3 site-build/build.py > /dev/null
 cp -r site/. utagoe-navi/
 cd utagoe-navi
-for s in kyoshitsu_pages ads update_contests region_contests city_articles; do python3 _build/$s.py > /dev/null; done
+for s in kyoshitsu_pages ads update_contests region_contests city_articles deadline_page contest_pages; do python3 _build/$s.py > /dev/null; done
 git add -A
 git commit -qm "$MSG
 
