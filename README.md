@@ -33,3 +33,4 @@ GitHub Pages で公開しています。`_build/` はページを作るための
 - md を直したあとの公開：`/home/claude/repub.sh "メッセージ" 番号 番号 ...`
 - しめきりカレンダー：`python3 _build/deadline_page.py`（city_articles.py のあと）。/concours/shimekiri/ と /concours/shimekiri.ics をつくる。
 - 要項ボックス・一覧ページ：`python3 _build/contest_pages.py`（deadline_page.py のあと）。説明記事の上に「要項のまとめ」（Event構造化データつき）、/concours/list/{youji,shogakusei,chugakusei,koukousei,otona,senior,douga}/、/concours/shimekiri/YYYY-MM/ をつくる。
+- チェックリスト：`python3 _build/checklist_pages.py`（contest_pages.py のあと）。/checklist/ と、もちもの・動画・見学メモの印刷できるページ。関係する記事に入口を入れる。
