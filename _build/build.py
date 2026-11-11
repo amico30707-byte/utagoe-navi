@@ -203,6 +203,9 @@ for a in arts:
     REL[a['slug']] = [b for _, _, b in sc[:4]]
     for b in REL[a['slug']]: _USED[b['slug']] = _USED.get(b['slug'], 0) + 1
 
+def _lm(a):
+    return LASTMOD.get(f"{DOMAIN}/{a['slug']}/", a['date'])
+
 def card(a):
     return (f'<a class="ac" href="/{a["slug"]}/"><span class="ac-c">{esc(CATS[a["cat"]])}</span>'
             f'<span class="ac-t">{esc(a["title"])}</span></a>')
@@ -214,7 +217,7 @@ for a in arts:
     body = (f'<article class="art wrap">{bc}'
             f'<p class="art-cat"><a href="/category/{a["cat"]}/">{esc(CATS[a["cat"]])}</a></p>'
             f'<h1>{esc(a["title"])}</h1>'
-            f'<p class="art-meta">更新日：{int(a["date"][:4])}年{int(a["date"][5:7])}月{int(a["date"][8:10])}日 ・ 書いた人：うみ</p>'
+            f'<p class="art-meta">更新日：{int(_lm(a)[:4])}年{int(_lm(a)[5:7])}月{int(_lm(a)[8:10])}日 ・ 書いた人：うみ</p>'
             f'<div class="art-body">{a["body"]}</div>'
             f'<p class="art-tags">{tagl}</p>'
             f'{AUTHOR}</article>'
@@ -222,7 +225,7 @@ for a in arts:
             + (f'<section class="rel"><h2>あわせて読みたい</h2><div class="acl">{"".join(card(b) for b in rel)}</div></section>' if rel else '')
             + '</div>')
     ld = [bld, {"@context": "https://schema.org", "@type": "Article", "headline": a['title'][:110],
-                "description": a['desc'], "datePublished": a["date"], "dateModified": a["date"],
+                "description": a['desc'], "datePublished": a["date"], "dateModified": _lm(a),
                 "author": {"@type": "Person", "name": "うみ", "url": DOMAIN + '/about/'},
                 "publisher": {"@type": "Organization", "name": "株式会社Bright Future Family"},
                 "mainEntityOfPage": f'{DOMAIN}/{a["slug"]}/'}]
