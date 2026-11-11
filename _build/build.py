@@ -161,12 +161,13 @@ for n, it in enumerate(raw_items, start=1):
     cat = re.findall(r'<category domain="category" nicename="([^"]+)"', it)
     tags = re.findall(r'<category domain="post_tag" nicename="([^"]+)"', it)
     desc = meta('meta_description', it)
+    seo = html.unescape(meta('title_idea', it)).strip()
     pd = (cdata('wp:post_date', it) or '2026-11-04')[:10]
     if pd < '2026-11-04': pd = '2026-11-04'
     body = body.replace(DOMAIN + '/', '/').replace(DOMAIN, '/')
     body = fix_placeholders(body)
     body = re.sub(r'<p>\s*</p>', '', body)
-    arts.append(dict(n=n, title=title, slug=slug, body=body, cat=cat[0] if cat else 'contest', tags=tags, desc=desc, date=pd))
+    arts.append(dict(n=n, title=title, slug=slug, body=body, cat=cat[0] if cat else 'contest', tags=tags, desc=desc, date=pd, seo=seo))
 
 for a in arts:
     mp = '/home/claude/wp-import/md/%s.md' % (('%02d' % a['n']) if a['n'] < 10 else a['n'])
@@ -225,7 +226,7 @@ for a in arts:
                 "author": {"@type": "Person", "name": "うみ", "url": DOMAIN + '/about/'},
                 "publisher": {"@type": "Organization", "name": "株式会社Bright Future Family"},
                 "mainEntityOfPage": f'{DOMAIN}/{a["slug"]}/'}]
-    page(f'/{a["slug"]}/', a['title'], a['desc'] or a['title'], body, jsonld=ld)
+    page(f'/{a["slug"]}/', a['title'], a['desc'] or a['title'], body, jsonld=ld, full_title=(f"{a['seo']}｜{SITE}" if a['seo'] and len(a['seo']) <= 42 else None))
 
 # article list / category / tag pages
 def listing(path, h1, lead, items, crumb):
