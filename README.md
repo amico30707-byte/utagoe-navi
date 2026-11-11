@@ -24,3 +24,10 @@ GitHub Pages で公開しています。`_build/` はページを作るための
 ## 都道府県ページの「近くで出られるコンクール」
 `python3 _build/region_contests.py` を、update_contests.py のあとに実行（くりかえし実行してよい）。
 `python3 _build/city_articles.py` を、region_contests.py のあとに実行（都道府県ページに地域の記事へのリンクを入れる。くりかえし実行してよい）。
+
+## 2026-11-11 の改善
+- 記事の「あわせて読みたい」は、タイトルの近さ・タグ・カテゴリで記事ごとに4本えらぶ（同じ記事ばかり出ないように調整）。
+- 記事の <title> は、XML の title_idea（短いタイトル案）を使う（42字以内のとき）。H1 は長いタイトルのまま。
+- 更新日と dateModified、sitemap の lastmod は、md ファイルを直した日を使う。
+- 記事の重なりチェック：`python3 /home/claude/simcheck.py 番号`（0.25 をこえたら書き直す）。
+- md を直したあとの公開：`/home/claude/repub.sh "メッセージ" 番号 番号 ...`
