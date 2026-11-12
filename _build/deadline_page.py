@@ -66,7 +66,7 @@ css = ('<style>.sk{max-width:760px;margin:0 auto;padding:0 16px 40px}.sk h1{font
 intro = (f'<h1>歌のコンクール しめきりカレンダー</h1>'
          f'<p>これからしめきりがくる歌のコンクールを、しめきりの近い順にならべました（{TODAY.year}年{TODAY.month}月{TODAY.day}日時点）。同じ大会で地区や部門がいくつかあるときは、いちばん近いしめきりをのせています。</p>'
          '<div class="sk-box"><p style="margin:0">「Googleカレンダーに入れる」をおすと、しめきりの日を自分のカレンダーに入れられます。'
-         'ぜんぶまとめてカレンダーに入れたいときは、<a href="/concours/shimekiri.ics">カレンダー用ファイル（.ics）</a>をつかってください。</p></div>'
+         'ぜんぶまとめてカレンダーに入れたいときは、<a href="/concours/shimekiri.ics">カレンダー用ファイル（.ics）</a>をつかってください。新しいしめきりを知りたいときは、<a href="/concours/shimekiri.xml">RSS</a>でも受けとれます。</p></div>'
          '<p>しめきりや参加費は変わることがあります。お申し込みの前に、かならず各コンクールの公式サイトでご確認ください。条件をしぼってさがすときは<a href="/concours/">コンクールさがし</a>へ。</p>')
 body = '<div class="wrap"><nav class="bc" aria-label="パンくずリスト"><a href="/">トップ</a> <span aria-hidden="true">›</span> <a href="/concours/">コンクールさがし</a> <span aria-hidden="true">›</span> <span>しめきりカレンダー</span></nav></div>' + css + '<div class="sk">' + intro + ''.join(rows) + \
        '<p style="margin-top:28px"><a href="/grandprix/">動画で出られる「こどもの歌声グランプリ」</a>もあります。</p></div>'
