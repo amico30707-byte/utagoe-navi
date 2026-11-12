@@ -187,3 +187,22 @@ sm = re.sub(r'<url><loc>' + re.escape(SITE) + r'/concours/(?:list/[a-z]+|shimeki
 sm = sm.replace('</urlset>', ''.join(f'<url><loc>{SITE}{u}</loc><lastmod>{TODAY.isoformat()}</lastmod></url>\n' for u in made) + '</urlset>')
 open(sp, 'w', encoding='utf-8').write(sm)
 print('list pages:', len(made))
+
+# ---------- 3. コンクールの記事に「しめきりが近いコンクール」 ----------
+soon = upcoming(lambda c: True)
+ns = 0
+for d0 in os.listdir(ROOT):
+    p = os.path.join(ROOT, d0, 'index.html')
+    if not os.path.isfile(p): continue
+    s = open(p, encoding='utf-8').read()
+    if 'href="/category/contest/">コンクール・発表の場</a></p>' not in s or '<section class="cta">' not in s: continue
+    s = re.sub(r'<!--sn-->.*?<!--/sn-->', '', s, flags=re.S)
+    pick = [(d, c) for d, c in soon if c.get('guide') != f'/{d0}/'][:3]
+    if not pick: continue
+    li = ''.join(f'<li><a href="{esc(c.get("guide") or c.get("source") or "/concours/")}">{esc(c["name"])}</a><br><small>しめきり {d.month}月{d.day}日（{WD[d.weekday()]}） ・ {esc(METHOD.get(c.get("method"), ""))}</small></li>' for d, c in pick)
+    box = ('<!--sn--><div class="wrap"><section style="background:#fff;border:1px solid #eadfce;border-radius:12px;padding:12px 16px;margin:16px 0">'
+           '<h2 style="font-size:1.05rem;margin:0 0 6px">しめきりが近いコンクール</h2><ul style="margin:0;padding-left:1.2em;line-height:1.7">' + li + '</ul>'
+           '<p style="margin:8px 0 0"><a href="/concours/shimekiri/">しめきりカレンダーを見る</a></p></section></div><!--/sn-->')
+    s = s.replace('<div class="wrap"><section class="cta">', box + '<div class="wrap"><section class="cta">', 1)
+    open(p, 'w', encoding='utf-8').write(s); ns += 1
+print('soon boxes:', ns)
