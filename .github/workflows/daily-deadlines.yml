@@ -18,6 +18,7 @@ jobs:
           python3 _build/region_contests.py
           python3 _build/deadline_page.py
           python3 _build/contest_pages.py
+          python3 _build/fee_page.py
           python3 _build/feed.py
       - run: |
           git config user.name "github-actions[bot]"

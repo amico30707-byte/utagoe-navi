@@ -9,7 +9,7 @@ python3 site-build/build.py > /dev/null
 (cd utagoe-navi && git stash -q; git pull -q --rebase origin main; git stash pop -q 2>/dev/null || true)
 cp -r site/. utagoe-navi/
 cd utagoe-navi
-for s in kyoshitsu_pages ads update_contests region_contests city_articles deadline_page contest_pages checklist_pages chain_fees dress_rental feed; do python3 _build/$s.py > /dev/null; done
+for s in kyoshitsu_pages ads update_contests region_contests city_articles deadline_page contest_pages checklist_pages chain_fees dress_rental fee_page feed; do python3 _build/$s.py > /dev/null; done
 git add -A
 git commit -qm "$MSG
 

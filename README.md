@@ -37,3 +37,4 @@ GitHub Pages で公開しています。`_build/` はページを作るための
 - 大手の教室の料金まとめ：`python3 _build/chain_fees.py`（checklist_pages.py のあと）。データは _build/kyoshitsu/chain-fees.json（公式サイトで確認した内容と出典URL）。/kyoshitsu/ryokin/ をつくる。
 - ドレスレンタルまとめ：`python3 _build/dress_rental.py`（chain_fees.py のあと）。データは _build/data/dress-rental.json（show が読者むけの文）。/dress-rental/ をつくる。
 - RSS：`python3 _build/feed.py`（さいご）。/feed.xml（新しい記事30本）と /concours/shimekiri.xml（しめきり順）。毎日の自動更新でも実行。
+- 参加費まとめ：`python3 _build/fee_page.py`（feed.py の前）。/concours/sankahi/。
