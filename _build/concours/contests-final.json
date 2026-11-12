@@ -5280,5 +5280,351 @@
     "source": "https://www.klassikwettbewerbbasel.info/page554331.html",
     "checked": "2026-11-12",
     "guide": "/basel-lieder/"
+  },
+  {
+    "id": "shimamura-guitarsenpai-2609",
+    "family": "shimamura-guitarsenpai",
+    "name": "ギターセンパイ弾き語り挑戦オーディション",
+    "subtitle": "今は歌だけ部門／ギター初心者部門／LIVEチャレンジ部門（島村楽器）",
+    "genres": [
+      "ポップス"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢の記載なし。「今は歌だけ部門」は楽器が弾けなくても歌のみでエントリー可。賞品は日本国内在住・国内配送が条件",
+    "region": "全国（動画）",
+    "place": "オンライン（YouTube・Instagram・TikTokに公開または限定公開で動画を上げ、URLをフォームで送る）",
+    "method": "video",
+    "start": "2026-09-18",
+    "deadline": "2027-01-11",
+    "eventDate": null,
+    "eventText": "応募 2026/9/18〜2027/1/11（月・祝）→合格者発表 2027年1月下旬予定（特設サイト・ギターセンパイ公式X）。各部門1名に島村楽器 J-300AⅡと参加型ライブ「100人フォーク」（2027年春開催予定）への参加権。応募者全員にギターセンパイ2週間体験ID",
+    "feeMin": 0,
+    "feeMax": 0,
+    "feeText": "無料",
+    "restriction": "課題曲22曲（ギターセンパイの無料レッスン曲。糸、マリーゴールド、3月9日、残酷な天使のテーゼ など）から選び、音源に合わせて演奏・歌唱した動画で応募。課題曲以外の音源は失格。ソロ・グループどちらも可。動画は審査のみに使用。合格者は広告・SNS露出への協力が必要",
+    "source": "https://www.shimamura.co.jp/p/service/guitarsenpai/2609-audition.html",
+    "checked": "2026-11-12",
+    "guide": null
+  },
+  {
+    "id": "kirakuyama-karaoke-12",
+    "family": "kirakuyama-karaoke",
+    "name": "第12回きらくやま新春カラオケ大会",
+    "subtitle": "つくばみらい市社会福祉協議会 主催",
+    "genres": [
+      "カラオケ・歌謡"
+    ],
+    "ages": [
+      "シニア"
+    ],
+    "ageText": "つくばみらい市在住の60歳以上",
+    "region": "関東",
+    "place": "茨城県つくばみらい市神生530 きらくやまふれあいの丘 世代ふれあいの館",
+    "method": "venue",
+    "start": "2026-10-31",
+    "deadline": "2026-12-04",
+    "eventDate": "2027-01-30",
+    "eventText": "申込 2026/10/31（土）〜12/4（金）、先着50名→大会 2027/1/30（土）9:30開場・10:00開始。ミラーボール・演出カラー選択・全曲スポットライト付き",
+    "feeMin": 3000,
+    "feeMax": 3000,
+    "feeText": "3,000円（昼食・参加賞付き）。申込時に会場受付へ現金で持参",
+    "restriction": "先着50名。申込は会場受付（9:00〜17:00、休館日を除く）へ参加費を持って来館",
+    "source": "https://www2.tm-shakyo.jp/2026/10/12-5.html",
+    "checked": "2026-11-12",
+    "guide": null
+  },
+  {
+    "id": "nhk-nodojiman-takasaki-2027",
+    "family": "nhk-nodojiman",
+    "name": "NHKのど自慢（群馬県高崎市）",
+    "subtitle": "群馬音楽センターで収録・2027/2/28放送",
+    "genres": [
+      "カラオケ・歌謡"
+    ],
+    "ages": [
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "中学生以上の、原則アマチュア（NHKの番組ページより）",
+    "region": "関東",
+    "place": "群馬県高崎市高松町28-2 群馬音楽センター",
+    "method": "venue",
+    "start": null,
+    "deadline": "2026-12-02",
+    "eventDate": "2027-01-24",
+    "eventText": "出場申込 2026/12/2（23:59）まで→予選を通過した約20組が出場→本番 2027/1/24（収録）→放送 2027/2/28（日）12:15〜13:00。観覧の申込は12/15まで",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "記載なし",
+    "restriction": "申込はNHK前橋放送局の専用WEBフォームのみ（電話・はがき不可）。詳細はNHK前橋放送局のサイトで確認",
+    "source": "https://www.city.takasaki.gunma.jp/page/98221.html",
+    "checked": "2026-11-12",
+    "guide": "/nodojiman-deru/"
+  },
+  {
+    "id": "bakky-kanteidan-nara-20261212",
+    "family": "bakky-kanteidan",
+    "name": "歌の鑑定団 カラオケ大会",
+    "subtitle": "奈良予選",
+    "genres": [
+      "カラオケ・歌謡"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢の記載なし",
+    "region": "関西",
+    "place": "奈良県奈良市（会場名の記載なし）",
+    "method": "venue",
+    "start": null,
+    "deadline": "2026-11-30",
+    "eventDate": "2026-12-12",
+    "eventText": "先着30組（埋まり次第締切）。申込締切 2026/11/30→予選 2026/12/12（12:00 OPEN）。決勝の時期はこの予選分は記載なし。申込はLivePocketのフォーム",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "記載なし",
+    "restriction": null,
+    "source": "https://www.bakky.net/kanteidan.html",
+    "checked": "2026-11-12",
+    "guide": null
+  },
+  {
+    "id": "bakky-kanteidan-wakayama-20270123",
+    "family": "bakky-kanteidan",
+    "name": "歌の鑑定団 カラオケ大会",
+    "subtitle": "和歌山予選",
+    "genres": [
+      "カラオケ・歌謡"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢の記載なし",
+    "region": "関西",
+    "place": "和歌山県和歌山市（会場名の記載なし）",
+    "method": "venue",
+    "start": null,
+    "deadline": "2027-01-05",
+    "eventDate": "2027-01-23",
+    "eventText": "先着30組（埋まり次第締切）。申込締切 2027/01/05→予選 2027/01/23（12:00 OPEN）。2027年1月以降の予選会の決勝大会は2027年12月開催予定。申込はLivePocketのフォーム",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "記載なし",
+    "restriction": null,
+    "source": "https://www.bakky.net/kanteidan.html",
+    "checked": "2026-11-12",
+    "guide": null
+  },
+  {
+    "id": "bakky-kanteidan-kishiwada-20270213",
+    "family": "bakky-kanteidan",
+    "name": "歌の鑑定団 カラオケ大会",
+    "subtitle": "岸和田予選",
+    "genres": [
+      "カラオケ・歌謡"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢の記載なし",
+    "region": "関西",
+    "place": "大阪府岸和田市（会場名の記載なし）",
+    "method": "venue",
+    "start": null,
+    "deadline": "2027-01-31",
+    "eventDate": "2027-02-13",
+    "eventText": "先着30組（埋まり次第締切）。申込締切 2027/01/31→予選 2027/02/13（12:00 OPEN）。2027年1月以降の予選会の決勝大会は2027年12月開催予定。申込はLivePocketのフォーム",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "記載なし",
+    "restriction": null,
+    "source": "https://www.bakky.net/kanteidan.html",
+    "checked": "2026-11-12",
+    "guide": null
+  },
+  {
+    "id": "bakky-kanteidan-himeji-20270307",
+    "family": "bakky-kanteidan",
+    "name": "歌の鑑定団 カラオケ大会",
+    "subtitle": "姫路予選",
+    "genres": [
+      "カラオケ・歌謡"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢の記載なし",
+    "region": "関西",
+    "place": "兵庫県姫路市（会場名の記載なし）",
+    "method": "venue",
+    "start": null,
+    "deadline": "2027-02-25",
+    "eventDate": "2027-03-07",
+    "eventText": "先着30組（埋まり次第締切）。申込締切 2027/02/25→予選 2027/03/07（12:00 OPEN）。2027年1月以降の予選会の決勝大会は2027年12月開催予定。申込はLivePocketのフォーム",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "記載なし",
+    "restriction": null,
+    "source": "https://www.bakky.net/kanteidan.html",
+    "checked": "2026-11-12",
+    "guide": null
+  },
+  {
+    "id": "bakky-kanteidan-otsu-20270327",
+    "family": "bakky-kanteidan",
+    "name": "歌の鑑定団 カラオケ大会",
+    "subtitle": "大津予選",
+    "genres": [
+      "カラオケ・歌謡"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢の記載なし",
+    "region": "関西",
+    "place": "滋賀県大津市（会場名の記載なし）",
+    "method": "venue",
+    "start": null,
+    "deadline": "2027-03-15",
+    "eventDate": "2027-03-27",
+    "eventText": "先着30組（埋まり次第締切）。申込締切 2027/03/15→予選 2027/03/27（12:00 OPEN）。2027年1月以降の予選会の決勝大会は2027年12月開催予定。申込はLivePocketのフォーム",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "記載なし",
+    "restriction": null,
+    "source": "https://www.bakky.net/kanteidan.html",
+    "checked": "2026-11-12",
+    "guide": null
+  },
+  {
+    "id": "bakky-kanteidan-kyoto-20270417",
+    "family": "bakky-kanteidan",
+    "name": "歌の鑑定団 カラオケ大会",
+    "subtitle": "京都予選",
+    "genres": [
+      "カラオケ・歌謡"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢の記載なし",
+    "region": "関西",
+    "place": "京都府京都市（会場名の記載なし）",
+    "method": "venue",
+    "start": null,
+    "deadline": "2027-04-05",
+    "eventDate": "2027-04-17",
+    "eventText": "先着30組（埋まり次第締切）。申込締切 2027/04/05→予選 2027/04/17（12:00 OPEN）。2027年1月以降の予選会の決勝大会は2027年12月開催予定。申込はLivePocketのフォーム",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "記載なし",
+    "restriction": null,
+    "source": "https://www.bakky.net/kanteidan.html",
+    "checked": "2026-11-12",
+    "guide": null
+  },
+  {
+    "id": "bakky-kanteidan-neyagawa-20270508",
+    "family": "bakky-kanteidan",
+    "name": "歌の鑑定団 カラオケ大会",
+    "subtitle": "寝屋川予選",
+    "genres": [
+      "カラオケ・歌謡"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢の記載なし",
+    "region": "関西",
+    "place": "大阪府寝屋川市（会場名の記載なし）",
+    "method": "venue",
+    "start": null,
+    "deadline": "2027-04-25",
+    "eventDate": "2027-05-08",
+    "eventText": "先着30組（埋まり次第締切）。申込締切 2027/04/25→予選 2027/05/08（12:00 OPEN）。2027年1月以降の予選会の決勝大会は2027年12月開催予定。申込はLivePocketのフォーム",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "記載なし",
+    "restriction": null,
+    "source": "https://www.bakky.net/kanteidan.html",
+    "checked": "2026-11-12",
+    "guide": null
+  },
+  {
+    "id": "bakky-kanteidan-sakai-20270529",
+    "family": "bakky-kanteidan",
+    "name": "歌の鑑定団 カラオケ大会",
+    "subtitle": "堺予選",
+    "genres": [
+      "カラオケ・歌謡"
+    ],
+    "ages": [
+      "小学生",
+      "中学生",
+      "高校生",
+      "大学生",
+      "おとな",
+      "シニア"
+    ],
+    "ageText": "年齢の記載なし",
+    "region": "関西",
+    "place": "大阪府堺市（会場名の記載なし）",
+    "method": "venue",
+    "start": null,
+    "deadline": "2027-05-15",
+    "eventDate": "2027-05-29",
+    "eventText": "先着30組（埋まり次第締切）。申込締切 2027/05/15→予選 2027/05/29（12:00 OPEN）。2027年1月以降の予選会の決勝大会は2027年12月開催予定。申込はLivePocketのフォーム",
+    "feeMin": null,
+    "feeMax": null,
+    "feeText": "記載なし",
+    "restriction": null,
+    "source": "https://www.bakky.net/kanteidan.html",
+    "checked": "2026-11-12",
+    "guide": null
   }
 ]

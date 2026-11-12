@@ -652,6 +652,78 @@ DESCRIPTION:くわしくは公式サイトでご確認ください https://shizu
 URL:https://shizuoka-jca.com/images/contest/2701youkou1.pdf
 END:VEVENT
 BEGIN:VEVENT
+UID:bakky-kanteidan-nara-20261212@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:しめきり：歌の鑑定団 カラオケ大会（奈良予選）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/kanteidan.html
+URL:https://www.bakky.net/kanteidan.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bakky-kanteidan-wakayama-20270123@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:しめきり：歌の鑑定団 カラオケ大会（和歌山予選）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/kanteidan.html
+URL:https://www.bakky.net/kanteidan.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bakky-kanteidan-kishiwada-20270213@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:しめきり：歌の鑑定団 カラオケ大会（岸和田予選）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/kanteidan.html
+URL:https://www.bakky.net/kanteidan.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bakky-kanteidan-himeji-20270307@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:しめきり：歌の鑑定団 カラオケ大会（姫路予選）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/kanteidan.html
+URL:https://www.bakky.net/kanteidan.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bakky-kanteidan-otsu-20270327@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:しめきり：歌の鑑定団 カラオケ大会（大津予選）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/kanteidan.html
+URL:https://www.bakky.net/kanteidan.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bakky-kanteidan-kyoto-20270417@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:しめきり：歌の鑑定団 カラオケ大会（京都予選）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/kanteidan.html
+URL:https://www.bakky.net/kanteidan.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bakky-kanteidan-neyagawa-20270508@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:しめきり：歌の鑑定団 カラオケ大会（寝屋川予選）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/kanteidan.html
+URL:https://www.bakky.net/kanteidan.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bakky-kanteidan-sakai-20270529@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:しめきり：歌の鑑定団 カラオケ大会（堺予選）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/kanteidan.html
+URL:https://www.bakky.net/kanteidan.html
+END:VEVENT
+BEGIN:VEVENT
 UID:harukon-2027-jusho@utagoe-navi.jp
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261202
@@ -659,6 +731,15 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:しめきり：春こん。2027（東京春のコーラスコンテスト）（声楽アンサンブルコンテスト 一般の部 重唱部門）
 DESCRIPTION:くわしくは公式サイトでご確認ください https://tokyochorus.com/event/springcontest/
 URL:https://tokyochorus.com/event/springcontest/
+END:VEVENT
+BEGIN:VEVENT
+UID:nhk-nodojiman-takasaki-2027@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:しめきり：NHKのど自慢（群馬県高崎市）（群馬音楽センターで収録・2027/2/28放送）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.city.takasaki.gunma.jp/page/98221.html
+URL:https://www.city.takasaki.gunma.jp/page/98221.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-enjoy-karaoke-2027@utagoe-navi.jp
@@ -677,6 +758,15 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:しめきり：第36回 岩手県合唱小アンサンブルコンテスト（小学生・ジュニア／中学生／高等学校／一般部門）
 DESCRIPTION:くわしくは公式サイトでご確認ください https://iwate-choral-as.greater.jp/ens36-about/
 URL:https://iwate-choral-as.greater.jp/ens36-about/
+END:VEVENT
+BEGIN:VEVENT
+UID:kirakuyama-karaoke-12@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:しめきり：第12回きらくやま新春カラオケ大会（つくばみらい市社会福祉協議会 主催）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www2.tm-shakyo.jp/2026/10/12-5.html
+URL:https://www2.tm-shakyo.jp/2026/10/12-5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:keihanna-5@utagoe-navi.jp
@@ -929,6 +1019,15 @@ DTEND;VALUE=DATE:20270112
 SUMMARY:しめきり：DAMアニカラFes!!2027（DAM★とも×DAMアニメ部）（DAM★とも動画・録音で応募→ステージイベント（五反田））
 DESCRIPTION:くわしくは公式サイトでご確認ください https://www.clubdam.com/campaign/audition/ad202610_damanikarafes2027.html
 URL:https://www.clubdam.com/campaign/audition/ad202610_damanikarafes2027.html
+END:VEVENT
+BEGIN:VEVENT
+UID:shimamura-guitarsenpai-2609@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:しめきり：ギターセンパイ弾き語り挑戦オーディション（今は歌だけ部門／ギター初心者部門／LIVEチャレンジ部門（島村楽器））
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.shimamura.co.jp/p/service/guitarsenpai/2609-audition.html
+URL:https://www.shimamura.co.jp/p/service/guitarsenpai/2609-audition.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cecilia21@utagoe-navi.jp
