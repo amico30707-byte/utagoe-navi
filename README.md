@@ -35,3 +35,4 @@ GitHub Pages で公開しています。`_build/` はページを作るための
 - 要項ボックス・一覧ページ：`python3 _build/contest_pages.py`（deadline_page.py のあと）。説明記事の上に「要項のまとめ」（Event構造化データつき）、/concours/list/{youji,shogakusei,chugakusei,koukousei,otona,senior,douga}/、/concours/shimekiri/YYYY-MM/ をつくる。
 - チェックリスト：`python3 _build/checklist_pages.py`（contest_pages.py のあと）。/checklist/ と、もちもの・動画・見学メモの印刷できるページ。関係する記事に入口を入れる。
 - 大手の教室の料金まとめ：`python3 _build/chain_fees.py`（checklist_pages.py のあと）。データは _build/kyoshitsu/chain-fees.json（公式サイトで確認した内容と出典URL）。/kyoshitsu/ryokin/ をつくる。
+- ドレスレンタルまとめ：`python3 _build/dress_rental.py`（chain_fees.py のあと）。データは _build/data/dress-rental.json（show が読者むけの文）。/dress-rental/ をつくる。
