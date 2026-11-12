@@ -418,6 +418,42 @@ DESCRIPTION:くわしくは公式サイトでご確認ください https://en.ga
 URL:https://en.gasca.org/products/2026japanprelim
 END:VEVENT
 BEGIN:VEVENT
+UID:gc-contest-2@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:しめきり：第2回 GC CONTEST（障がいのあるミュージシャンの音楽コンテスト）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://gcmco.net/contest/
+URL:https://gcmco.net/contest/
+END:VEVENT
+BEGIN:VEVENT
+UID:bakky-karaoke-tokyo@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:しめきり：優勝賞金100万円「全国カラオケ大会」（東京大会）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/karaokezenkoku.html
+URL:https://www.bakky.net/karaokezenkoku.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bakky-karaoke-fukuoka@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:しめきり：優勝賞金100万円「全国カラオケ大会」（福岡大会）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/karaokezenkoku.html
+URL:https://www.bakky.net/karaokezenkoku.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bakky-karaoke-osaka-1226@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:しめきり：優勝賞金100万円「全国カラオケ大会」（大阪大会）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.bakky.net/karaokezenkoku.html
+URL:https://www.bakky.net/karaokezenkoku.html
+END:VEVENT
+BEGIN:VEVENT
 UID:jcmcj52-tokyo2@utagoe-navi.jp
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261125
@@ -598,6 +634,15 @@ DESCRIPTION:くわしくは公式サイトでご確認ください https://www.t
 URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
+UID:okayama-vocal-ensemble-34@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:しめきり：第34回 岡山県ヴォーカルアンサンブルコンテスト（小学生・ジュニア／中学校／高等学校／女声／男声／混声）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://jcaokayama.sakura.ne.jp/youkou/2026/2026年度_アンコン開催要項.pdf
+URL:https://jcaokayama.sakura.ne.jp/youkou/2026/2026年度_アンコン開催要項.pdf
+END:VEVENT
+BEGIN:VEVENT
 UID:harukon-2027-jusho@utagoe-navi.jp
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261202
@@ -616,6 +661,15 @@ DESCRIPTION:くわしくは公式サイトでご確認ください https://www.m
 URL:https://www.metro.tokyo.lg.jp/information/press/2026/09/2026091812
 END:VEVENT
 BEGIN:VEVENT
+UID:iwate-ensemble-36@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:しめきり：第36回 岩手県合唱小アンサンブルコンテスト（小学生・ジュニア／中学生／高等学校／一般部門）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://iwate-choral-as.greater.jp/ens36-about/
+URL:https://iwate-choral-as.greater.jp/ens36-about/
+END:VEVENT
+BEGIN:VEVENT
 UID:keihanna-5@utagoe-navi.jp
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261206
@@ -623,6 +677,15 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:しめきり：第5回けいはんな音楽コンクール（童謡・声楽部門（奈良））
 DESCRIPTION:くわしくは公式サイトでご確認ください https://keihanna-music.com/
 URL:https://keihanna-music.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:nak-kayousai-42@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:しめきり：第42回 日本アマチュア歌謡祭（ジュニア大会／ミドル大会／グランプリ大会）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.nak.gr.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E7%AC%AC39%E5%9B%9E%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%9E%E3%83%81%E3%83%A5%E3%82%A2%E6%AD%8C%E8%AC%A1%E7%A5%AD%E5%9C%B0%E5%8C%BA%E4%BA%88%E9%81%B8%E4%BC%9A%E6%97%A5%E7%A8%8B
+URL:https://www.nak.gr.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E7%AC%AC39%E5%9B%9E%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%9E%E3%83%81%E3%83%A5%E3%82%A2%E6%AD%8C%E8%AC%A1%E7%A5%AD%E5%9C%B0%E5%8C%BA%E4%BA%88%E9%81%B8%E4%BC%9A%E6%97%A5%E7%A8%8B
 END:VEVENT
 BEGIN:VEVENT
 UID:k-unlimited-20@utagoe-navi.jp
@@ -688,6 +751,15 @@ DESCRIPTION:くわしくは公式サイトでご確認ください https://www.e
 URL:https://www.eve-hq.com/maestro-entry
 END:VEVENT
 BEGIN:VEVENT
+UID:himeji-kokyoshi-37@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:しめきり：第37回「交響詩ひめじ」合唱コンクール
+DESCRIPTION:くわしくは公式サイトでご確認ください https://parnassushall.himeji-culture.jp/hall_event/6619
+URL:https://parnassushall.himeji-culture.jp/hall_event/6619
+END:VEVENT
+BEGIN:VEVENT
 UID:nasunogahara-seigaku2@utagoe-navi.jp
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261215
@@ -695,6 +767,15 @@ DTEND;VALUE=DATE:20261216
 SUMMARY:しめきり：第2回 那須野が原声楽コンクール新人賞（旧・日光国際音楽祭声楽コンクール｜YouTube動画予選→本選（那須野が原ハーモニーホール））
 DESCRIPTION:くわしくは公式サイトでご確認ください https://www.nasu-hh.com/images/2026/01seigaku_bosyu.pdf
 URL:https://www.nasu-hh.com/images/2026/01seigaku_bosyu.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ticc-2027@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:しめきり：第9回 東京国際合唱コンクール（TICC 2027）（児童A-1・A-2／シニア／学校合唱部／ユース／室内合唱／同声合唱／混声合唱／現代音楽）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.ticctokyo.icot.or.jp/開催規程-2027
+URL:https://www.ticctokyo.icot.or.jp/開催規程-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:spain-ongaku-10-voice@utagoe-navi.jp
@@ -760,6 +841,15 @@ DESCRIPTION:くわしくは公式サイトでご確認ください https://www.s
 URL:https://www.shoko-sakaicity.or.jp/unclassified/post-5581/
 END:VEVENT
 BEGIN:VEVENT
+UID:kisuke-nodojiman-17@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:しめきり：第17回 キスケのど自慢大会
+DESCRIPTION:くわしくは公式サイトでご確認ください https://kisuke.com/kit/information/47966/
+URL:https://kisuke.com/kit/information/47966/
+END:VEVENT
+BEGIN:VEVENT
 UID:vocal-ensemble-fukushima-20@utagoe-navi.jp
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20270107
@@ -812,6 +902,15 @@ DTEND;VALUE=DATE:20270114
 SUMMARY:しめきり：第97回 東京国際芸術協会新人演奏会オーディション（オーディション（清瀬けやきホール）→新人演奏会）
 DESCRIPTION:くわしくは公式サイトでご確認ください https://www.tiaa-jp.com/tfc/
 URL:https://www.tiaa-jp.com/tfc/
+END:VEVENT
+BEGIN:VEVENT
+UID:specialvenue-tokyo-2027@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:しめきり：スペシャルヴェニュ国際音楽コンクール 東京オペラシティ2027（第25回受賞者演奏会）（ソロ・デュオ・室内楽（声楽も対象））
+DESCRIPTION:くわしくは公式サイトでご確認ください https://specialvenue.org/rules-tokyo-japanese
+URL:https://specialvenue.org/rules-tokyo-japanese
 END:VEVENT
 BEGIN:VEVENT
 UID:jacompa-kayou-senshuken@utagoe-navi.jp
@@ -884,6 +983,15 @@ DTEND;VALUE=DATE:20270305
 SUMMARY:しめきり：プリマヴェーラ声楽コンコルソ2027（ジュニア｜カント・クラッシコ（16歳以下・18歳以下）／ミュージカル（12歳以下・16歳以下・18歳以下））
 DESCRIPTION:くわしくは公式サイトでご確認ください https://ivctokyo.com/ccp/aboutcompetition
 URL:https://ivctokyo.com/ccp/aboutcompetition
+END:VEVENT
+BEGIN:VEVENT
+UID:nichii-concorso-63@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:しめきり：第63回 日伊声楽コンコルソ2027
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.nichii-concorso.com/news_detail.php?id=00112.xml
+URL:https://www.nichii-concorso.com/news_detail.php?id=00112.xml
 END:VEVENT
 BEGIN:VEVENT
 UID:grandprix-2027@utagoe-navi.jp
