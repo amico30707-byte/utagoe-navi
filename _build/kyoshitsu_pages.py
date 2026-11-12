@@ -168,7 +168,7 @@ for (pref, city), L in sorted(bycity.items(), key=lambda kv: (-len(kv[1]), kv[0]
     senior = sum(1 for e in L if 'senior' in e['ageTags'])
     online = sum(1 for e in L if e['online'].startswith('あり'))
     gtxt = '、'.join(f'{k}{v}件' for k, v in gc.most_common(5))
-    title = f'{city}の歌の教室・ボイトレ教室・合唱団{n}件'
+    title = (f'{pref}で県内に複数ある歌の教室・ボイトレ教室・合唱団{n}件' if city == '県内に複数' else f'{city}の歌の教室・ボイトレ教室・合唱団{n}件')
     desc = f'{pref}{city}の歌の教室・ボイトレ教室・声楽教室・合唱団を{n}件まとめました。子ども・おとな・シニアが受けられる教室、オンラインの有無がわかります（2026年11月時点）。'
     L2 = sorted(L, key=lambda e: (e['listingOnly'], e['name']))
     body = (f'<article class="art"><h1>{esc(title)}</h1>'
