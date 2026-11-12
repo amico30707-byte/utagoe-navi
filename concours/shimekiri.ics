@@ -4,71 +4,8 @@ PRODID:-//utagoe-navi.jp//shimekiri//JA
 X-WR-CALNAME:歌のコンクール しめきり（うたごえナビ）
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:kawai60-uta-kita-kanto-18@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:しめきり：第60回 カワイうたのコンクール（小山オーディション）
-DESCRIPTION:くわしくは公式サイトでご確認ください https://competition.kawai.jp/ucon/2027/kita-kanto
-URL:https://competition.kawai.jp/ucon/2027/kita-kanto
-END:VEVENT
-BEGIN:VEVENT
-UID:kawai60-uta-chubu-50@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:しめきり：第60回 カワイうたのコンクール（岐阜オーディション）
-DESCRIPTION:くわしくは公式サイトでご確認ください https://competition.kawai.jp/ucon/2027/chubu
-URL:https://competition.kawai.jp/ucon/2027/chubu
-END:VEVENT
-BEGIN:VEVENT
-UID:kawai60-uta-chubu-53@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:しめきり：第60回 カワイうたのコンクール（福井オーディション）
-DESCRIPTION:くわしくは公式サイトでご確認ください https://competition.kawai.jp/ucon/2027/chubu
-URL:https://competition.kawai.jp/ucon/2027/chubu
-END:VEVENT
-BEGIN:VEVENT
-UID:kawai60-uta-kansai-shikoku-55@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:しめきり：第60回 カワイうたのコンクール（姫路オーディション）
-DESCRIPTION:くわしくは公式サイトでご確認ください https://competition.kawai.jp/ucon/2027/kansai-shikoku
-URL:https://competition.kawai.jp/ucon/2027/kansai-shikoku
-END:VEVENT
-BEGIN:VEVENT
-UID:kawai60-uta-kansai-shikoku-56@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:しめきり：第60回 カワイうたのコンクール（梅田オーディション）
-DESCRIPTION:くわしくは公式サイトでご確認ください https://competition.kawai.jp/ucon/2027/kansai-shikoku
-URL:https://competition.kawai.jp/ucon/2027/kansai-shikoku
-END:VEVENT
-BEGIN:VEVENT
-UID:kawai60-uta-kansai-shikoku-57@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:しめきり：第60回 カワイうたのコンクール（京橋・茨木オーディション）
-DESCRIPTION:くわしくは公式サイトでご確認ください https://competition.kawai.jp/ucon/2027/kansai-shikoku
-URL:https://competition.kawai.jp/ucon/2027/kansai-shikoku
-END:VEVENT
-BEGIN:VEVENT
-UID:kawai60-uta-chugoku-70@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:しめきり：第60回 カワイうたのコンクール（山口オーディション）
-DESCRIPTION:くわしくは公式サイトでご確認ください https://competition.kawai.jp/ucon/2027/chugoku
-URL:https://competition.kawai.jp/ucon/2027/chugoku
-END:VEVENT
-BEGIN:VEVENT
 UID:kawai60-uta-tokyo-32@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:しめきり：第60回 カワイうたのコンクール（新宿オーディション）
@@ -77,7 +14,7 @@ URL:https://competition.kawai.jp/ucon/2027/tokyo
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-tokyo-33@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:しめきり：第60回 カワイうたのコンクール（立川オーディション）
@@ -86,7 +23,7 @@ URL:https://competition.kawai.jp/ucon/2027/tokyo
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-tokyo-34@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:しめきり：第60回 カワイうたのコンクール（山梨オーディション）
@@ -95,7 +32,7 @@ URL:https://competition.kawai.jp/ucon/2027/tokyo
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-tokyo-35@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:しめきり：第60回 カワイうたのコンクール（池袋オーディション）
@@ -104,7 +41,7 @@ URL:https://competition.kawai.jp/ucon/2027/tokyo
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-tokyo-36@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:しめきり：第60回 カワイうたのコンクール（城東オーディション）
@@ -113,7 +50,7 @@ URL:https://competition.kawai.jp/ucon/2027/tokyo
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kanagawa-40@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:しめきり：第60回 カワイうたのコンクール（厚木オーディション）
@@ -122,7 +59,7 @@ URL:https://competition.kawai.jp/ucon/2027/kanagawa
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kanagawa-43@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:しめきり：第60回 カワイうたのコンクール（横浜南オーディション）
@@ -131,7 +68,7 @@ URL:https://competition.kawai.jp/ucon/2027/kanagawa
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kansai-shikoku-63@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:しめきり：第60回 カワイうたのコンクール（岡山オーディション）
@@ -140,7 +77,7 @@ URL:https://competition.kawai.jp/ucon/2027/kansai-shikoku
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-chugoku-69@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:しめきり：第60回 カワイうたのコンクール（広島オーディション）
@@ -149,7 +86,7 @@ URL:https://competition.kawai.jp/ucon/2027/chugoku
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-tohoku-16@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:しめきり：第60回 カワイうたのコンクール（郡山オーディション）
@@ -158,7 +95,7 @@ URL:https://competition.kawai.jp/ucon/2027/tohoku
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-tohoku-10@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:しめきり：第60回 カワイうたのコンクール（仙台・仙台北オーディション）
@@ -167,7 +104,7 @@ URL:https://competition.kawai.jp/ucon/2027/tohoku
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-higashi-kanto-27@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:しめきり：第60回 カワイうたのコンクール（柏オーディション）
@@ -176,7 +113,7 @@ URL:https://competition.kawai.jp/ucon/2027/higashi-kanto
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-higashi-kanto-28@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:しめきり：第60回 カワイうたのコンクール（本八幡オーディション）
@@ -185,7 +122,7 @@ URL:https://competition.kawai.jp/ucon/2027/higashi-kanto
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kansai-shikoku-61@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:しめきり：第60回 カワイうたのコンクール（京都オーディション）
@@ -194,7 +131,7 @@ URL:https://competition.kawai.jp/ucon/2027/kansai-shikoku
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-chubu-49@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:しめきり：第60回 カワイうたのコンクール（三重オーディション）
@@ -203,7 +140,7 @@ URL:https://competition.kawai.jp/ucon/2027/chubu
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kansai-shikoku-67@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:しめきり：第60回 カワイうたのコンクール（宇和島オーディション）
@@ -212,7 +149,7 @@ URL:https://competition.kawai.jp/ucon/2027/kansai-shikoku
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-chugoku-73@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:しめきり：第60回 カワイうたのコンクール（松江オーディション）
@@ -221,7 +158,7 @@ URL:https://competition.kawai.jp/ucon/2027/chugoku
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-chubu-52@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:しめきり：第60回 カワイうたのコンクール（石川オーディション）
@@ -230,7 +167,7 @@ URL:https://competition.kawai.jp/ucon/2027/chubu
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-tohoku-12@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:しめきり：第60回 カワイうたのコンクール（山形オーディション）
@@ -239,7 +176,7 @@ URL:https://competition.kawai.jp/ucon/2027/tohoku
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-hokkaido-4@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:しめきり：第60回 カワイうたのコンクール（帯広オーディション）
@@ -248,7 +185,7 @@ URL:https://competition.kawai.jp/ucon/2027/hokkaido
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kansai-shikoku-54@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:しめきり：第60回 カワイうたのコンクール（神戸オーディション）
@@ -257,7 +194,7 @@ URL:https://competition.kawai.jp/ucon/2027/kansai-shikoku
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-chubu-51@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:しめきり：第60回 カワイうたのコンクール（富山オーディション）
@@ -266,7 +203,7 @@ URL:https://competition.kawai.jp/ucon/2027/chubu
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-hokkaido-0@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:しめきり：第60回 カワイうたのコンクール（旭川オーディション）
@@ -275,7 +212,7 @@ URL:https://competition.kawai.jp/ucon/2027/hokkaido
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-chugoku-74@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:しめきり：第60回 カワイうたのコンクール（米子オーディション）
@@ -284,7 +221,7 @@ URL:https://competition.kawai.jp/ucon/2027/chugoku
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-tokyo-31@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:しめきり：第60回 カワイうたのコンクール（城南オーディション）
@@ -293,7 +230,7 @@ URL:https://competition.kawai.jp/ucon/2027/tokyo
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-tokyo-37@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:しめきり：第60回 カワイうたのコンクール（松本オーディション）
@@ -302,7 +239,7 @@ URL:https://competition.kawai.jp/ucon/2027/tokyo
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-tokyo-38@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:しめきり：第60回 カワイうたのコンクール（長野オーディション）
@@ -311,7 +248,7 @@ URL:https://competition.kawai.jp/ucon/2027/tokyo
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-hokkaido-1@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:しめきり：第60回 カワイうたのコンクール（札幌オーディション）
@@ -320,7 +257,7 @@ URL:https://competition.kawai.jp/ucon/2027/hokkaido
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kyushu-80@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:しめきり：第60回 カワイうたのコンクール（北九州オーディション）
@@ -329,7 +266,7 @@ URL:https://competition.kawai.jp/ucon/2027/kyushu
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-hokkaido-2@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:しめきり：第60回 カワイうたのコンクール（函館オーディション）
@@ -338,7 +275,7 @@ URL:https://competition.kawai.jp/ucon/2027/hokkaido
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-hokkaido-3@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:しめきり：第60回 カワイうたのコンクール（釧路オーディション）
@@ -347,7 +284,7 @@ URL:https://competition.kawai.jp/ucon/2027/hokkaido
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-chubu-48@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:しめきり：第60回 カワイうたのコンクール（名古屋オーディション）
@@ -356,7 +293,7 @@ URL:https://competition.kawai.jp/ucon/2027/chubu
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kyushu-78@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:しめきり：第60回 カワイうたのコンクール（長崎オーディション）
@@ -365,7 +302,7 @@ URL:https://competition.kawai.jp/ucon/2027/kyushu
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kyushu-82@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:しめきり：第60回 カワイうたのコンクール（鹿児島オーディション）
@@ -374,7 +311,7 @@ URL:https://competition.kawai.jp/ucon/2027/kyushu
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kyushu-84@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:しめきり：第60回 カワイうたのコンクール（熊本オーディション）
@@ -383,7 +320,7 @@ URL:https://competition.kawai.jp/ucon/2027/kyushu
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kyushu-79@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:しめきり：第60回 カワイうたのコンクール（佐世保オーディション）
@@ -392,7 +329,7 @@ URL:https://competition.kawai.jp/ucon/2027/kyushu
 END:VEVENT
 BEGIN:VEVENT
 UID:kawai60-uta-kyushu-76@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:しめきり：第60回 カワイうたのコンクール（久留米オーディション）
@@ -401,7 +338,7 @@ URL:https://competition.kawai.jp/ucon/2027/kyushu
 END:VEVENT
 BEGIN:VEVENT
 UID:active-senior-4@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:しめきり：第4回アクティブシニアのための声楽コンクール（A部門（60〜69歳）・B部門（70〜79歳）・C部門（80歳以上））
@@ -410,7 +347,7 @@ URL:https://vecchi-allegri.com/jiman/
 END:VEVENT
 BEGIN:VEVENT
 UID:gasca-tokyo-2026winter@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:しめきり：GASCA 東京国際音楽コンクール 2026（冬季・東京決勝）（歌唱部門｜動画予選→東京決勝（渋谷））
@@ -419,7 +356,7 @@ URL:https://en.gasca.org/products/2026japanprelim
 END:VEVENT
 BEGIN:VEVENT
 UID:gc-contest-2@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:しめきり：第2回 GC CONTEST（障がいのあるミュージシャンの音楽コンテスト）
@@ -428,7 +365,7 @@ URL:https://gcmco.net/contest/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-karaoke-tokyo@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:しめきり：優勝賞金100万円「全国カラオケ大会」（東京大会）
@@ -437,7 +374,7 @@ URL:https://www.bakky.net/karaokezenkoku.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-karaoke-fukuoka@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:しめきり：優勝賞金100万円「全国カラオケ大会」（福岡大会）
@@ -446,7 +383,7 @@ URL:https://www.bakky.net/karaokezenkoku.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-karaoke-osaka-1226@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:しめきり：優勝賞金100万円「全国カラオケ大会」（大阪大会）
@@ -455,7 +392,7 @@ URL:https://www.bakky.net/karaokezenkoku.html
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-tokyo2@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（東京２予選｜声楽部門）
@@ -464,7 +401,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-osaka1@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（大阪１予選｜声楽部門）
@@ -473,7 +410,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-gunma@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（群馬予選｜声楽部門）
@@ -482,7 +419,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-shizuoka@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（静岡予選｜声楽部門）
@@ -491,7 +428,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-hyogo@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（兵庫予選｜声楽部門）
@@ -500,7 +437,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-saitama1@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（埼玉１予選｜声楽部門）
@@ -509,7 +446,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-tochigi@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（栃木予選｜声楽部門）
@@ -518,7 +455,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-gifu2@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（岐阜２予選｜声楽部門）
@@ -527,7 +464,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-osaka2@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（大阪２予選｜声楽部門）
@@ -536,7 +473,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-fukuoka@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（福岡予選｜声楽部門）
@@ -545,7 +482,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-hokkaido@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（北海道予選｜声楽部門）
@@ -554,7 +491,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-tokyo5@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（東京５予選｜声楽部門）
@@ -563,7 +500,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-kagawa@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（香川予選｜声楽部門）
@@ -572,7 +509,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-kumamoto@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（熊本予選｜声楽部門）
@@ -581,7 +518,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-ibaraki@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（茨城予選｜声楽部門）
@@ -590,7 +527,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-miyagi@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（宮城予選｜声楽部門）
@@ -599,7 +536,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-chiba3@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（千葉３予選｜声楽部門）
@@ -608,7 +545,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-kanagawa3@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（神奈川３予選｜声楽部門）
@@ -617,7 +554,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-aichi1@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（愛知１予選｜声楽部門）
@@ -626,7 +563,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcmcj52-okayama@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:しめきり：第52回全日本ジュニアクラシック音楽コンクール（岡山予選｜声楽部門）
@@ -635,7 +572,7 @@ URL:https://www.tiaa-jp.com/jcmcj/schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:okayama-vocal-ensemble-34@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:しめきり：第34回 岡山県ヴォーカルアンサンブルコンテスト（小学生・ジュニア／中学校／高等学校／女声／男声／混声）
@@ -644,7 +581,7 @@ URL:https://jcaokayama.sakura.ne.jp/youkou/2026/2026年度_アンコン開催要
 END:VEVENT
 BEGIN:VEVENT
 UID:shizuoka-vocal-ensemble-37@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:しめきり：第37回静岡県ヴォーカルアンサンブルコンテスト（ジュニアの部（小・中学生）／高校の部／一般の部）
@@ -653,7 +590,7 @@ URL:https://shizuoka-jca.com/images/contest/2701youkou1.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-kanteidan-nara-20261212@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:しめきり：歌の鑑定団 カラオケ大会（奈良予選）
@@ -662,7 +599,7 @@ URL:https://www.bakky.net/kanteidan.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-kanteidan-wakayama-20270123@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:しめきり：歌の鑑定団 カラオケ大会（和歌山予選）
@@ -671,7 +608,7 @@ URL:https://www.bakky.net/kanteidan.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-kanteidan-kishiwada-20270213@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:しめきり：歌の鑑定団 カラオケ大会（岸和田予選）
@@ -680,7 +617,7 @@ URL:https://www.bakky.net/kanteidan.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-kanteidan-himeji-20270307@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:しめきり：歌の鑑定団 カラオケ大会（姫路予選）
@@ -689,7 +626,7 @@ URL:https://www.bakky.net/kanteidan.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-kanteidan-otsu-20270327@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:しめきり：歌の鑑定団 カラオケ大会（大津予選）
@@ -698,7 +635,7 @@ URL:https://www.bakky.net/kanteidan.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-kanteidan-kyoto-20270417@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:しめきり：歌の鑑定団 カラオケ大会（京都予選）
@@ -707,7 +644,7 @@ URL:https://www.bakky.net/kanteidan.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-kanteidan-neyagawa-20270508@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:しめきり：歌の鑑定団 カラオケ大会（寝屋川予選）
@@ -716,7 +653,7 @@ URL:https://www.bakky.net/kanteidan.html
 END:VEVENT
 BEGIN:VEVENT
 UID:bakky-kanteidan-sakai-20270529@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:しめきり：歌の鑑定団 カラオケ大会（堺予選）
@@ -725,7 +662,7 @@ URL:https://www.bakky.net/kanteidan.html
 END:VEVENT
 BEGIN:VEVENT
 UID:harukon-2027-jusho@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:しめきり：春こん。2027（東京春のコーラスコンテスト）（声楽アンサンブルコンテスト 一般の部 重唱部門）
@@ -734,7 +671,7 @@ URL:https://tokyochorus.com/event/springcontest/
 END:VEVENT
 BEGIN:VEVENT
 UID:nhk-nodojiman-takasaki-2027@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:しめきり：NHKのど自慢（群馬県高崎市）（群馬音楽センターで収録・2027/2/28放送）
@@ -743,7 +680,7 @@ URL:https://www.city.takasaki.gunma.jp/page/98221.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-enjoy-karaoke-2027@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:しめきり：第6回「TOKYO縁（エン）ジョイ！」2027 東京都シニア・コミュニティ交流大会（カラオケ）（カラオケ・東京都）
@@ -752,7 +689,7 @@ URL:https://www.metro.tokyo.lg.jp/information/press/2026/09/2026091812
 END:VEVENT
 BEGIN:VEVENT
 UID:iwate-ensemble-36@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:しめきり：第36回 岩手県合唱小アンサンブルコンテスト（小学生・ジュニア／中学生／高等学校／一般部門）
@@ -761,7 +698,7 @@ URL:https://iwate-choral-as.greater.jp/ens36-about/
 END:VEVENT
 BEGIN:VEVENT
 UID:kirakuyama-karaoke-12@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:しめきり：第12回きらくやま新春カラオケ大会（つくばみらい市社会福祉協議会 主催）
@@ -770,7 +707,7 @@ URL:https://www2.tm-shakyo.jp/2026/10/12-5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:keihanna-5@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:しめきり：第5回けいはんな音楽コンクール（童謡・声楽部門（奈良））
@@ -779,7 +716,7 @@ URL:https://keihanna-music.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:nak-kayousai-42@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:しめきり：第42回 日本アマチュア歌謡祭（ジュニア大会／ミドル大会／グランプリ大会）
@@ -788,7 +725,7 @@ URL:https://www.nak.gr.jp/event/japanamateursongfestivalhowtoapply
 END:VEVENT
 BEGIN:VEVENT
 UID:k-unlimited-20@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:しめきり：第20回Kアンリミテッド音楽コンクール（声楽（独唱・重唱））
@@ -797,7 +734,7 @@ URL:https://officesekkei.heteml.net/k-concours.org/unlimited_20.html
 END:VEVENT
 BEGIN:VEVENT
 UID:k-amateur-26@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:しめきり：第26回Kアマチュア音楽コンクール（声楽（独唱・重唱））
@@ -806,7 +743,7 @@ URL:https://officesekkei.heteml.net/k-concours.org/amateur_26.html
 END:VEVENT
 BEGIN:VEVENT
 UID:yamanashi-yvec-28@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:しめきり：第28回山梨ヴォーカルアンサンブルコンテスト（YVEC）（小・中学校／高等学校／一般／おかあさん／ジュニア）
@@ -815,7 +752,7 @@ URL:https://www.y-jca.jp/events/yvec/28th_yvec.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:eve11-maestro-kitakanto@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:しめきり：全国英語歌唱コンクール 第11回大会（EVE vol.11）（北関東大会｜マエストロ部門（ソロ・グループ））
@@ -824,7 +761,7 @@ URL:https://www.eve-hq.com/maestro-entry
 END:VEVENT
 BEGIN:VEVENT
 UID:eve11-maestro-minamikanto@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:しめきり：全国英語歌唱コンクール 第11回大会（EVE vol.11）（南関東大会｜マエストロ部門（ソロ・グループ））
@@ -833,7 +770,7 @@ URL:https://www.eve-hq.com/maestro-entry
 END:VEVENT
 BEGIN:VEVENT
 UID:eve11-maestro-kansai@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:しめきり：全国英語歌唱コンクール 第11回大会（EVE vol.11）（関西大会｜マエストロ部門（ソロ・グループ））
@@ -842,7 +779,7 @@ URL:https://www.eve-hq.com/maestro-entry
 END:VEVENT
 BEGIN:VEVENT
 UID:eve11-maestro-chubu@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:しめきり：全国英語歌唱コンクール 第11回大会（EVE vol.11）（中部大会｜マエストロ部門（ソロ・グループ））
@@ -851,7 +788,7 @@ URL:https://www.eve-hq.com/maestro-entry
 END:VEVENT
 BEGIN:VEVENT
 UID:eve11-maestro-kyushu@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:しめきり：全国英語歌唱コンクール 第11回大会（EVE vol.11）（九州大会｜マエストロ部門（ソロ・グループ））
@@ -860,7 +797,7 @@ URL:https://www.eve-hq.com/maestro-entry
 END:VEVENT
 BEGIN:VEVENT
 UID:yamanashi-josei-harmony-50@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:しめきり：第50回全日本女声ハーモニーフェスティバル関東支部山梨県大会（女声合唱（おかあさん部門・一般部門）／旧おかあさんコーラス大会）
@@ -869,7 +806,7 @@ URL:https://www.y-jca.jp/events/mother/50th_mother.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:himeji-kokyoshi-37@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:しめきり：第37回「交響詩ひめじ」合唱コンクール
@@ -878,7 +815,7 @@ URL:https://parnassushall.himeji-culture.jp/hall_event/6619
 END:VEVENT
 BEGIN:VEVENT
 UID:gunma-vocal-ensemble-20@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:しめきり：第20回群馬県声楽アンサンブルコンテスト（小・中学校の部／高等学校の部／一般の部（同声・混声））
@@ -887,7 +824,7 @@ URL:https://gca.sakura.ne.jp/activity/4en/20/20enkai.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:nasunogahara-seigaku2@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:しめきり：第2回 那須野が原声楽コンクール新人賞（旧・日光国際音楽祭声楽コンクール｜YouTube動画予選→本選（那須野が原ハーモニーホール））
@@ -896,7 +833,7 @@ URL:https://www.nasu-hh.com/images/2026/01seigaku_bosyu.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:ticc-2027@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:しめきり：第9回 東京国際合唱コンクール（TICC 2027）（児童A-1・A-2／シニア／学校合唱部／ユース／室内合唱／同声合唱／混声合唱／現代音楽）
@@ -905,7 +842,7 @@ URL:https://www.ticctokyo.icot.or.jp/開催規程-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:spain-ongaku-10-voice@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:しめきり：第10回スペイン音楽国際コンクール（声楽部門）
@@ -914,7 +851,7 @@ URL:https://nihon-spain-ongaku-bunka-kyokai.net/sankayoukou/
 END:VEVENT
 BEGIN:VEVENT
 UID:doyo-music-2027w@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:しめきり：2027 冬のこども童謡コンクール（こどもソロ／フレンズ／ファミリー部門（動画審査））
@@ -923,7 +860,7 @@ URL:https://doyo-music.com/2027winter/
 END:VEVENT
 BEGIN:VEVENT
 UID:otona-douyou-winter-2026@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:しめきり：2026-27 冬 おとなのための童謡・唱歌コンクール（ソロ部門・重唱部門）
@@ -932,7 +869,7 @@ URL:https://g-doyo.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:basel-lieder-2027@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:しめきり：バーゼル国際歌曲コンクール2027（歌曲（リート）の声楽コンクール。1次・2次は動画審査、本選は東京）
@@ -941,7 +878,7 @@ URL:https://www.klassikwettbewerbbasel.info/page554331.html
 END:VEVENT
 BEGIN:VEVENT
 UID:romania-jr10-regional@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:しめきり：第10回ルーマニア国際ジュニア音楽コンクール（地区予選（国内10会場）｜F部門 声楽）
@@ -950,7 +887,7 @@ URL:https://r-ms.org/competition-jr/
 END:VEVENT
 BEGIN:VEVENT
 UID:romania-jr10-video@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:しめきり：第10回ルーマニア国際ジュニア音楽コンクール（動画審査｜F部門 声楽）
@@ -959,7 +896,7 @@ URL:https://r-ms.org/competition-jr/
 END:VEVENT
 BEGIN:VEVENT
 UID:koebato-budokan2027@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:しめきり：声バト！響け！日本武道館 アカペラオーディション2027（アプリで動画投稿→週ごとのランキング→グランプリは日本武道館で歌唱）
@@ -968,7 +905,7 @@ URL:https://www.mysta.co.jp/blog/2026/10/14/8590-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:utagassen-sakai-2027@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:しめきり：第1回 ギュっと団結！歌合戦!! IN SAKAI 2027（チーム対抗・福井県坂井市）
@@ -977,7 +914,7 @@ URL:https://www.shoko-sakaicity.or.jp/unclassified/post-5581/
 END:VEVENT
 BEGIN:VEVENT
 UID:kisuke-nodojiman-17@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:しめきり：第17回 キスケのど自慢大会
@@ -986,7 +923,7 @@ URL:https://kisuke.com/kit/information/47966/
 END:VEVENT
 BEGIN:VEVENT
 UID:vocal-ensemble-fukushima-20@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:しめきり：第20回声楽アンサンブルコンテスト全国大会（小学生・ジュニア／中学生／高等学校／一般部門）
@@ -995,7 +932,7 @@ URL:https://www.pref.fukushima.lg.jp/sec/11055a/seigaku.html
 END:VEVENT
 BEGIN:VEVENT
 UID:okiden-sugarhall-32@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:しめきり：第32回おきでんシュガーホール新人演奏会オーディション（声楽部門ほか（沖縄））
@@ -1004,7 +941,7 @@ URL:https://www.city.nanjo.okinawa.jp/sugarhall/okiden/
 END:VEVENT
 BEGIN:VEVENT
 UID:kawasaki-shinjin9@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:しめきり：第9回 かわさき新人声楽コンクール（音源審査→2次予選→本選（カルッツかわさき））
@@ -1013,7 +950,7 @@ URL:https://preludio.co.jp/concert/2026/2581
 END:VEVENT
 BEGIN:VEVENT
 UID:dam-anikara2027@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:しめきり：DAMアニカラFes!!2027（DAM★とも×DAMアニメ部）（DAM★とも動画・録音で応募→ステージイベント（五反田））
@@ -1022,7 +959,7 @@ URL:https://www.clubdam.com/campaign/audition/ad202610_damanikarafes2027.html
 END:VEVENT
 BEGIN:VEVENT
 UID:shimamura-guitarsenpai-2609@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:しめきり：ギターセンパイ弾き語り挑戦オーディション（今は歌だけ部門／ギター初心者部門／LIVEチャレンジ部門（島村楽器））
@@ -1031,7 +968,7 @@ URL:https://www.shimamura.co.jp/p/service/guitarsenpai/2609-audition.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cecilia21@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:しめきり：第21回 セシリア国際音楽コンクール東京2027（声楽部門）（動画予選→本選（クラシック声楽・ミュージカル歌唱））
@@ -1040,7 +977,7 @@ URL:https://www.cecilia-imc.com/en/entry/
 END:VEVENT
 BEGIN:VEVENT
 UID:tiaa-shinjin97@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:しめきり：第97回 東京国際芸術協会新人演奏会オーディション（オーディション（清瀬けやきホール）→新人演奏会）
@@ -1049,7 +986,7 @@ URL:https://www.tiaa-jp.com/tfc/
 END:VEVENT
 BEGIN:VEVENT
 UID:specialvenue-tokyo-2027@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:しめきり：スペシャルヴェニュ国際音楽コンクール 東京オペラシティ2027（第25回受賞者演奏会）（ソロ・デュオ・室内楽（声楽も対象））
@@ -1058,7 +995,7 @@ URL:https://specialvenue.org/rules-tokyo-japanese
 END:VEVENT
 BEGIN:VEVENT
 UID:jacompa-kayou-senshuken@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:しめきり：日本作曲家協会創立70周年記念事業「全国歌謡選手権大会」（ヤング・一般・シニア部門）
@@ -1067,7 +1004,7 @@ URL:https://www.jacompa.or.jp/blog/article/000325.php
 END:VEVENT
 BEGIN:VEVENT
 UID:isac-junior-3@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:しめきり：第3回 ISAC国際ジュニア音楽コンクール 2027（オンライン（声楽・器楽））
@@ -1076,7 +1013,7 @@ URL:https://en.iseshimaart.com/competition-for-youngmusicians
 END:VEVENT
 BEGIN:VEVENT
 UID:takarazuka-ticc42@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:しめきり：第42回 宝塚国際室内合唱コンクール（音源による予備審査→コンクール（宝塚ベガ・ホール））
@@ -1085,7 +1022,7 @@ URL:https://takarazuka-c.jp/topics/t-ticc/entry-240.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tiaa-concert98@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:しめきり：第98回 TIAA全日本クラシック音楽コンサート（音源審査→演奏会形式コンクール（第一生命ホール））
@@ -1094,7 +1031,7 @@ URL:https://www.tiaa-jp.com/tajcmc/
 END:VEVENT
 BEGIN:VEVENT
 UID:yakushiji-8@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:しめきり：第8回日本歌曲コンクールin薬師寺（2027）（日本歌曲（シニア賞あり：65歳以上））
@@ -1103,7 +1040,7 @@ URL:https://djkg.org/concours_jp.php
 END:VEVENT
 BEGIN:VEVENT
 UID:grandir-2026-vocal@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:しめきり：2026年度 グランディール音楽コンクール（声楽部門（動画審査））
@@ -1112,7 +1049,7 @@ URL:https://grandirconcours.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:primavera-2027-amatori@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:しめきり：プリマヴェーラ声楽コンコルソ2027（アマトーリ（愛好者部門）｜コラッロ・オパーレ・ルビーノ・ディアマンテ・ミュージカル）
@@ -1121,7 +1058,7 @@ URL:https://ivctokyo.com/ccp/aboutcompetition
 END:VEVENT
 BEGIN:VEVENT
 UID:primavera-2027-junior@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:しめきり：プリマヴェーラ声楽コンコルソ2027（ジュニア｜カント・クラッシコ（16歳以下・18歳以下）／ミュージカル（12歳以下・16歳以下・18歳以下））
@@ -1130,7 +1067,7 @@ URL:https://ivctokyo.com/ccp/aboutcompetition
 END:VEVENT
 BEGIN:VEVENT
 UID:nichii-concorso-63@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:しめきり：第63回 日伊声楽コンコルソ2027
@@ -1139,7 +1076,7 @@ URL:https://www.nichii-concorso.com/news_detail.php?id=00112.xml
 END:VEVENT
 BEGIN:VEVENT
 UID:grandprix-2027@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:しめきり：こどもの歌声グランプリ（幼児〜シニアの8部門｜ジャンル自由）
@@ -1148,7 +1085,7 @@ URL:https://utagoe-navi.jp/grandprix/
 END:VEVENT
 BEGIN:VEVENT
 UID:nakano-seigaku13@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:しめきり：第13回 なかの国際声楽コンクール（音源予選→本選（野方区民ホール））
@@ -1157,7 +1094,7 @@ URL:https://musica-nakano.net/
 END:VEVENT
 BEGIN:VEVENT
 UID:nami-nihon-kakyoku-24@utagoe-navi.jp
-DTSTAMP:20261112T000000Z
+DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 SUMMARY:しめきり：第24回日本歌曲コンクール（声楽部門（日本歌曲 波の会））
