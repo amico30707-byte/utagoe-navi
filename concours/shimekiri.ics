@@ -643,6 +643,15 @@ DESCRIPTION:くわしくは公式サイトでご確認ください https://jcaok
 URL:https://jcaokayama.sakura.ne.jp/youkou/2026/2026年度_アンコン開催要項.pdf
 END:VEVENT
 BEGIN:VEVENT
+UID:shizuoka-vocal-ensemble-37@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:しめきり：第37回静岡県ヴォーカルアンサンブルコンテスト（ジュニアの部（小・中学生）／高校の部／一般の部）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://shizuoka-jca.com/images/contest/2701youkou1.pdf
+URL:https://shizuoka-jca.com/images/contest/2701youkou1.pdf
+END:VEVENT
+BEGIN:VEVENT
 UID:harukon-2027-jusho@utagoe-navi.jp
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261202
@@ -706,6 +715,15 @@ DESCRIPTION:くわしくは公式サイトでご確認ください https://offic
 URL:https://officesekkei.heteml.net/k-concours.org/amateur_26.html
 END:VEVENT
 BEGIN:VEVENT
+UID:yamanashi-yvec-28@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:しめきり：第28回山梨ヴォーカルアンサンブルコンテスト（YVEC）（小・中学校／高等学校／一般／おかあさん／ジュニア）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.y-jca.jp/events/yvec/28th_yvec.pdf
+URL:https://www.y-jca.jp/events/yvec/28th_yvec.pdf
+END:VEVENT
+BEGIN:VEVENT
 UID:eve11-maestro-kitakanto@utagoe-navi.jp
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261210
@@ -751,6 +769,15 @@ DESCRIPTION:くわしくは公式サイトでご確認ください https://www.e
 URL:https://www.eve-hq.com/maestro-entry
 END:VEVENT
 BEGIN:VEVENT
+UID:yamanashi-josei-harmony-50@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:しめきり：第50回全日本女声ハーモニーフェスティバル関東支部山梨県大会（女声合唱（おかあさん部門・一般部門）／旧おかあさんコーラス大会）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.y-jca.jp/events/mother/50th_mother.pdf
+URL:https://www.y-jca.jp/events/mother/50th_mother.pdf
+END:VEVENT
+BEGIN:VEVENT
 UID:himeji-kokyoshi-37@utagoe-navi.jp
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261211
@@ -758,6 +785,15 @@ DTEND;VALUE=DATE:20261212
 SUMMARY:しめきり：第37回「交響詩ひめじ」合唱コンクール
 DESCRIPTION:くわしくは公式サイトでご確認ください https://parnassushall.himeji-culture.jp/hall_event/6619
 URL:https://parnassushall.himeji-culture.jp/hall_event/6619
+END:VEVENT
+BEGIN:VEVENT
+UID:gunma-vocal-ensemble-20@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:しめきり：第20回群馬県声楽アンサンブルコンテスト（小・中学校の部／高等学校の部／一般の部（同声・混声））
+DESCRIPTION:くわしくは公式サイトでご確認ください https://gca.sakura.ne.jp/activity/4en/20/20enkai.pdf
+URL:https://gca.sakura.ne.jp/activity/4en/20/20enkai.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:nasunogahara-seigaku2@utagoe-navi.jp
@@ -803,6 +839,15 @@ DTEND;VALUE=DATE:20261221
 SUMMARY:しめきり：2026-27 冬 おとなのための童謡・唱歌コンクール（ソロ部門・重唱部門）
 DESCRIPTION:くわしくは公式サイトでご確認ください https://g-doyo.org/
 URL:https://g-doyo.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:basel-lieder-2027@utagoe-navi.jp
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:しめきり：バーゼル国際歌曲コンクール2027（歌曲（リート）の声楽コンクール。1次・2次は動画審査、本選は東京）
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.klassikwettbewerbbasel.info/page554331.html
+URL:https://www.klassikwettbewerbbasel.info/page554331.html
 END:VEVENT
 BEGIN:VEVENT
 UID:romania-jr10-regional@utagoe-navi.jp
