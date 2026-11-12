@@ -35,6 +35,17 @@ sitemap = []
 
 CSS = open(f'{ROOT}/site-build/site.css').read()
 
+def _short_title(a):
+    # 検索結果で切れにくい長さにする（H1 はそのまま）。句の切れ目（。？、）でだけ切る
+    for t in (a.get('seo'), a['title']):
+        if t and len(t) <= 42: return f'{t}｜{SITE}'
+    t = a['title']
+    best = None
+    for k, ch in enumerate(t):
+        if ch in '。？！、' and 18 <= k <= 41 and t[k - 1] not in 'とのがをにでもや': best = k
+    if best is None: return None
+    return f'{t[:best + 1].rstrip("。、")}｜{SITE}'
+
 def page(path, title, desc, body, *, h1_in_body=True, jsonld=None, noindex=False, full_title=None):
     url = DOMAIN + path
     t = full_title or (f'{title}｜{SITE}' if title != SITE else SITE)
@@ -229,7 +240,7 @@ for a in arts:
                 "author": {"@type": "Person", "name": "うみ", "url": DOMAIN + '/about/'},
                 "publisher": {"@type": "Organization", "name": "株式会社Bright Future Family"},
                 "mainEntityOfPage": f'{DOMAIN}/{a["slug"]}/'}]
-    page(f'/{a["slug"]}/', a['title'], a['desc'] or a['title'], body, jsonld=ld, full_title=(f"{a['seo']}｜{SITE}" if a['seo'] and len(a['seo']) <= 42 else None))
+    page(f'/{a["slug"]}/', a['title'], a['desc'] or a['title'], body, jsonld=ld, full_title=_short_title(a))
 
 # article list / category / tag pages
 def listing(path, h1, lead, items, crumb):
