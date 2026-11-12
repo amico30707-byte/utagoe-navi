@@ -206,3 +206,23 @@ for d0 in os.listdir(ROOT):
     s = s.replace('<div class="wrap"><section class="cta">', box + '<div class="wrap"><section class="cta">', 1)
     open(p, 'w', encoding='utf-8').write(s); ns += 1
 print('soon boxes:', ns)
+
+# ---------- 4. まとめ記事に、しめきり順の一覧への入口 ----------
+LM = {'contest-list': ['youji', 'shogakusei', 'chugakusei'], 'online-contest': ['douga'], 'online-contest-yosa': ['douga'],
+      'utagoe-contest-otona': ['otona'], 'otona-seigaku-contest': ['otona'], 'senior-contest': ['senior'], 'senior-contest-matome': ['senior'],
+      'koukousei-uta-contest': ['koukousei'], 'chukousei-contest-matome': ['chugakusei', 'koukousei'],
+      'seigaku-contest-matome': ['shogakusei', 'chugakusei', 'koukousei', 'otona', 'senior']}
+PT = {s: h for s, h, _, _ in PAGES}
+nl = 0
+for slug, ls in LM.items():
+    p = os.path.join(ROOT, slug, 'index.html')
+    if not os.path.exists(p): continue
+    s = open(p, encoding='utf-8').read()
+    s = re.sub(r'<!--ln-->.*?<!--/ln-->', '', s, flags=re.S)
+    k = s.find('<h2', s.find('<div class="art-body">'))
+    if k < 0: continue
+    box = ('<!--ln--><p style="background:#fff8ef;border:1px solid #eadfce;border-radius:12px;padding:10px 14px">これからしめきりの大会を、しめきりの近い順に見るときは：' +
+           '、'.join(f'<a href="/concours/list/{x}/">{PT[x]}一覧</a>' for x in ls) + '</p><!--/ln-->')
+    s = s[:k] + box + s[k:]
+    open(p, 'w', encoding='utf-8').write(s); nl += 1
+print('list links:', nl)
