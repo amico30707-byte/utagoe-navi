@@ -16532,6 +16532,27 @@
   "senior": ""
  },
  {
+  "name": "T-GRACE CHOIR（ティ・グレイス・クワイア）",
+  "prefecture": "富山県",
+  "city": "富山市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "小学生〜大人、音楽経験不問",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://t-gracechoir.jimdofree.com/",
+  "note": "富山市民芸術創造センターで土曜夜に練習するゴスペルクワイア。2026年11月に25周年ライブ。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "合唱団クール・ファミーユ",
   "prefecture": "富山県",
   "city": "富山市",
@@ -16562,6 +16583,22 @@
   "online": "不明",
   "url": "https://www.gakuonju.com/",
   "note": "富山市で活動する混声合唱団。全パート募集中で特に男声歓迎、見学は連絡不要。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "女声合唱団「どるちえ」",
+  "prefecture": "富山県",
+  "city": "高岡市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "歌が好きな女性",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://takaoka-dolce.com/",
+  "note": "高岡市の女声合唱団。現在団員募集中。",
   "listingOnly": false,
   "senior": ""
  },
@@ -16896,6 +16933,36 @@
   "seniorCourse": ""
  },
  {
+  "name": "北日本新聞カルチャー教室「個人ボーカルレッスン（30分）」",
+  "prefecture": "富山県",
+  "city": "富山市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.kp-culture.jp/?tid=100705",
+  "note": "アーバン校で声楽家・野上聡子講師が指導する個人レッスン。第2・4月曜午後。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "北日本新聞カルチャー教室「歌って元気に！健康うたごえ教室」",
+  "prefecture": "富山県",
+  "city": "富山市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "童謡"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.kp-culture.jp/?tid=100816",
+  "note": "アーバン校の新設講座。唱歌・童謡・ポップスをみんなで歌う、第2・4木曜午前。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "富山新聞文化センター「ソプラノ歌手によるボイストレーニング」",
   "prefecture": "富山県",
   "city": "高岡市",
@@ -16938,6 +17005,20 @@
   "online": "不明",
   "url": "https://toyama.bunkacenter.or.jp/kz_detail.php?ko_no=1214",
   "note": "高岡本部でピアノ伴奏に合わせ童謡・唱歌をみんなで歌う講座（第1・3月曜）。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "富山新聞文化センター「歌が上手に歌えるボイストレーニング」",
+  "prefecture": "富山県",
+  "city": "高岡市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "不明（音程・声量に悩む方向け）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://toyama.bunkacenter.or.jp/kz_detail.php?ko_no=2059",
+  "note": "高岡本部で第1・3金曜に開講。カワイ音楽教室講師・加藤美津子が指導、体験可。",
   "listingOnly": false,
   "senior": ""
  },
@@ -22990,6 +23071,38 @@
   "senior": ""
  },
  {
+  "name": "イリスコーア三重",
+  "prefecture": "三重県",
+  "city": "津市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明（学生会費あり）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://irischormie.jp/index.php/page-13/",
+  "note": "津市久居公民館などで土日に練習する混声合唱団。団員募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "三重混声合唱団 あんだぁれ70",
+  "prefecture": "三重県",
+  "city": "四日市市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://andare70.jp/",
+  "note": "四日市市を拠点とする混声合唱団。団員募集中・見学可、2026年7月に鈴鹿で演奏会。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "久居少年少女合唱団",
   "prefecture": "三重県",
   "city": "津市",
@@ -23190,6 +23303,24 @@
   "listingOnly": true,
   "senior": "歓迎",
   "seniorCourse": "シニアコース"
+ },
+ {
+  "name": "大貫亜以音楽教室",
+  "prefecture": "三重県",
+  "city": "鈴鹿市",
+  "type": "個人教室",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "3歳〜97歳",
+  "ageTags": [
+   "toddler"
+  ],
+  "online": "不明",
+  "url": "https://ameblo.jp/miimiaumi115/",
+  "note": "ソプラノ歌手による声楽・ボイトレ・ピアノの個人レッスン。合唱指導も行う。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "田中ボーカル教室",
@@ -23410,6 +23541,20 @@
   "senior": ""
  },
  {
+  "name": "発声屋 四日市教室",
+  "prefecture": "三重県",
+  "city": "四日市市",
+  "type": "音楽教室",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://hasseiya.com/yokkaichi.html",
+  "note": "音痴改善・基礎発声・カラオケ上達を指導するボイトレ教室。無料体験あり。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "三重アクターズ養成所",
   "prefecture": "三重県",
   "city": "津市",
@@ -23473,6 +23618,68 @@
   "listingOnly": true,
   "senior": "歓迎",
   "seniorCourse": "50代60代のためのボーカルレッスン"
+ },
+ {
+  "name": "サニーサイドゴスペルクラブ伊勢",
+  "prefecture": "三重県",
+  "city": "伊勢市",
+  "type": "チェーン",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢・経験不問",
+  "ageTags": [],
+  "online": "あり",
+  "url": "https://www.sunnyside-gc.com/ise/",
+  "note": "いせ市民活動センターで月2回夜に練習するゴスペルクラブ。会員向けオンラインレッスンあり。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "サニーサイドゴスペルクラブ四日市",
+  "prefecture": "三重県",
+  "city": "四日市市",
+  "type": "チェーン",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢・経験不問",
+  "ageTags": [],
+  "online": "あり",
+  "url": "https://www.sunnyside-gc.com/yokkaichi/",
+  "note": "三浜文化会館で月2回木曜（昼・夜）にゴスペルを歌う。会員向けオンラインレッスンあり。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "サニーサイドゴスペルクラブ津",
+  "prefecture": "三重県",
+  "city": "津市",
+  "type": "チェーン",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢・経験不問",
+  "ageTags": [],
+  "online": "あり",
+  "url": "https://www.sunnyside-gc.com/tsu/",
+  "note": "三重県総合文化センターで火曜夜・木曜午前に練習。会員向けオンラインレッスンあり。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "島村楽器 イオンタウン四日市泊店",
+  "prefecture": "三重県",
+  "city": "四日市市",
+  "type": "チェーン",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/shop/yokkaichi/article/lesson/20240925/6102",
+  "note": "イオンタウン四日市泊2F。関谷真美講師のヴォーカル個人レッスン（木・土）、無料体験あり。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "島村楽器 イオンモール鈴鹿店",
@@ -35508,6 +35715,22 @@
   "senior": ""
  },
  {
+  "name": "女声合唱団 monosso",
+  "prefecture": "香川県",
+  "city": "高松市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "女性（年齢制限の記載なし）、初心者歓迎",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://monossokagawa.wixsite.com/monosso",
+  "note": "高松市で活動する女声合唱団。随時団員募集、2026年全国大会出場予定。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "香川オリーブ少年少女合唱団",
   "prefecture": "香川県",
   "city": "高松市",
@@ -35594,6 +35817,23 @@
   "listingOnly": false,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "小倉光丘ボイススタジオ",
+  "prefecture": "香川県",
+  "city": "高松市・さぬき市",
+  "type": "個人教室",
+  "genres": [
+   "声楽",
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "あり",
+  "url": "https://ameblo.jp/m-ogu/",
+  "note": "ボイトレ・声楽の個人レッスン。合唱・ポップス・ジャズなど声種ジャンル問わず対応、遠方者向けオンラインあり。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "小山真梨音楽教室",
@@ -35922,6 +36162,55 @@
   "listingOnly": false,
   "senior": "歓迎",
   "seniorCourse": ""
+ },
+ {
+  "name": "シアーミュージック 高松校",
+  "prefecture": "香川県",
+  "city": "高松市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "ジュニアボーカルコースあり（対象年齢の記載なし）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://sheer.jp/school/takamatsu/",
+  "note": "瓦町のマンツーマン音楽教室。ボーカル&ボイストレーニングとジュニアボーカルを開講。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "JEUGIAカルチャーセンター高松「ボイストレーニング講座」",
+  "prefecture": "香川県",
+  "city": "高松市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "12歳以上",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://culture.jeugia.co.jp/lesson_detail_46-64012.html",
+  "note": "柴田知子講師の個人レッスン（月2回）。発声・呼吸・音程を指導、体験随時。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "ふらっと仏生山「昭和歌謡を歌おう！」",
+  "prefecture": "香川県",
+  "city": "高松市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "不明（子どもの参加不可）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.busshozan-kc.com/culture/culture-1390/",
+  "note": "高松市仏生山交流センターの定期講座。歌声喫茶形式で昭和歌謡を歌う、金曜午前・初回体験無料。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "Chorsal（コールサル）",
@@ -39535,6 +39824,22 @@
   "senior": ""
  },
  {
+  "name": "大分中央合唱団",
+  "prefecture": "大分県",
+  "city": "大分市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "20代〜90代、初心者歓迎",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://sites.google.com/view/oita-chuou/",
+  "note": "1986年創立の混声合唱団。毎週土曜夜にコンパルホールで練習、団員随時募集。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "宇佐市少年少女合唱団",
   "prefecture": "大分県",
   "city": "宇佐市",
@@ -39694,6 +39999,23 @@
   "listingOnly": true,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "カナリーボイス",
+  "prefecture": "大分県",
+  "city": "大分市",
+  "type": "個人教室",
+  "genres": [],
+  "ages": "初心者・大人歓迎",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://canaryvoice.crayonsite.info/",
+  "note": "大分市・別府市などで対面・出張のボーカルレッスン。J-POP・洋楽・ジャズに対応。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "マロウミュージック",
@@ -39861,6 +40183,41 @@
   "seniorCourse": ""
  },
  {
+  "name": "カワイおとなの音楽教室 トキハ別府教室",
+  "prefecture": "大分県",
+  "city": "別府市",
+  "type": "チェーン",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "大人",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://music.kawai.jp/search/detail/po/00M588",
+  "note": "トキハ別府3階。日曜にボイストレーニング（声楽）コース、4回体験版あり。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "シアーミュージック 大分校",
+  "prefecture": "大分県",
+  "city": "大分市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "ジュニアボーカルコースあり（対象年齢の記載なし）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://sheer.jp/school/oita/",
+  "note": "府内町のマンツーマン教室。ボーカル&ボイトレ・ジュニアボーカル・話し方コースを開講。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "ヤマハミュージックスクール ユニスタイル大分センター",
   "prefecture": "大分県",
   "city": "大分市",
@@ -39882,6 +40239,38 @@
   "listingOnly": true,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "音わか「歌って健康教室」",
+  "prefecture": "大分県",
+  "city": "大分市・別府市ほか",
+  "type": "カルチャーセンター",
+  "genres": [
+   "童謡"
+  ],
+  "ages": "概ね60歳以上（一部は誰でも可）",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://onwaka-mhs.com/class",
+  "note": "懐かしい歌・童謡・唱歌と口腔体操で健康づくり。大分市・別府市など県内各地の公民館等で開催。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "Whoopin Gospel Choir（ウーピンゴスペルクアイヤ）",
+  "prefecture": "宮崎県",
+  "city": "",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢・音楽経験不問",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://pure.harubaru.com/",
+  "note": "旧・宮崎ゴスペルクワイア。宮崎県内で活動し、メンバー募集中。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "スターウィンド",
@@ -40242,6 +40631,39 @@
   "seniorCourse": ""
  },
  {
+  "name": "島村楽器 イオンモール宮崎店",
+  "prefecture": "宮崎県",
+  "city": "宮崎市",
+  "type": "チェーン",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明（スクールは子どもから大人まで）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/lesson/search/shopsrch.php?scd=149",
+  "note": "イオンモール宮崎2F。ヴォーカル（木曜）と声楽（火曜）コースを開講。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "宮交シティ・カルチャーセンター「ボイストレーニング」",
+  "prefecture": "宮崎県",
+  "city": "宮崎市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.mc-center.jp/lesson/music/voice-training/",
+  "note": "テノール畝原功気講師が好きな歌を歌うための発声を指導。水・木曜午後。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "宮交シティ・カルチャーセンター「思い出の童謡・唱歌を歌う」",
   "prefecture": "宮崎県",
   "city": "宮崎市",
@@ -40284,6 +40706,20 @@
   "online": "不明",
   "url": "https://www.mp-culture.com/workshop/detail/?id=1754727776",
   "note": "1971年から宮崎で活動するプロ歌手・園ますみによる歌謡曲の新曲レッスンと発表。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "宮日カルチャーセンター「歌が上手くなるボイトレ講座」",
+  "prefecture": "宮崎県",
+  "city": "宮崎市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.mp-culture.com/workshop/detail/?id=1754727193",
+  "note": "たかみねまさみ講師がJ-POPのミックスボイス習得を指導。木曜夕方、全18回。",
   "listingOnly": false,
   "senior": ""
  },
@@ -40380,6 +40816,22 @@
   "senior": ""
  },
  {
+  "name": "混声合唱団グリーンエコー",
+  "prefecture": "鹿児島県",
+  "city": "霧島市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "20代〜90代の団員が在籍、経験不問",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.kirishima-greenecho.org/",
+  "note": "霧島市中心に活動する混声合唱団。経験・未経験を問わず団員募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "薩摩川内市少年少女合唱団",
   "prefecture": "鹿児島県",
   "city": "薩摩川内市",
@@ -40431,6 +40883,22 @@
   "online": "不明",
   "url": "https://www.city.kagoshima.lg.jp/shimin/shiminbunka/bunkashinko/bunka/bunka/gasshotai/shokai.html",
   "note": "鹿児島市内在住の子ども",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "鹿児島混声合唱団",
+  "prefecture": "鹿児島県",
+  "city": "",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "経験不問",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://kagoshimakonsei.jimdofree.com/",
+  "note": "火・金曜19:30〜21:00に練習する混声合唱団。経験不問で団員を受け入れ。",
   "listingOnly": false,
   "senior": ""
  },
@@ -40494,6 +40962,25 @@
   "listingOnly": false,
   "senior": "可",
   "seniorCourse": "大人コース"
+ },
+ {
+  "name": "スリーエムアカデミー（ボイトレ塾スリーエム）",
+  "prefecture": "鹿児島県",
+  "city": "鹿児島市",
+  "type": "個人教室",
+  "genres": [
+   "ミュージカル"
+  ],
+  "ages": "不明（演劇・ミュージカル企画は年齢不問、中学生以下は保護者同伴）",
+  "ageTags": [
+   "jhs",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://peraichi.com/landing_pages/view/3mmm/",
+  "note": "楠木まよ主宰。歌唱・話し方・声優表現のボイトレとミニ演劇・ミュージカル企画。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "マリカント音楽アカデミー",
@@ -40711,6 +41198,75 @@
   "url": "https://www.jujiya-music.com/",
   "note": "キッズ☆ボーカル。紹介サイトで確認",
   "listingOnly": true,
+  "senior": ""
+ },
+ {
+  "name": "島村楽器 ミュージックサロン鹿児島",
+  "prefecture": "鹿児島県",
+  "city": "鹿児島市",
+  "type": "チェーン",
+  "genres": [],
+  "ages": "不明（スクールは子どもから大人まで）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/lesson/search/shopsrch.php?scd=9143",
+  "note": "鹿児島中央駅近くキャンセビル6F。ヴォーカルコース（個人30分・グループ60分）を開講。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "リビングカルチャー倶楽部「エンジョイシンギング！」",
+  "prefecture": "鹿児島県",
+  "city": "鹿児島市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "ミュージカル"
+  ],
+  "ages": "18歳以上の女性",
+  "ageTags": [
+   "high"
+  ],
+  "online": "なし",
+  "url": "https://m-lcomu.com/sing/enjoy-singing/",
+  "note": "元宝塚月組・瞳まりあ講師がミュージカルナンバーやシャンソン等の歌唱を指導。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "リビングカルチャー倶楽部「ゴスペルコーラス・水・昼」",
+  "prefecture": "鹿児島県",
+  "city": "鹿児島市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "18歳以上の女性",
+  "ageTags": [
+   "high"
+  ],
+  "online": "なし",
+  "url": "https://m-lcomu.com/sing/gospel-wed-daytime-otameshi/",
+  "note": "そうしん本店教室で水曜昼に開講するゴスペルコーラス。初心者歓迎、楽譜が読めなくても可。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "リビングカルチャー倶楽部「ヴォーカル個人レッスン」",
+  "prefecture": "鹿児島県",
+  "city": "鹿児島市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "18歳以上の男女",
+  "ageTags": [
+   "high"
+  ],
+  "online": "不明",
+  "url": "https://m-lcomu.com/sing/vocal-personal-lesson/",
+  "note": "三島吏恵講師の個人レッスン。発声・呼吸・表現を指導、火曜開講。",
+  "listingOnly": false,
   "senior": ""
  },
  {
