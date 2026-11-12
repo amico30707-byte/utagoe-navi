@@ -4852,7 +4852,7 @@
     "restriction": "曲目自由（2声以上のアンサンブル）。小学生・ジュニア、中学生は5分以内、ほかは6分以内（超えると失格）",
     "source": "https://iwate-choral-as.greater.jp/ens36-about/",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/vocal-ensemble-ken/"
   },
   {
     "id": "okayama-vocal-ensemble-34",
@@ -4882,7 +4882,7 @@
     "restriction": "2声部以上。曲間を含めて5分以内（超えると失格）。伴奏楽器は自由（ピアノ1台は主催者が用意）",
     "source": "https://jcaokayama.sakura.ne.jp/youkou/2026/2026年度_アンコン開催要項.pdf",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/vocal-ensemble-ken/"
   },
   {
     "id": "nak-kayousai-42",
@@ -5159,10 +5159,10 @@
     "feeMin": 5000,
     "feeMax": 10000,
     "feeText": "団体参加料 小学校5,000円・中学/高校/大学8,000円・一般10,000円＋1人あたり700円／1,000円／1,100円。ほかに出演者1人につき入場券500円の割当",
-    "restriction": "群馬県合唱連盟の加盟団体（未加盟は先に加盟が必要）。3〜20人。無伴奏（ア・カペラ）のみ、マイク不可。演奏時間7分以内（曲間含む）、超えると失格。コピー楽譜不可",
+    "restriction": "群馬県合唱連盟の加盟団体（未加盟は先に加盟が必要）。3〜20人。無伴奏（ア・カペラ）のみ、マイク不可。演奏時間7分以内（曲間含む）、超えると審査の対象外。コピー楽譜不可",
     "source": "https://gca.sakura.ne.jp/activity/4en/20/20enkai.pdf",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/vocal-ensemble-ken/"
   },
   {
     "id": "shizuoka-vocal-ensemble-37",
@@ -5193,7 +5193,7 @@
     "restriction": "2〜20人（指揮者を除く）。無伴奏（鍵盤楽器・音程のある打楽器は不可、音程のない打楽器・手拍子は可）。2声部以上の合唱曲で選曲・曲数は自由。演奏時間7分以内（曲間含む）、超えると失格。出版譜を使う",
     "source": "https://shizuoka-jca.com/images/contest/2701youkou1.pdf",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/vocal-ensemble-ken/"
   },
   {
     "id": "yamanashi-yvec-28",
@@ -5223,7 +5223,7 @@
     "restriction": "2〜20人（おかあさんの部は2〜30人）。演奏時間7分以内（おかあさん・ジュニアは6分以内、曲間含む）。課題曲なし、伴奏ありも可（関東大会は無伴奏が条件）",
     "source": "https://www.y-jca.jp/events/yvec/28th_yvec.pdf",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/vocal-ensemble-ken/"
   },
   {
     "id": "yamanashi-josei-harmony-50",
