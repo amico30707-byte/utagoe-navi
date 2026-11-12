@@ -981,6 +981,22 @@
   "senior": ""
  },
  {
+  "name": "合唱団 CORO 8（コーロ オット）",
+  "prefecture": "青森県",
+  "city": "八戸市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://ameblo.jp/coro-otto/entry-12838816953.html",
+  "note": "2024年1月結成の八戸市の合唱団（女声・混声）。団員募集中",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "混声合唱団 proto-A",
   "prefecture": "青森県",
   "city": "青森市",
@@ -1130,6 +1146,43 @@
   "online": "あり",
   "url": "https://brushvoice.net/voice-training/about-aomori/",
   "note": "全国展開のボイトレ教室。青森市内2拠点でマンツーマンレッスン",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "ヤマハ 青森センター（デイタイムレッスン ボーカル）",
+  "prefecture": "青森県",
+  "city": "青森市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://school.jp.yamaha.com/music/venue/detail/?id=606022301&courseClsCd=66",
+  "note": "東京堂運営のヤマハ会場。デイタイムレッスンのボーカルコースを掲載",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "ヤマハ （株）東京堂八戸センター（ボーカル）",
+  "prefecture": "青森県",
+  "city": "八戸市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "小学生〜大人",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://school.jp.yamaha.com/music/venue/detail/?id=606022201&courseClsCd=37&category=all",
+  "note": "東京堂運営のヤマハ音楽教室会場。ボーカルコースを掲載",
   "listingOnly": false,
   "senior": ""
  },
@@ -2102,6 +2155,22 @@
   "seniorCourse": ""
  },
  {
+  "name": "あきたコーラルハーモニー",
+  "prefecture": "秋田県",
+  "city": "大仙市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://rmcp2023akitadaise.wixsite.com/religiousmcp/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%9B%B2",
+  "note": "宗教曲専門の合唱プロジェクト。秋田県合唱連盟加盟、大仙市を拠点に活動",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "アトリオン少年少女合唱団",
   "prefecture": "秋田県",
   "city": "秋田市",
@@ -2118,6 +2187,38 @@
   "online": "不明",
   "url": "https://www.kosei-buil.co.jp/atorion/abgc.html",
   "note": "アトリオンで練習。2025年声楽アンサンブルコンテスト全国大会出場",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "大仙市混声合唱団",
+  "prefecture": "秋田県",
+  "city": "大仙市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://itakisawa45.wixsite.com/daisen-chorus",
+  "note": "1971年創立の市民混声合唱団。初心者歓迎、見学可",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "混声合唱団カンパネラ・コール",
+  "prefecture": "秋田県",
+  "city": "秋田市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://chorprac16.wixsite.com/campa",
+  "note": "秋田市の老舗混声合唱団。青少年音楽の家を拠点に活動",
   "listingOnly": false,
   "senior": ""
  },
@@ -2338,6 +2439,27 @@
   "seniorCourse": ""
  },
  {
+  "name": "ヤマハ ミュージックサロン秋田ピアーチェ（ボーカル）",
+  "prefecture": "秋田県",
+  "city": "秋田市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "小学生〜大人",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://school.jp.yamaha.com/music/venue/detail/?id=692194035&courseClsCd=37&category=all",
+  "note": "秋田駅近くのヤマハ会場。小学生から大人向けのボーカルコースあり",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "秋田カルチャースクール 声楽・ヴォイストレーニング",
   "prefecture": "秋田県",
   "city": "秋田市",
@@ -2350,6 +2472,22 @@
   "online": "なし",
   "url": "https://www.culture.gr.jp/detail/akita2/1997866",
   "note": "フォンテAKITA内。ソプラノ歌手による30分個人レッスン",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "秋田カルチャースクール 楽しく始める ヴォイトレで歌おう",
+  "prefecture": "秋田県",
+  "city": "秋田市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.culture.gr.jp/detail/akita2/4576321",
+  "note": "フォンテAKITA内。Jポップスやミュージカルソングを歌う月2回の講座",
   "listingOnly": false,
   "senior": ""
  },
@@ -17184,6 +17322,22 @@
   "seniorCourse": ""
  },
  {
+  "name": "FMRC 福井中世ルネサンスコンソート",
+  "prefecture": "福井県",
+  "city": "福井市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "制限なし",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.city.fukui.lg.jp/clubteam/competition/chorus/22.html",
+  "note": "アンサンブル歌唱のヴォーカルグループ。木曜夜に聖三一教会集会所で練習",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "SING♪SARA（シング♪サラ）",
   "prefecture": "福井県",
   "city": "福井市",
@@ -17199,6 +17353,44 @@
   "online": "不明",
   "url": "https://www.city.fukui.lg.jp/clubteam/competition/chorus/18.html",
   "note": "福井市のクラブ・チーム紹介掲載。土曜に発声・音楽の基礎を指導",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "アンサンブルmirai",
+  "prefecture": "福井県",
+  "city": "福井市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "小学生以上",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.city.fukui.lg.jp/clubteam/competition/chorus/338.html",
+  "note": "童謡・唱歌や合唱曲を歌う。火曜夜にハーモニーホールふくいで練習",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "コスモスコーラス",
+  "prefecture": "福井県",
+  "city": "福井市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.city.fukui.lg.jp/clubteam/competition/chorus/100.html",
+  "note": "無伴奏曲に取り組む女声合唱団。土曜午後に日新公民館で練習",
   "listingOnly": false,
   "senior": ""
  },
@@ -17240,6 +17432,26 @@
   "senior": ""
  },
  {
+  "name": "コール・ポラーレ",
+  "prefecture": "福井県",
+  "city": "福井市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "小学4年〜高校3年",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high"
+  ],
+  "online": "不明",
+  "url": "https://www.city.fukui.lg.jp/clubteam/competition/chorus/340.html",
+  "note": "福井市の地域クラブ認定合唱団。土曜午後に明道中学校で練習",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "小浜少年少女合唱団",
   "prefecture": "福井県",
   "city": "小浜市",
@@ -17275,6 +17487,58 @@
   "online": "不明",
   "url": "https://www.city.fukui.lg.jp/clubteam/competition/chorus/21.html",
   "note": "福井市のクラブ・チーム紹介掲載。月2回日曜練習",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "松本公民館ゴスペル同好会 PineDrems",
+  "prefecture": "福井県",
+  "city": "福井市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢制限なし",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.city.fukui.lg.jp/clubteam/competition/chorus/59.html",
+  "note": "松本公民館のゴスペル同好会。月2回土曜夜に練習",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "混声合唱団Shirasa-Gi（しらさぎ）",
+  "prefecture": "福井県",
+  "city": "",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://shirasa-gi.net/",
+  "note": "福井県で活動する混声合唱団。2026年全日本合唱コンクール県大会で金賞",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "清水混声合唱団",
+  "prefecture": "福井県",
+  "city": "福井市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "中学生以上",
+  "ageTags": [
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.city.fukui.lg.jp/clubteam/competition/chorus/352.html",
+  "note": "第1・3木曜夜に清水東公民館で練習。学生は会費無料",
   "listingOnly": false,
   "senior": ""
  },
@@ -31589,6 +31853,76 @@
   "senior": ""
  },
  {
+  "name": "クール シェンヌ（Choeur Chêne）",
+  "prefecture": "奈良県",
+  "city": "奈良市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://chene.jp/katudou_etc.html",
+  "note": "奈良市で活動する混声合唱団。2026年6月の奈良県合唱祭に出演",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "コーラス教室ゆうゆう",
+  "prefecture": "奈良県",
+  "city": "奈良市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "18歳以上",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "なし",
+  "url": "https://sogozaidan.nara.jp/3461/",
+  "note": "奈良市総合財団主催、なら100年会館で木曜午前に練習。経験不問",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "合唱団ル・グラン",
+  "prefecture": "奈良県",
+  "city": "奈良市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "大学生以上",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://legland2010.amebaownd.com/pages/2717255/page_201903241520",
+  "note": "奈良県合唱連盟加盟。月3回日曜午後に奈良市内の公民館等で練習、全パート募集",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "奈良市民合唱団",
+  "prefecture": "奈良県",
+  "city": "奈良市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://manabunara.jp/0000000738.html",
+  "note": "1974年創立の混声合唱団。土曜夜に西部公民館で練習、初心者歓迎・見学随時",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "王寺ジュニア合唱団フェアリーベル",
   "prefecture": "奈良県",
   "city": "王寺町",
@@ -32039,6 +32373,27 @@
   "seniorCourse": ""
  },
  {
+  "name": "ヤマハ 学園前センター（ボーカル）",
+  "prefecture": "奈良県",
+  "city": "奈良市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "小学生〜大人",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://school.jp.yamaha.com/music/venue/detail/?id=205010522&courseClsCd=37",
+  "note": "近鉄学園前駅近くのヤマハ会場。小学生から大人向けボーカルコースあり",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "天理楽器",
   "prefecture": "奈良県",
   "city": "県内に複数",
@@ -32081,6 +32436,57 @@
   "listingOnly": false,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "近鉄文化サロン橿原 カンツォーネを歌おう！〈中級〉",
+  "prefecture": "奈良県",
+  "city": "橿原市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://bunka-salon.d-kintetsu.co.jp/shop/g/g14-1-292846-001/",
+  "note": "ナポリ民謡やサンレモ音楽祭の曲をイタリア語で学ぶ月1回の講座",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "近鉄文化サロン橿原 女声コーラス",
+  "prefecture": "奈良県",
+  "city": "橿原市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "女性のみ",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://bunka-salon.d-kintetsu.co.jp/shop/g/g14-1-292818-001/",
+  "note": "近鉄百貨店橿原店のカルチャー。ピアノと女声合唱曲を歌う月2回の講座",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "近鉄文化サロン橿原 歌いましょう童謡唱歌",
+  "prefecture": "奈良県",
+  "city": "橿原市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "童謡"
+  ],
+  "ages": "大人",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "なし",
+  "url": "https://bunka-salon.d-kintetsu.co.jp/shop/g/g14-1-292681-002/",
+  "note": "二期会会員講師が童謡・唱歌を指導。歌に苦手意識がある人も歓迎",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "Ensemble Mikanier（アンサンブル・ミカニエ）",
@@ -32128,6 +32534,22 @@
   "url": "https://jmty.jp/wakayama/les-mus",
   "note": "2026年度新団員募集。紹介サイトで確認",
   "listingOnly": true,
+  "senior": ""
+ },
+ {
+  "name": "アンサンブル和歌山（The Ensemble Wakayama）",
+  "prefecture": "和歌山県",
+  "city": "和歌山市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://ensemblewakayama.jimdofree.com/",
+  "note": "和歌山県合唱連盟加盟の合唱団。2026年9月に第16回定期演奏会",
+  "listingOnly": false,
   "senior": ""
  },
  {
@@ -32294,6 +32716,22 @@
   "online": "不明",
   "url": "https://school.jp.yamaha.com/music/venue/detail/?id=206052119&courseClsCd=37&category=all",
   "note": "ヤマハ音楽教室の会場。ボーカルコース掲載会場",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "PLAISIR（プレジール） 基礎からのヴォイストレーニング",
+  "prefecture": "和歌山県",
+  "city": "田辺市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.plaisir-tanabe.co.jp/program/program-192",
+  "note": "スポーツ＆カルチャースクール。声楽家による腹式呼吸・発声の隔週講座",
   "listingOnly": false,
   "senior": ""
  },
@@ -34757,6 +35195,22 @@
   "senior": ""
  },
  {
+  "name": "ハーモニー佐古",
+  "prefecture": "徳島県",
+  "city": "徳島市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://harmony-sako.jimdofree.com/",
+  "note": "1987年に佐古小PTAコーラス部として発足したおかあさんコーラス。団員募集中",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "徳島少年少女合唱団",
   "prefecture": "徳島県",
   "city": "徳島市",
@@ -34949,6 +35403,25 @@
   "senior": ""
  },
  {
+  "name": "黒崎楽器 ヤマハ大人の音楽レッスン ボーカル（通町センター・ユニスタイル藍住）",
+  "prefecture": "徳島県",
+  "city": "徳島市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "大人",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.kurosaki-gakki.jp/lesson_info/lesson_info_index/otona_ongaku/vocal/",
+  "note": "徳島市通町と藍住町で開講。身体・呼吸・発声・発音からのボイストレーニング",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "カルチャーセンター徳島 105カラオケ",
   "prefecture": "徳島県",
   "city": "徳島市",
@@ -34961,6 +35434,22 @@
   "online": "不明",
   "url": "https://culture-t.com/668/",
   "note": "元プロ歌手の講師によるカラオケ講座。土曜午後",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "シビックセンター文化講座 やさしいコーラス（合唱）",
+  "prefecture": "徳島県",
+  "city": "徳島市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "40歳以上の女性",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.civic-center.jp/learn/kouza/item_357/",
+  "note": "徳島市文化振興公社の文化講座。懐かしい歌を合唱、木曜午後全15回",
   "listingOnly": false,
   "senior": ""
  },
@@ -35821,6 +36310,38 @@
   "senior": ""
  },
  {
+  "name": "Dios Anthos Choir（ディオス アンサス クワイア）",
+  "prefecture": "高知県",
+  "city": "",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://dios-anthos-choir.github.io/",
+  "note": "高知県を中心に活動する混声合唱団。団員募集中",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "Lahda Mercy（ラーダマーシー）",
+  "prefecture": "高知県",
+  "city": "高知市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "20歳以上",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.bunkaplaza.or.jp/circle/lahda-mercy/",
+  "note": "歌って踊るゴスペルクワイア。水曜夜にかるぽーとで練習",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "コール・トワニー",
   "prefecture": "高知県",
   "city": "高知市",
@@ -35853,6 +36374,22 @@
   "senior": ""
  },
  {
+  "name": "混声合唱団Pange（パンジェ）",
+  "prefecture": "高知県",
+  "city": "高知市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://pange.sakura.ne.jp/cms/intro/",
+  "note": "高知市を拠点とする混声合唱団。水・土に鴨田ふれあいセンター等で練習",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "高知少年少女合唱団",
   "prefecture": "高知県",
   "city": "高知市",
@@ -35870,6 +36407,25 @@
   "online": "不明",
   "url": "https://kochi-bg-gasshodan.1net.jp/shoukai.html",
   "note": "高知市近郊から団員",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "高知市民合唱団",
+  "prefecture": "高知県",
+  "city": "高知市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "一般社会人",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.bunkaplaza.or.jp/circle/kochishimingasshoudan/",
+  "note": "かるぽーと中央公民館サークル。木曜夜に練習、合唱愛好家なら入会可",
   "listingOnly": false,
   "senior": ""
  },
@@ -36068,6 +36624,22 @@
   "online": "あり",
   "url": "https://brushvoice.net/voice-training/about-kouchi/",
   "note": "全国展開のボイトレ教室。高知市内2拠点で土日祝にレッスン",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "高新文化教室（歌の講座）",
+  "prefecture": "高知県",
+  "city": "高知市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.kochi-sk.co.jp/bunka/course_list.cgi",
+  "note": "高知新聞系の文化教室。フォーク・ポップスや叙情歌を歌う講座、シルバー向け歌と体操あり",
   "listingOnly": false,
   "senior": ""
  },
@@ -37915,6 +38487,38 @@
   "senior": ""
  },
  {
+  "name": "諫早男声合唱団",
+  "prefecture": "長崎県",
+  "city": "諫早市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢・経験不問",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://isahayadansei.com/",
+  "note": "金曜夜に西諫早公民館で練習する男声合唱団。団員募集中、見学歓迎",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "長崎アカデミー男声合唱団（アカ団）",
+  "prefecture": "長崎県",
+  "city": "長崎市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明（合唱経験不問）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://akadan.net/",
+  "note": "水曜夜に長崎市民会館音楽室で練習するアマチュア男声合唱団。見学随時",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "長崎少年少女合唱団",
   "prefecture": "長崎県",
   "city": "長崎市",
@@ -37930,6 +38534,22 @@
   "online": "不明",
   "url": "https://nagasakibgc.jimdofree.com/",
   "note": "結成50年超",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "長崎居留地男声合唱団・女声合唱団オルテンシア",
+  "prefecture": "長崎県",
+  "city": "長崎市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.anomusic.com/%E9%95%B7%E5%B4%8E%E5%B1%85%E7%95%99%E5%9C%B0%E7%94%B7%E5%A3%B0%E5%90%88%E5%94%B1%E5%9B%A3%E3%83%BB%E5%A5%B3%E5%A3%B0%E5%90%88%E5%94%B1%E5%9B%A3%E3%82%AA%E3%83%AB%E3%83%86%E3%83%B3%E3%82%B7%E3%82%A2/",
+  "note": "阿野音楽教室が運営する男声・女声合唱団。2026年7月時点で団員募集中",
   "listingOnly": false,
   "senior": ""
  },
@@ -38330,6 +38950,48 @@
   "seniorCourse": ""
  },
  {
+  "name": "ヤマハ 大村センター（ボーカル）",
+  "prefecture": "長崎県",
+  "city": "大村市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "小学生〜大人",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://school.jp.yamaha.com/music/venue/detail/?id=403016003&courseClsCd=37",
+  "note": "原田楽器運営のヤマハ会場。小学生から大人向けボーカルコースあり",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "ヤマハ 長崎北センター（ボーカル）",
+  "prefecture": "長崎県",
+  "city": "長崎市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "小学生〜大人",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://school.jp.yamaha.com/music/venue/detail/?id=492193007&courseClsCd=37",
+  "note": "道の尾のヤマハ会場。小学生から大人向けボーカルコースあり",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "ヤマハミュージックレッスン 長崎ココウォークセンター",
   "prefecture": "長崎県",
   "city": "長崎市",
@@ -38351,6 +39013,44 @@
   "listingOnly": true,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "島村楽器 えきマチ1丁目佐世保店（ヴォーカル・声楽コース）",
+  "prefecture": "長崎県",
+  "city": "佐世保市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル",
+   "声楽"
+  ],
+  "ages": "子どもから大人まで",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/shop/sasebo/lesson-guide",
+  "note": "JR佐世保駅直結の楽器店音楽教室。ヴォーカル・声楽コースを開講",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "島村楽器 アミュプラザ長崎店（ボーカルコース）",
+  "prefecture": "長崎県",
+  "city": "長崎市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "不明（18歳未満は保護者名義で申込）",
+  "ageTags": [
+   "high"
+  ],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/shop/nagasaki/?p=5506",
+  "note": "アミュプラザ長崎内。30分の個人ボーカルレッスン",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "NHK熊本児童合唱団",
