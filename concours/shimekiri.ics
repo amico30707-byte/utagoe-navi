@@ -684,8 +684,8 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:しめきり：第42回 日本アマチュア歌謡祭（ジュニア大会／ミドル大会／グランプリ大会）
-DESCRIPTION:くわしくは公式サイトでご確認ください https://www.nak.gr.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E7%AC%AC39%E5%9B%9E%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%9E%E3%83%81%E3%83%A5%E3%82%A2%E6%AD%8C%E8%AC%A1%E7%A5%AD%E5%9C%B0%E5%8C%BA%E4%BA%88%E9%81%B8%E4%BC%9A%E6%97%A5%E7%A8%8B
-URL:https://www.nak.gr.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E7%AC%AC39%E5%9B%9E%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%9E%E3%83%81%E3%83%A5%E3%82%A2%E6%AD%8C%E8%AC%A1%E7%A5%AD%E5%9C%B0%E5%8C%BA%E4%BA%88%E9%81%B8%E4%BC%9A%E6%97%A5%E7%A8%8B
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.nak.gr.jp/event/japanamateursongfestivalhowtoapply
+URL:https://www.nak.gr.jp/event/japanamateursongfestivalhowtoapply
 END:VEVENT
 BEGIN:VEVENT
 UID:k-unlimited-20@utagoe-navi.jp

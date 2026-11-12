@@ -4791,7 +4791,7 @@
     "restriction": "予選は2025年10月以降に録音した2曲（選曲自由）。本選はシニア以外に課題曲あり。演奏時間は部門ごとに9〜13分以内など。人数は部門ごとに10人以上・12人以上など",
     "source": "https://www.ticctokyo.icot.or.jp/開催規程-2027",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/ticc-tokyo-gassho/"
   },
   {
     "id": "himeji-kokyoshi-37",
@@ -4822,7 +4822,7 @@
     "restriction": "課題曲：合唱組曲「ひめじ」（混声・女声）第1〜4章から1章。自由曲：5分以内（曲数自由）。審査員用の楽譜3部（原譜）を当日提出",
     "source": "https://parnassushall.himeji-culture.jp/hall_event/6619",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/himeji-gassho-contest/"
   },
   {
     "id": "iwate-ensemble-36",
@@ -4912,9 +4912,9 @@
     "feeMax": 4000,
     "feeText": "録音審査料 1曲 一般4,000円・NAK会員3,500円（ジュニア・ミドルはゴールド会員3,000円）。グランプリ地区予選は支部ごとに設定。大会出場は別に参加費",
     "restriction": "自由曲。カラオケ伴奏で前奏から2コーラス以上をカセットかCD-Rに録音し現金書留で送る。外国曲は日本語訳詞。過去のグランプリ・最優秀歌唱賞の曲は不可",
-    "source": "https://www.nak.gr.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E7%AC%AC39%E5%9B%9E%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%9E%E3%83%81%E3%83%A5%E3%82%A2%E6%AD%8C%E8%AC%A1%E7%A5%AD%E5%9C%B0%E5%8C%BA%E4%BA%88%E9%81%B8%E4%BC%9A%E6%97%A5%E7%A8%8B",
+    "source": "https://www.nak.gr.jp/event/japanamateursongfestivalhowtoapply",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/amateur-kayousai/"
   },
   {
     "id": "kisuke-nodojiman-17",
@@ -4946,7 +4946,7 @@
     "restriction": "第一興商 LIVE DAM。原則1コーラス。申込後の曲・メンバー・キーの変更不可",
     "source": "https://kisuke.com/kit/information/47966/",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/kisuke-nodojiman/"
   },
   {
     "id": "nichii-concorso-63",
@@ -4971,7 +4971,7 @@
     "restriction": null,
     "source": "https://www.nichii-concorso.com/news_detail.php?id=00112.xml",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/nichii-concorso/"
   },
   {
     "id": "gc-contest-2",
