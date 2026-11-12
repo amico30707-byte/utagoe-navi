@@ -22,5 +22,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --cached --quiet || (git commit -m "Daily deadline refresh" && git push)
-      - run: python3 _build/indexnow.py ${{ github.event_name == 'workflow_dispatch' && '400' || '2' }}
+          git diff --cached --quiet || (git commit -m "Daily deadline refresh" && git pull --rebase -X theirs origin main && git push)
+      - if: always()
+        run: python3 _build/indexnow.py ${{ github.event_name == 'workflow_dispatch' && '400' || '2' }}
