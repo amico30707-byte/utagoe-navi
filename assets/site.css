@@ -81,3 +81,4 @@ img{max-width:100%;height:auto}
 .city-box h2{font-family:'Zen Maru Gothic',sans-serif;color:#1F3A5F;font-size:20px;margin:0 0 10px}
 .city-box ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:8px}
 .city-box li a{display:inline-block;padding:6px 12px;border-radius:16px;background:#FFF5EA;text-decoration:none;font-size:14px}
+.art-body p,.art-body li,.art-body a{overflow-wrap:anywhere}
