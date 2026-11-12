@@ -228,3 +228,32 @@ for slug, ls in LM.items():
     s = s[:k] + box + s[k:]
     open(p, 'w', encoding='utf-8').write(s); nl += 1
 print('list links:', nl)
+
+# ---------- 5. 地域・ジャンルのまとめ記事に「いまのしめきり（自動更新）」 ----------
+RM = {'kanto-contest-matome': lambda c: c.get('region') == '関東',
+      'kansai-contest-matome': lambda c: c.get('region') == '関西',
+      'chubu-contest-matome': lambda c: c.get('region') in ('中部', '東海'),
+      'kyushu-contest-matome': lambda c: c.get('region') == '九州・沖縄',
+      'tohoku-hokkaido-contest-matome': lambda c: c.get('region') in ('東北', '北海道'),
+      'chugoku-shikoku-contest-matome': lambda c: c.get('region') == '中国・四国',
+      'musical-contest-matome': lambda c: 'ミュージカル' in (c.get('genres') or []),
+      'doyo-contest-matome': lambda c: '童謡' in (c.get('genres') or []),
+      'seigaku-contest-matome': lambda c: '声楽' in (c.get('genres') or []),
+      'contest-schedule': lambda c: True}
+nr = 0
+for slug, pred in RM.items():
+    p = os.path.join(ROOT, slug, 'index.html')
+    if not os.path.exists(p): continue
+    lis = upcoming(pred)[:8]
+    s = open(p, encoding='utf-8').read()
+    s = re.sub(r'<!--now-->.*?<!--/now-->', '', s, flags=re.S)
+    if lis:
+        li = ''.join(f'<li><a href="{esc(c.get("guide") or c.get("source") or "/concours/")}">{esc(c["name"])}{("（" + esc(c["subtitle"]) + "）") if c.get("subtitle") and len(c["subtitle"]) < 30 else ""}</a> ・ しめきり {d.month}月{d.day}日 ・ {esc(METHOD.get(c.get("method"), ""))}</li>' for d, c in lis)
+        box = (f'<!--now--><section style="background:#fff;border:1px solid #eadfce;border-radius:12px;padding:12px 16px;margin:16px 0">'
+               f'<h2 style="font-size:1.05rem;margin:0 0 6px;border:0;padding:0">いま申しこめる大会（{TODAY.month}月{TODAY.day}日時点・しめきり順）</h2>'
+               f'<ul style="margin:0;padding-left:1.2em;line-height:1.7">{li}</ul>'
+               '<p style="margin:8px 0 0;font-size:.9rem">この一覧は毎日自動で新しくなります。<a href="/concours/shimekiri/">しめきりカレンダー</a>もごらんください。</p></section><!--/now-->')
+        k = s.find('<h2', s.find('<div class="art-body">'))
+        if k > 0: s = s[:k] + box + s[k:]; nr += 1
+    open(p, 'w', encoding='utf-8').write(s)
+print('now boxes:', nr)
