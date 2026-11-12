@@ -28,9 +28,18 @@ for c in D:
     if c.get('id') == 'grandprix': continue
     fam.setdefault(c['family'], []).append(c)
 nbox = 0
+gcount = collections.Counter(v[0].get('guide') for v in fam.values() if v[0].get('guide'))
 for f, items in fam.items():
     g = items[0].get('guide')
     if not g: continue
+    if gcount[g] > 1:  # いくつかの大会をまとめた記事には、要項ボックスを入れない
+        p = os.path.join(ROOT, g.strip('/'), 'index.html')
+        if os.path.exists(p):
+            s = open(p, encoding='utf-8').read()
+            s2 = re.sub(r'<!--yk-->.*?<!--/yk-->', '', s, flags=re.S)
+            s2 = re.sub(r'<script type="application/ld\+json" id="yk-ev">.*?</script>', '', s2, flags=re.S)
+            if s2 != s: open(p, 'w', encoding='utf-8').write(s2)
+        continue
     p = os.path.join(ROOT, g.strip('/'), 'index.html')
     if not os.path.exists(p): continue
     s = open(p, encoding='utf-8').read()
