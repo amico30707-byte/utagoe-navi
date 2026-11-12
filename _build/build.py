@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build the static site for utagoe-navi.jp into /home/claude/site"""
 import json as _json_ncon
+NCLS='{:,}'.format(len(_json_ncon.load(open('/home/claude/directory/classrooms.json'))))
 NCON=len(_json_ncon.load(open('/home/claude/utagoe-navi/_build/concours/contests-final.json')))
 import re, os, json, csv, html, shutil, datetime
 
@@ -191,7 +192,7 @@ assert not any('【' in a['body'] for a in arts), [a['slug'] for a in arts if '�
 AUTHOR = ('<aside class="author"><div class="author-ic" aria-hidden="true">う</div><div><p class="author-n">この記事を書いた人：うみ</p>'
           '<p>息子といっしょに、たくさんの歌のコンクールに出てきた母です。お礼や費用、教室えらびで なやんだ経験をもとに書いています。<a href="/about/">くわしいプロフィール</a></p></div></aside>')
 CTA = ('<section class="cta"><h2>つぎの一歩を さがす</h2><div class="cta-g">'
-       '<a href="/kyoshitsu/" class="cta-a">歌の教室をさがす<small>全国1,988か所</small></a>'
+       '<a href="/kyoshitsu/" class="cta-a">歌の教室をさがす<small>全国'+NCLS+'か所</small></a>'
        '<a href="/concours/" class="cta-b">コンクールをさがす<small>'+str(NCON)+'件</small></a>'
        '<a href="/grandprix/" class="cta-c">こどもの歌声グランプリ<small>動画で出られる</small></a></div></section>')
 
@@ -267,7 +268,7 @@ def wrapfrag(src):
 
 bc, bld = crumbs([('歌の教室さがし', None)])
 page('/kyoshitsu/', '歌の教室さがし｜全国の歌・ボイトレ・声楽教室と合唱団',
-     '全国の歌の教室・ボイトレ教室・声楽教室・ミュージカル教室・合唱団を1,988件のせています。都道府県、年代（子ども・中高生・おとな・シニア）、ジャンル、オンラインの有無でさがせます。',
+     '全国の歌の教室・ボイトレ教室・声楽教室・ミュージカル教室・合唱団を'+NCLS+'件のせています。都道府県、年代（子ども・中高生・おとな・シニア）、ジャンル、オンラインの有無でさがせます。',
      f'<div class="wrap">{bc}</div>' + wrapfrag(f'{ROOT}/directory/kyoshitsu-wordpress.html'), jsonld=[bld],
      full_title='歌の教室さがし｜全国の歌・ボイトレ・声楽教室と合唱団｜うたごえナビ')
 
@@ -286,7 +287,7 @@ page('/concours/', '歌のコンクールさがし｜子どもからシニアま
 # ---------------------------------------------------------------- top
 top = open(f'{ROOT}/top/template.html').read()
 d = json.load(open(f'{ROOT}/top/data.json'))
-top = top.replace('__DATA__', json.dumps(d, ensure_ascii=False)).replace('__NCLS__', '1,988').replace('__NCON__', str(NCON)).replace('__NEW__', '\n'.join(f'<a href="/{a["slug"]}/">{esc(a["title"])}</a>' for a in arts[::-1][:5]))
+top = top.replace('__DATA__', json.dumps(d, ensure_ascii=False)).replace('__NCLS__', NCLS).replace('__NCON__', str(NCON)).replace('__NEW__', '\n'.join(f'<a href="/{a["slug"]}/">{esc(a["title"])}</a>' for a in arts[::-1][:5]))
 top = top.replace('<h1 class="ut-h">', '<h1 class="ut-h">', 1)
 page('/', SITE, '全国の歌の教室・ボイトレ教室・合唱団と、歌のコンクールを、お子様からシニアの方までさがせるサイトです。動画で出られる「こどもの歌声グランプリ」も開いています。',
      top, jsonld=[{"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": DOMAIN + '/',
