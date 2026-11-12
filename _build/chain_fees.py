@@ -86,3 +86,30 @@ sm = re.sub(r'<url><loc>' + re.escape(SITE + path) + r'</loc>.*?</url>\n?', '', 
 sm = sm.replace('</urlset>', f'<url><loc>{SITE}{path}</loc><lastmod>{chk}</lastmod></url>\n</urlset>')
 open(sp, 'w', encoding='utf-8').write(sm)
 print('ryokin page:', len(D), 'chains')
+
+# 教室ごとのページ（チェーン）に、体験と料金の行を足す
+KEYS = {'NAYUTAS': 'NAYUTAS', 'USボーカル教室': 'USボーカル教室', 'シアーミュージック': 'シアーミュージック', '島村楽器': '島村楽器',
+        'InspiartZ': 'InspiartZ', 'EYS': 'EYS', 'アバロンミュージックスクール': 'アバロン', '椿音楽教室': '椿音楽教室', 'ヤマハ': 'ヤマハ',
+        'avex': 'avex', 'リズムセブン': 'リズムセブン', 'パピーミュージックスクール': 'パピー', 'アミーズボーカルスクール': 'アミーズ', 'カワイ音楽教室': 'カワイ', '劇団ひまわり': '劇団ひまわり'}
+def find(name):
+    for k, v in KEYS.items():
+        if name.startswith(k):
+            for d in D:
+                if d['chain'].startswith(v) or v in d['chain']: return d
+nrow = 0
+kroot = os.path.join(ROOT, 'kyoshitsu')
+for dp, dn, fn in os.walk(kroot):
+    if 'index.html' not in fn or os.sep + 's' + os.sep not in dp + os.sep: continue
+    p = os.path.join(dp, 'index.html'); s = open(p, encoding='utf-8').read()
+    m = re.search(r'<h1>(.*?)</h1>', s)
+    if not m: continue
+    s2 = re.sub(r'<tr class="rk-row">.*?</tr>', '', s, flags=re.S)
+    d = find(html.unescape(m.group(1)))
+    if d:
+        t = d.get('trial') or {}
+        rows = f'<tr class="rk-row"><th>体験レッスン</th><td>{esc(t.get("price") or "公式サイトでご確認ください")}</td></tr>'
+        rows += f'<tr class="rk-row"><th>料金のめやす</th><td><a href="{path}">大手の歌の教室 料金まとめ</a>でくらべられます<br><small>（{cdt}に公式サイトで確認。校舎・地域で変わることがあります）</small></td></tr>'
+        s2 = s2.replace('<tr><th>公式サイト</th>', rows + '<tr><th>公式サイト</th>', 1)
+        nrow += 1
+    if s2 != s: open(p, 'w', encoding='utf-8').write(s2)
+print('chain rows:', nrow)
