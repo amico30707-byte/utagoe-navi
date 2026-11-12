@@ -107,9 +107,35 @@ for dp, dn, fn in os.walk(kroot):
     d = find(html.unescape(m.group(1)))
     if d:
         t = d.get('trial') or {}
-        rows = f'<tr class="rk-row"><th>体験レッスン</th><td>{esc(t.get("price") or "公式サイトでご確認ください")}</td></tr>'
+        rows = f'<tr class="rk-row"><th>体験レッスン</th><td>{esc(d.get("trialShort") or "公式サイトでご確認ください")}</td></tr>'
         rows += f'<tr class="rk-row"><th>料金のめやす</th><td><a href="{path}">大手の歌の教室 料金まとめ</a>でくらべられます<br><small>（{cdt}に公式サイトで確認。校舎・地域で変わることがあります）</small></td></tr>'
         s2 = s2.replace('<tr><th>公式サイト</th>', rows + '<tr><th>公式サイト</th>', 1)
         nrow += 1
     if s2 != s: open(p, 'w', encoding='utf-8').write(s2)
 print('chain rows:', nrow)
+
+# 都道府県の教室ページに「この県にある大手の教室（体験・料金）」
+import csv
+PS = {r[0]: r[1] for r in list(csv.reader(open(os.path.join(ROOT, '_build/kyoshitsu/pages-list.csv'), encoding='utf-8-sig')))[1:]}
+CL = json.load(open(os.path.join(ROOT, '_build/kyoshitsu/classrooms.json'), encoding='utf-8'))
+npref = 0
+for pref, slug in PS.items():
+    p = os.path.join(ROOT, 'kyoshitsu', slug, 'index.html')
+    if not os.path.exists(p): continue
+    seen = []
+    for x in CL:
+        if x.get('prefecture') != pref: continue
+        d = find(x['name'])
+        if d and d not in seen: seen.append(d)
+    s = open(p, encoding='utf-8').read()
+    s = re.sub(r'<!--ck-chain-->.*?<!--/ck-chain-->', '', s, flags=re.S)
+    if seen:
+        li = ''.join(f'<li>{esc(d["chain"].split("（")[0])}：体験 {esc(d.get("trialShort") or "公式サイトでご確認ください")}</li>' for d in seen)
+        box = (f'<!--ck-chain--><section class="city-box"><h2>{esc(pref)}にある大手の歌の教室（体験レッスン）</h2><ul class="kl" style="line-height:1.7">{li}</ul>'
+               f'<p>入会金・月謝は<a href="{path}">大手の歌の教室 料金まとめ</a>でくらべられます（{cdt}に公式サイトで確認）。</p></section><!--/ck-chain-->')
+        if '<!--cities-end-->' in s: s = s.replace('<!--cities-end-->', '<!--cities-end-->' + box, 1)
+        else:
+            k = s.rfind('</main>'); s = s[:k] + box + s[k:]
+        npref += 1
+    open(p, 'w', encoding='utf-8').write(s)
+print('pref chain boxes:', npref)

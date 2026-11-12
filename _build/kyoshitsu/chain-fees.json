@@ -1,152 +1,332 @@
 [
-  {
-    "chain": "NAYUTAS",
-    "trial": {"offered": true, "price": "無料（「1レッスン6,500円相当を無料体験」）", "length": "校舎ページ内で「所要時間:目安60分」と「単発の50分程度のレッスン」の2通りの記載あり", "url": "https://nayutas.net/school/shinjuku/"},
-    "admission": {"text": "入会金0円 ※即日入会（未成年の場合は3日以内）に限る（校舎ページの記載。料金ページには入会金の記載なし。通常の入会金額は公式に記載なし）", "url": "https://nayutas.net/school/shinjuku/"},
-    "monthly": {"text": "高校生〜大人・1回50分：月2回 13,000円（税込14,300円）／月3回 18,000円（税込19,800円）／月4回 23,000円（税込25,300円）／月8回 44,000円（税込48,400円）。中学生・50分：月2回 税込14,300円〜。幼児〜小学生：25分×月4回 税込13,200円、50分×月2回 税込12,100円。年齢区分別の共通料金表（ボーカル専用表ではない）", "url": "https://nayutas.net/price/"},
-    "format": "マンツーマン（「全てのボイトレコースがマンツーマンレッスン」）。1回50分（幼児〜小学生は25分もあり）",
-    "online": "可（「オンライン対応も可能です」。オンライン料金は記載なし）",
-    "checked": "2026-11-12",
-    "notes": "「校舎により、校舎管理維持費等の別途費用が発生し、金額は校舎ごとに異なります」（料金ページ）。新宿西口校ページで確認。"
+ {
+  "chain": "NAYUTAS",
+  "trial": {
+   "offered": true,
+   "price": "無料（「1レッスン6,500円相当を無料体験」）",
+   "length": "校舎ページ内で「所要時間:目安60分」と「単発の50分程度のレッスン」の2通りの記載あり",
+   "url": "https://nayutas.net/school/shinjuku/"
   },
-  {
-    "chain": "USボーカル教室",
-    "trial": {"offered": true, "price": "無料", "length": "30分（マンツーマン・来店）", "url": "https://www.us-owners.com/freelesson/"},
-    "admission": {"text": "「初回入会金不要」（2回目以降の入会については記載なし）。全校で初回のお月謝3,500円OFF", "url": "https://www.us-owners.com/course/"},
-    "monthly": {"text": "個人レッスン（フレックス制・60分）：月2回 12,300円／月3回 17,700円／月4回 23,100円。ペア：月2回 15,000円（1名7,500円）〜。グループ（3名まで・固定）：月4回 9,600円。「表示価格は税込金額です」", "url": "https://www.us-owners.com/course/"},
-    "format": "マンツーマン・ペア・グループ（3名まで）。1回60分",
-    "online": null,
-    "checked": "2026-11-12",
-    "notes": "オンラインレッスンの可否は公式に記載なし。校舎別の料金差の記載なし。"
+  "admission": {
+   "text": "入会金0円 ※即日入会（未成年の場合は3日以内）に限る（校舎ページの記載。料金ページには入会金の記載なし。通常の入会金額は公式に記載なし）",
+   "url": "https://nayutas.net/school/shinjuku/"
   },
-  {
-    "chain": "シアーミュージック",
-    "trial": {"offered": true, "price": "無料（「無料体験レッスン」と表記。FAQに料金の明記なし）", "length": "当日の流れ全体で約1時間（アンケート・説明・ヒアリング・体験レッスン・入会手続き含む）。レッスン部分の時間は記載なし", "url": "https://sheer.jp/faq/"},
-    "admission": {"text": "入会金 2,000円（税込2,200円）", "url": "https://sheer.jp/system/"},
-    "monthly": {"text": "月2回 10,000円（税込11,000円）／月3回 13,500円（税込14,850円）／月4回 16,000円（税込17,600円）。一部講師は別途指名料あり", "url": "https://sheer.jp/vocal-voice/"},
-    "format": "マンツーマン。1コマ45分（入替・準備時間を含む）。全国の校舎を追加料金なしで利用可",
-    "online": "コースページに記載なし。サイト内に別サイト「オンラインボーカルレッスン」へのリンクあり、お知らせに「オンラインレッスン提供開始のお知らせ」（2020年4月3日）あり",
-    "checked": "2026-11-12",
-    "notes": "公式ドメインは sheer.jp（COPYRIGHT SHEER INC.）。体験の料金は各ページで「無料体験レッスン」の名称のみ。"
+  "monthly": {
+   "text": "高校生〜大人・1回50分：月2回 13,000円（税込14,300円）／月3回 18,000円（税込19,800円）／月4回 23,000円（税込25,300円）／月8回 44,000円（税込48,400円）。中学生・50分：月2回 税込14,300円〜。幼児〜小学生：25分×月4回 税込13,200円、50分×月2回 税込12,100円。年齢区分別の共通料金表（ボーカル専用表ではない）",
+   "url": "https://nayutas.net/price/"
   },
-  {
-    "chain": "島村楽器 音楽教室（ヴォーカル）",
-    "trial": {"offered": true, "price": "有料 2,200円（税込）", "length": "公式に記載なし", "url": "https://www.shimamura.co.jp/lesson/course/vocal/index.php"},
-    "admission": {"text": "キャンペーン価格：30分コース（個人）6,600円（通常13,200円）／60分コース（グループ）3,300円（通常6,600円）（税込）。キャンペーン終了日の記載なし", "url": "https://www.shimamura.co.jp/lesson/course/vocal/index.php"},
-    "monthly": {"text": "年間36回・税込。30分個人：初級 12,650円〜上級 15,950円。60分グループ：初級 9,900円〜上級 13,200円。別途各店舗ごとに運営管理費（月額2,200円〜）が加算", "url": "https://www.shimamura.co.jp/lesson/course/vocal/index.php"},
-    "format": "個人30分 または グループ60分（年間36回）",
-    "online": "島村楽器のオンラインレッスンは別サービスとしてあり（月2回25分 7,700円〜・税込、入会金キャンペーン3,300円、体験2,200円）。オンラインにボーカルコースがあるかはそのページ本文に記載なし",
-    "checked": "2026-11-12",
-    "notes": "オンライン情報の出典 https://www.shimamura.co.jp/lesson/online/ 。店舗ごとに運営管理費が異なる。"
+  "format": "マンツーマン（「全てのボイトレコースがマンツーマンレッスン」）。1回50分（幼児〜小学生は25分もあり）",
+  "online": "可（「オンライン対応も可能です」。オンライン料金は記載なし）",
+  "checked": "2026-11-12",
+  "notes": "「校舎により、校舎管理維持費等の別途費用が発生し、金額は校舎ごとに異なります」（料金ページ）。新宿西口校ページで確認。",
+  "trialShort": "無料"
+ },
+ {
+  "chain": "USボーカル教室",
+  "trial": {
+   "offered": true,
+   "price": "無料",
+   "length": "30分（マンツーマン・来店）",
+   "url": "https://www.us-owners.com/freelesson/"
   },
-  {
-    "chain": "InspiartZ",
-    "trial": {"offered": true, "price": "無料", "length": "公式に記載なし", "url": "https://inspiart-z.com/courses/vocal-top/"},
-    "admission": {"text": "通常17,000円、キャンペーン期間中は無料（トップページでは「体験レッスン当日に1年間レッスンを続ける約束をした方」に限る、1年間中途解約不可との条件付き）", "url": "https://inspiart-z.com/"},
-    "monthly": {"text": "ボーカルページ：「Inspiartなら10,520円〜/月」（地域・コースで変動）、平日12〜22時限定プラン10,820円/月。料金ページ：中高大生「Z学割」9,800円〜/月（マンツーマン月2回＋ステージレッスン月1回）。税込/税抜の記載なし", "url": "https://inspiart-z.com/plan/"},
-    "format": "マンツーマン（月2回）＋ステージレッスン（月1回）。1回の時間は記載なし",
-    "online": "可（「オンライン OR リアルスタジオ」）",
-    "checked": "2026-11-12",
-    "notes": "運営は2nd Community Inc.（EYSと同じ）。ボーカルページの「10,520円〜」と「平日割10,820円」は記載のまま（数字の大小が逆に見えるが公式表記どおり）。月謝の金額は https://inspiart-z.com/courses/vocal-top/ と https://inspiart-z.com/plan/ の両方。"
+  "admission": {
+   "text": "「初回入会金不要」（2回目以降の入会については記載なし）。全校で初回のお月謝3,500円OFF",
+   "url": "https://www.us-owners.com/course/"
   },
-  {
-    "chain": "EYS-Kids / EYS音楽教室",
-    "trial": {"offered": true, "price": "無料（EYS音楽教室は1回のみ）", "length": "公式に記載なし", "url": "https://www.eys-musicschool.com/charge_guidance/"},
-    "admission": {"text": "EYS音楽教室：通常17,000円（無料体験当日の入会で、入会金無料・月会費500円OFF・楽器プレゼントの3特典から1つ選択）。EYS-Kids：入会金17,000円（税込）", "url": "https://www.eys-musicschool.com/charge_guidance/"},
-    "monthly": {"text": "EYS音楽教室 ボーカル個人：通常 12,480円〜／平日割 11,680円〜（月2回・1回55分、税込/税抜の記載なし。グループはさらに毎月約2,000円〜割引）。EYS-Kids ボーカル：月々7,740円〜（税込、個人月2回・1回30分、月会費500円永年割引適用時。地域により月会費が変わる）", "url": "https://eys-kids.com/art-college/music/pc/lesson/vocal.html"},
-    "format": "EYS音楽教室：個人（55分）・グループあり。EYS-Kids：個人レッスン月2回30分",
-    "online": "EYS-Kidsボーカル：可（対応講師は限られる）。EYS音楽教室（大人）：料金ページに記載なし",
-    "checked": "2026-11-12",
-    "notes": "EYS音楽教室の料金ページ内に別の比較表記（レッスン費10,820円/月）もあり、料金表と一致しない。EYS-Kids料金ページ https://eys-kids.com/art-college/music/pc/price/ も同内容（入会金17,000円税込・7,740円〜）。"
+  "monthly": {
+   "text": "個人レッスン（フレックス制・60分）：月2回 12,300円／月3回 17,700円／月4回 23,100円。ペア：月2回 15,000円（1名7,500円）〜。グループ（3名まで・固定）：月4回 9,600円。「表示価格は税込金額です」",
+   "url": "https://www.us-owners.com/course/"
   },
-  {
-    "chain": "アバロンミュージックスクール",
-    "trial": {"offered": true, "price": "無料（「無料体験レッスン」）", "length": "公式に記載なし", "url": "https://www.avalon-works.com/basic/vocal.html"},
-    "admission": {"text": "入学金 2,200円（税込）（関東校舎）", "url": "https://www.avalon-works.com/basic/vocal.html"},
-    "monthly": {"text": "関東校舎・税込：60分 月2回 12,980円／月3回 18,810円／月4回 22,880円。45分 月2回 11,000円／月3回 14,850円／月4回 17,600円。30分 月2回 8,470円。高校生以下10%OFF。設備費・教材費無料", "url": "https://www.avalon-works.com/basic/vocal.html"},
-    "format": "公式ボーカルページに個人/グループの記載なし。30・45・60分から選択",
-    "online": "サイト内にオンラインレッスンのページあり（https://www.avalon-works.com/online/）。ボーカルコースがオンライン可かは記載なし",
-    "checked": "2026-11-12",
-    "notes": "公式ドメインは avalon-works.com。料金ページ https://www.avalon-works.com/price/ では「価格はすべて税抜価格」との本文と「（税込）」表記が混在。札幌・仙台・山形・久留米校は各校ページで別料金。"
+  "format": "マンツーマン・ペア・グループ（3名まで）。1回60分",
+  "online": null,
+  "checked": "2026-11-12",
+  "notes": "オンラインレッスンの可否は公式に記載なし。校舎別の料金差の記載なし。",
+  "trialShort": "無料"
+ },
+ {
+  "chain": "シアーミュージック",
+  "trial": {
+   "offered": true,
+   "price": "無料（「無料体験レッスン」と表記。FAQに料金の明記なし）",
+   "length": "当日の流れ全体で約1時間（アンケート・説明・ヒアリング・体験レッスン・入会手続き含む）。レッスン部分の時間は記載なし",
+   "url": "https://sheer.jp/faq/"
   },
-  {
-    "chain": "椿音楽教室",
-    "trial": {"offered": true, "price": "無料", "length": "60分", "url": "https://tsubaki-musicschool.com/lessons/popvocal/"},
-    "admission": {"text": "入会金 10,000円＋事務手数料 3,000円（税の記載なし）。体験レッスン当日の入会で入会金・事務手数料は全額免除。初期費用は2か月分のレッスン費用＋入会金＋事務手数料", "url": "https://tsubaki-musicschool.com/faq/"},
-    "monthly": {"text": "税込：月1時間 6,900円／月2時間 12,800円／月3時間 17,400円／月4時間 20,800円（1時間追加ごと7,200円）", "url": "https://tsubaki-musicschool.com/lessons/popvocal/"},
-    "format": "完全マンツーマン。全国200箇所以上のスタジオから選択",
-    "online": null,
-    "checked": "2026-11-12",
-    "notes": "オンライン可否は公式に記載なし。スタジオを借りる場合スタジオ代が別途（金額の記載なし、FAQ）。"
+  "admission": {
+   "text": "入会金 2,000円（税込2,200円）",
+   "url": "https://sheer.jp/system/"
   },
-  {
-    "chain": "ヤマハ音楽教室 / ヤマハ大人の音楽レッスン（ボーカル）",
-    "trial": {"offered": true, "price": "無料（「どちらも無料で参加できます」＝体験・見学）", "length": "公式に記載なし", "url": "https://school.jp.yamaha.com/music/lp/instrument-welcome/"},
-    "admission": {"text": "入会金・施設費は会場ごとに別途（金額の記載なし）。3カ月レッスン・デイタイムのキャンペーン期間中は免除", "url": "https://school.jp.yamaha.com/music/instrument/lp/newlesson/assets/pdf/price.pdf"},
-    "monthly": {"text": "新サービス価格一覧（2025年7月現在・税込）通常コース月3回：グループ/ミュージックジム60分 平日11,000円（スタンダード）〜、個人30分 平日13,200円〜／土日 グループ11,550円〜・個人13,970円〜。デイタイム（平日・月2回）：グループ7,920円〜、個人9,350円〜", "url": "https://school.jp.yamaha.com/music/instrument/lp/newlesson/assets/pdf/price.pdf"},
-    "format": "グループ・ミュージックジム（60分）／個人（30分）",
-    "online": null,
-    "checked": "2026-11-12",
-    "notes": "ボーカルコースページ https://school.jp.yamaha.com/music/instrument/course/vocal/ は本文を取得できず（料金はPDFから）。オンライン可否は公式に記載なし。子ども向けヤマハ音楽教室の歌コースは未確認。"
+  "monthly": {
+   "text": "月2回 10,000円（税込11,000円）／月3回 13,500円（税込14,850円）／月4回 16,000円（税込17,600円）。一部講師は別途指名料あり",
+   "url": "https://sheer.jp/vocal-voice/"
   },
-  {
-    "chain": "avex artist academy",
-    "trial": {"offered": true, "price": "無料（大阪校ページに「ボーカル無料体験期間中」、申込期間7/10〜8/25と記載）", "length": "公式に記載なし", "url": "https://aaa.avex.jp/osaka/"},
-    "admission": {"text": "入学金 33,000円（事務手数料を含む）（大阪校ページ）", "url": "https://aaa.avex.jp/osaka/"},
-    "monthly": {"text": "大阪校ボーカル（グループ）：ライトコース（小学生・60分）週1回 13,200円／週2回 22,400円。スタンダードコース（中学生〜30歳・90分）週1回 22,000円／週2回 37,400円。税込/税抜の記載なし", "url": "https://aaa.avex.jp/osaka/"},
-    "format": "グループ（最大6名・固定クラス）。60分（小学生）／90分",
-    "online": "オンラインレッスンのページはあるが開けず（https://aaa.avex.jp/online_lesson/）",
-    "checked": "2026-11-12",
-    "notes": "東京校ページ・オンラインページは開けず。数字は大阪校のみ。無料体験の申込期間表記は年の記載がなく、現在も有効か不明。入学時期は1・4・7・10月。"
+  "format": "マンツーマン。1コマ45分（入替・準備時間を含む）。全国の校舎を追加料金なしで利用可",
+  "online": "コースページに記載なし。サイト内に別サイト「オンラインボーカルレッスン」へのリンクあり、お知らせに「オンラインレッスン提供開始のお知らせ」（2020年4月3日）あり",
+  "checked": "2026-11-12",
+  "notes": "公式ドメインは sheer.jp（COPYRIGHT SHEER INC.）。体験の料金は各ページで「無料体験レッスン」の名称のみ。",
+  "trialShort": "無料"
+ },
+ {
+  "chain": "島村楽器 音楽教室（ヴォーカル）",
+  "trial": {
+   "offered": true,
+   "price": "有料 2,200円（税込）",
+   "length": "公式に記載なし",
+   "url": "https://www.shimamura.co.jp/lesson/course/vocal/index.php"
   },
-  {
-    "chain": "リズムセブンアカデミー",
-    "trial": {"offered": true, "price": "無料（ページタイトル「30分無料体験レッスン！」）", "length": "30分", "url": "https://rhythm7.jp/index_rs2_voca_school_030.html"},
-    "admission": {"text": "入会金 11,000円（税込）（プロ育成コースの表に記載）", "url": "https://rhythm7.jp/index_rs2_voca_school_030.html"},
-    "monthly": {"text": "プロ育成コース（ボーカル）のみ確認：月2回・60分 26,700円（税込）／月4回 44,500円（税込）。一般コースの月謝は料金ページを開けず未確認", "url": "https://rhythm7.jp/index_rs2_voca_school_030.html"},
-    "format": "プライベート（個人）。60分（月2回プラン）",
-    "online": null,
-    "checked": "2026-11-12",
-    "notes": "料金ページ https://www.rhythm7.jp/price/ はページを開けず（サーバーエラー）。一般のボーカル月謝は要再確認。オンライン可否は記載なし。"
+  "admission": {
+   "text": "キャンペーン価格：30分コース（個人）6,600円（通常13,200円）／60分コース（グループ）3,300円（通常6,600円）（税込）。キャンペーン終了日の記載なし",
+   "url": "https://www.shimamura.co.jp/lesson/course/vocal/index.php"
   },
-  {
-    "chain": "パピーミュージックスクール",
-    "trial": {"offered": true, "price": "無料（2回目以降は2,000円）", "length": "公式に記載なし", "url": "https://puppymusic.jp/price"},
-    "admission": {"text": "通常8,000円（税込）、体験当日の入会で5,000円。複数コース・家族入会は2人目以降無料", "url": "https://puppymusic.jp/price"},
-    "monthly": {"text": "税込（設備維持費 月額600円別途）：個人30分 月1回 5,000円／月2回 7,700円／月3回 9,500円／月4回 12,300円。個人45分 月1回 6,300円〜月4回 18,000円。グループ・ペア45分 月1回 4,200円〜月4回 10,200円", "url": "https://puppymusic.jp/price"},
-    "format": "個人（30分/45分）またはグループ・ペア（45分、月3回日程固定）",
-    "online": null,
-    "checked": "2026-11-12",
-    "notes": "愛知県（岡崎・刈谷・名古屋など）の教室。オンライン可否は公式に記載なし。ボーカルページ https://puppymusic.jp/vocal には「月々4200円！」の表記。"
+  "monthly": {
+   "text": "年間36回・税込。30分個人：初級 12,650円〜上級 15,950円。60分グループ：初級 9,900円〜上級 13,200円。別途各店舗ごとに運営管理費（月額2,200円〜）が加算",
+   "url": "https://www.shimamura.co.jp/lesson/course/vocal/index.php"
   },
-  {
-    "chain": "アミーズボーカルスクール",
-    "trial": {"offered": true, "price": "無料", "length": "30分", "url": "https://amies-vm.com/lesson/"},
-    "admission": {"text": "入会金 11,000円", "url": "https://amies-vm.com/lesson/"},
-    "monthly": {"text": "税込・1回60分：個人 月2回 12,100円／月3回 18,150円／月4回 24,200円。個人ジュニア（小学生以下）月2回 9,900円〜。ペア 月2回 15,400円（1名7,700円）〜", "url": "https://amies-vm.com/lesson/"},
-    "format": "個人レッスン中心（ペア・ジュニアあり）。60分",
-    "online": null,
-    "checked": "2026-11-12",
-    "notes": "オンライン可否は公式に記載なし。校舎別の料金差の記載なし（8校舎）。"
+  "format": "個人30分 または グループ60分（年間36回）",
+  "online": "島村楽器のオンラインレッスンは別サービスとしてあり（月2回25分 7,700円〜・税込、入会金キャンペーン3,300円、体験2,200円）。オンラインにボーカルコースがあるかはそのページ本文に記載なし",
+  "checked": "2026-11-12",
+  "notes": "オンライン情報の出典 https://www.shimamura.co.jp/lesson/online/ 。店舗ごとに運営管理費が異なる。",
+  "trialShort": "有料（2,200円・税込）"
+ },
+ {
+  "chain": "InspiartZ",
+  "trial": {
+   "offered": true,
+   "price": "無料",
+   "length": "公式に記載なし",
+   "url": "https://inspiart-z.com/courses/vocal-top/"
   },
-  {
-    "chain": "カワイ音楽教室（うた・ボーカル）",
-    "trial": {"offered": true, "price": "無料体験レッスンは無料（別に有料の「おためし4回レッスン」あり）", "length": "公式に記載なし", "url": "https://music.kawai.jp/po/enter/"},
-    "admission": {"text": "入会金 5,500円（税込）〜11,000円（税込）。教室ごとに異なる", "url": "https://music.kawai.jp/po/enter/"},
-    "monthly": {"text": null, "url": "https://music.kawai.jp/po/vocal/"},
-    "format": "公式に記載なし",
-    "online": null,
-    "checked": "2026-11-12",
-    "notes": "カワイおとなの音楽教室のボーカルコースで確認。月謝（授業料）・運営管理費は教室ごとに異なり、全国共通の金額は公式に記載なし。子ども向け「うた」コースは未確認。"
+  "admission": {
+   "text": "通常17,000円、キャンペーン期間中は無料（トップページでは「体験レッスン当日に1年間レッスンを続ける約束をした方」に限る、1年間中途解約不可との条件付き）",
+   "url": "https://inspiart-z.com/"
   },
-  {
-    "chain": "劇団ひまわり",
-    "trial": {"offered": true, "price": "無料オーディション（書類選考→対面選考）。体験レッスンの記載なし", "length": "公式に記載なし", "url": "https://www.himawari.net/school/enter/"},
-    "admission": {"text": "入所金（税込）：東京・名古屋・大阪・福岡の幼稚部〜高等部 176,000円／青年部 242,000円。エクステンションスタジオ（札幌・横浜・さいたま・京都など）132,000円。リトルキッズ・キンダーズは登録無料", "url": "https://www.himawari.net/school/fee/"},
-    "monthly": {"text": "研究費（月謝・税込）：東京俳優養成所 26,125円（ユースクラス16,500円）、その他拠点 16,500円", "url": "https://www.himawari.net/school/fee/"},
-    "format": "研究生としてレッスンに通う（基礎・特別・選択レッスン）。時間・人数の記載なし",
-    "online": null,
-    "checked": "2026-11-12",
-    "notes": "歌専門ではなく演技・声優・歌唱・ダンス等の総合養成所。費用ページでは名古屋・大阪・福岡・札幌の幼稚部〜高等部の研究費が空欄、入所案内ページでは16,500円と記載。オンライン可否は記載なし。"
-  }
+  "monthly": {
+   "text": "ボーカルページ：「Inspiartなら10,520円〜/月」（地域・コースで変動）、平日12〜22時限定プラン10,820円/月。料金ページ：中高大生「Z学割」9,800円〜/月（マンツーマン月2回＋ステージレッスン月1回）。税込/税抜の記載なし",
+   "url": "https://inspiart-z.com/plan/"
+  },
+  "format": "マンツーマン（月2回）＋ステージレッスン（月1回）。1回の時間は記載なし",
+  "online": "可（「オンライン OR リアルスタジオ」）",
+  "checked": "2026-11-12",
+  "notes": "運営は2nd Community Inc.（EYSと同じ）。ボーカルページの「10,520円〜」と「平日割10,820円」は記載のまま（数字の大小が逆に見えるが公式表記どおり）。月謝の金額は https://inspiart-z.com/courses/vocal-top/ と https://inspiart-z.com/plan/ の両方。",
+  "trialShort": "無料"
+ },
+ {
+  "chain": "EYS-Kids / EYS音楽教室",
+  "trial": {
+   "offered": true,
+   "price": "無料（EYS音楽教室は1回のみ）",
+   "length": "公式に記載なし",
+   "url": "https://www.eys-musicschool.com/charge_guidance/"
+  },
+  "admission": {
+   "text": "EYS音楽教室：通常17,000円（無料体験当日の入会で、入会金無料・月会費500円OFF・楽器プレゼントの3特典から1つ選択）。EYS-Kids：入会金17,000円（税込）",
+   "url": "https://www.eys-musicschool.com/charge_guidance/"
+  },
+  "monthly": {
+   "text": "EYS音楽教室 ボーカル個人：通常 12,480円〜／平日割 11,680円〜（月2回・1回55分、税込/税抜の記載なし。グループはさらに毎月約2,000円〜割引）。EYS-Kids ボーカル：月々7,740円〜（税込、個人月2回・1回30分、月会費500円永年割引適用時。地域により月会費が変わる）",
+   "url": "https://eys-kids.com/art-college/music/pc/lesson/vocal.html"
+  },
+  "format": "EYS音楽教室：個人（55分）・グループあり。EYS-Kids：個人レッスン月2回30分",
+  "online": "EYS-Kidsボーカル：可（対応講師は限られる）。EYS音楽教室（大人）：料金ページに記載なし",
+  "checked": "2026-11-12",
+  "notes": "EYS音楽教室の料金ページ内に別の比較表記（レッスン費10,820円/月）もあり、料金表と一致しない。EYS-Kids料金ページ https://eys-kids.com/art-college/music/pc/price/ も同内容（入会金17,000円税込・7,740円〜）。",
+  "trialShort": "無料"
+ },
+ {
+  "chain": "アバロンミュージックスクール",
+  "trial": {
+   "offered": true,
+   "price": "無料（「無料体験レッスン」）",
+   "length": "公式に記載なし",
+   "url": "https://www.avalon-works.com/basic/vocal.html"
+  },
+  "admission": {
+   "text": "入学金 2,200円（税込）（関東校舎）",
+   "url": "https://www.avalon-works.com/basic/vocal.html"
+  },
+  "monthly": {
+   "text": "関東校舎・税込：60分 月2回 12,980円／月3回 18,810円／月4回 22,880円。45分 月2回 11,000円／月3回 14,850円／月4回 17,600円。30分 月2回 8,470円。高校生以下10%OFF。設備費・教材費無料",
+   "url": "https://www.avalon-works.com/basic/vocal.html"
+  },
+  "format": "公式ボーカルページに個人/グループの記載なし。30・45・60分から選択",
+  "online": "サイト内にオンラインレッスンのページあり（https://www.avalon-works.com/online/）。ボーカルコースがオンライン可かは記載なし",
+  "checked": "2026-11-12",
+  "notes": "公式ドメインは avalon-works.com。料金ページ https://www.avalon-works.com/price/ では「価格はすべて税抜価格」との本文と「（税込）」表記が混在。札幌・仙台・山形・久留米校は各校ページで別料金。",
+  "trialShort": "無料"
+ },
+ {
+  "chain": "椿音楽教室",
+  "trial": {
+   "offered": true,
+   "price": "無料",
+   "length": "60分",
+   "url": "https://tsubaki-musicschool.com/lessons/popvocal/"
+  },
+  "admission": {
+   "text": "入会金 10,000円＋事務手数料 3,000円（税の記載なし）。体験レッスン当日の入会で入会金・事務手数料は全額免除。初期費用は2か月分のレッスン費用＋入会金＋事務手数料",
+   "url": "https://tsubaki-musicschool.com/faq/"
+  },
+  "monthly": {
+   "text": "税込：月1時間 6,900円／月2時間 12,800円／月3時間 17,400円／月4時間 20,800円（1時間追加ごと7,200円）",
+   "url": "https://tsubaki-musicschool.com/lessons/popvocal/"
+  },
+  "format": "完全マンツーマン。全国200箇所以上のスタジオから選択",
+  "online": null,
+  "checked": "2026-11-12",
+  "notes": "オンライン可否は公式に記載なし。スタジオを借りる場合スタジオ代が別途（金額の記載なし、FAQ）。",
+  "trialShort": "無料"
+ },
+ {
+  "chain": "ヤマハ音楽教室 / ヤマハ大人の音楽レッスン（ボーカル）",
+  "trial": {
+   "offered": true,
+   "price": "無料（「どちらも無料で参加できます」＝体験・見学）",
+   "length": "公式に記載なし",
+   "url": "https://school.jp.yamaha.com/music/lp/instrument-welcome/"
+  },
+  "admission": {
+   "text": "入会金・施設費は会場ごとに別途（金額の記載なし）。3カ月レッスン・デイタイムのキャンペーン期間中は免除",
+   "url": "https://school.jp.yamaha.com/music/instrument/lp/newlesson/assets/pdf/price.pdf"
+  },
+  "monthly": {
+   "text": "新サービス価格一覧（2025年7月現在・税込）通常コース月3回：グループ/ミュージックジム60分 平日11,000円（スタンダード）〜、個人30分 平日13,200円〜／土日 グループ11,550円〜・個人13,970円〜。デイタイム（平日・月2回）：グループ7,920円〜、個人9,350円〜",
+   "url": "https://school.jp.yamaha.com/music/instrument/lp/newlesson/assets/pdf/price.pdf"
+  },
+  "format": "グループ・ミュージックジム（60分）／個人（30分）",
+  "online": null,
+  "checked": "2026-11-12",
+  "notes": "ボーカルコースページ https://school.jp.yamaha.com/music/instrument/course/vocal/ は本文を取得できず（料金はPDFから）。オンライン可否は公式に記載なし。子ども向けヤマハ音楽教室の歌コースは未確認。",
+  "trialShort": "無料"
+ },
+ {
+  "chain": "avex artist academy",
+  "trial": {
+   "offered": true,
+   "price": "無料（大阪校ページに「ボーカル無料体験期間中」、申込期間7/10〜8/25と記載）",
+   "length": "公式に記載なし",
+   "url": "https://aaa.avex.jp/osaka/"
+  },
+  "admission": {
+   "text": "入学金 33,000円（事務手数料を含む）（大阪校ページ）",
+   "url": "https://aaa.avex.jp/osaka/"
+  },
+  "monthly": {
+   "text": "大阪校ボーカル（グループ）：ライトコース（小学生・60分）週1回 13,200円／週2回 22,400円。スタンダードコース（中学生〜30歳・90分）週1回 22,000円／週2回 37,400円。税込/税抜の記載なし",
+   "url": "https://aaa.avex.jp/osaka/"
+  },
+  "format": "グループ（最大6名・固定クラス）。60分（小学生）／90分",
+  "online": "オンラインレッスンのページはあるが開けず（https://aaa.avex.jp/online_lesson/）",
+  "checked": "2026-11-12",
+  "notes": "東京校ページ・オンラインページは開けず。数字は大阪校のみ。無料体験の申込期間表記は年の記載がなく、現在も有効か不明。入学時期は1・4・7・10月。",
+  "trialShort": "公式サイトでご確認ください（無料体験の期間あり）"
+ },
+ {
+  "chain": "リズムセブンアカデミー",
+  "trial": {
+   "offered": true,
+   "price": "無料（ページタイトル「30分無料体験レッスン！」）",
+   "length": "30分",
+   "url": "https://rhythm7.jp/index_rs2_voca_school_030.html"
+  },
+  "admission": {
+   "text": "入会金 11,000円（税込）（プロ育成コースの表に記載）",
+   "url": "https://rhythm7.jp/index_rs2_voca_school_030.html"
+  },
+  "monthly": {
+   "text": "プロ育成コース（ボーカル）のみ確認：月2回・60分 26,700円（税込）／月4回 44,500円（税込）。一般コースの月謝は料金ページを開けず未確認",
+   "url": "https://rhythm7.jp/index_rs2_voca_school_030.html"
+  },
+  "format": "プライベート（個人）。60分（月2回プラン）",
+  "online": null,
+  "checked": "2026-11-12",
+  "notes": "料金ページ https://www.rhythm7.jp/price/ はページを開けず（サーバーエラー）。一般のボーカル月謝は要再確認。オンライン可否は記載なし。",
+  "trialShort": "無料"
+ },
+ {
+  "chain": "パピーミュージックスクール",
+  "trial": {
+   "offered": true,
+   "price": "無料（2回目以降は2,000円）",
+   "length": "公式に記載なし",
+   "url": "https://puppymusic.jp/price"
+  },
+  "admission": {
+   "text": "通常8,000円（税込）、体験当日の入会で5,000円。複数コース・家族入会は2人目以降無料",
+   "url": "https://puppymusic.jp/price"
+  },
+  "monthly": {
+   "text": "税込（設備維持費 月額600円別途）：個人30分 月1回 5,000円／月2回 7,700円／月3回 9,500円／月4回 12,300円。個人45分 月1回 6,300円〜月4回 18,000円。グループ・ペア45分 月1回 4,200円〜月4回 10,200円",
+   "url": "https://puppymusic.jp/price"
+  },
+  "format": "個人（30分/45分）またはグループ・ペア（45分、月3回日程固定）",
+  "online": null,
+  "checked": "2026-11-12",
+  "notes": "愛知県（岡崎・刈谷・名古屋など）の教室。オンライン可否は公式に記載なし。ボーカルページ https://puppymusic.jp/vocal には「月々4200円！」の表記。",
+  "trialShort": "無料（2回目からは2,000円）"
+ },
+ {
+  "chain": "アミーズボーカルスクール",
+  "trial": {
+   "offered": true,
+   "price": "無料",
+   "length": "30分",
+   "url": "https://amies-vm.com/lesson/"
+  },
+  "admission": {
+   "text": "入会金 11,000円",
+   "url": "https://amies-vm.com/lesson/"
+  },
+  "monthly": {
+   "text": "税込・1回60分：個人 月2回 12,100円／月3回 18,150円／月4回 24,200円。個人ジュニア（小学生以下）月2回 9,900円〜。ペア 月2回 15,400円（1名7,700円）〜",
+   "url": "https://amies-vm.com/lesson/"
+  },
+  "format": "個人レッスン中心（ペア・ジュニアあり）。60分",
+  "online": null,
+  "checked": "2026-11-12",
+  "notes": "オンライン可否は公式に記載なし。校舎別の料金差の記載なし（8校舎）。",
+  "trialShort": "無料"
+ },
+ {
+  "chain": "カワイ音楽教室（うた・ボーカル）",
+  "trial": {
+   "offered": true,
+   "price": "無料体験レッスンは無料（別に有料の「おためし4回レッスン」あり）",
+   "length": "公式に記載なし",
+   "url": "https://music.kawai.jp/po/enter/"
+  },
+  "admission": {
+   "text": "入会金 5,500円（税込）〜11,000円（税込）。教室ごとに異なる",
+   "url": "https://music.kawai.jp/po/enter/"
+  },
+  "monthly": {
+   "text": null,
+   "url": "https://music.kawai.jp/po/vocal/"
+  },
+  "format": "公式に記載なし",
+  "online": null,
+  "checked": "2026-11-12",
+  "notes": "カワイおとなの音楽教室のボーカルコースで確認。月謝（授業料）・運営管理費は教室ごとに異なり、全国共通の金額は公式に記載なし。子ども向け「うた」コースは未確認。",
+  "trialShort": "無料（ほかに有料のおためしレッスンあり）"
+ },
+ {
+  "chain": "劇団ひまわり",
+  "trial": {
+   "offered": true,
+   "price": "無料オーディション（書類選考→対面選考）。体験レッスンの記載なし",
+   "length": "公式に記載なし",
+   "url": "https://www.himawari.net/school/enter/"
+  },
+  "admission": {
+   "text": "入所金（税込）：東京・名古屋・大阪・福岡の幼稚部〜高等部 176,000円／青年部 242,000円。エクステンションスタジオ（札幌・横浜・さいたま・京都など）132,000円。リトルキッズ・キンダーズは登録無料",
+   "url": "https://www.himawari.net/school/fee/"
+  },
+  "monthly": {
+   "text": "研究費（月謝・税込）：東京俳優養成所 26,125円（ユースクラス16,500円）、その他拠点 16,500円",
+   "url": "https://www.himawari.net/school/fee/"
+  },
+  "format": "研究生としてレッスンに通う（基礎・特別・選択レッスン）。時間・人数の記載なし",
+  "online": null,
+  "checked": "2026-11-12",
+  "notes": "歌専門ではなく演技・声優・歌唱・ダンス等の総合養成所。費用ページでは名古屋・大阪・福岡・札幌の幼稚部〜高等部の研究費が空欄、入所案内ページでは16,500円と記載。オンライン可否は記載なし。",
+  "trialShort": "体験レッスンの記載なし（無料オーディションあり）"
+ }
 ]
