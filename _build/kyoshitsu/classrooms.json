@@ -52,6 +52,22 @@
   "senior": ""
  },
  {
+  "name": "ノルドエコー",
+  "prefecture": "北海道",
+  "city": "帯広市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "合唱が好きな女性（初心者・再開者歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://nord-echo.com/",
+  "note": "帯広の明和小学校音楽室で練習する女声合唱団。団員募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "中標津ジュニア合唱団ひかり",
   "prefecture": "北海道",
   "city": "中標津町",
@@ -66,6 +82,22 @@
   "online": "不明",
   "url": "https://www.hokkaido-np.co.jp/article/1285087/",
   "note": "中標津・別海の中学生。新聞記事で確認",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "函館トロイカ合唱団",
+  "prefecture": "北海道",
+  "city": "函館市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明（団員いつでも募集中）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://hakotoro.net/",
+  "note": "函館市の混声合唱団。月・金曜に練習し、定期演奏会やうたごえ喫茶などで活動。",
   "listingOnly": false,
   "senior": ""
  },
@@ -110,6 +142,38 @@
   "online": "なし",
   "url": "https://www.mitopromusica.com/kitahiroshima-boys-and-girls-choir",
   "note": "1984年創立。団員募集中",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "北海道合唱団",
+  "prefecture": "北海道",
+  "city": "札幌市白石区",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不問（学生・主婦・退職者など幅広く歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://hokkaido-chorus.info/recruit.html",
+  "note": "東札幌教会で練習する歴史ある合唱団。新入団員募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "合唱団キレンジャク",
+  "prefecture": "北海道",
+  "city": "旭川市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "初心者・経験者歓迎（団員は30〜60代）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://kirenjaku.jimdofree.com/",
+  "note": "旭川市の混声合唱団。神楽公民館などで練習、2026年8月に第22回演奏会。",
   "listingOnly": false,
   "senior": ""
  },
@@ -324,6 +388,22 @@
   "seniorCourse": ""
  },
  {
+  "name": "音楽教室「おと塾」",
+  "prefecture": "北海道",
+  "city": "旭川市",
+  "type": "個人教室",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://musiccross.sakura.ne.jp/otojuku_main.html",
+  "note": "旭川市東光の音楽教室。声楽・ボイトレ・カラオケやピアノなどを個人・グループで指導。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "ARCO Music School（アルコ音楽教室）",
   "prefecture": "北海道",
   "city": "札幌市白石区",
@@ -346,6 +426,20 @@
   "listingOnly": true,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "Common Village（ボイストレーニング教室）",
+  "prefecture": "北海道",
+  "city": "函館市",
+  "type": "音楽教室",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://music.common-village.jp/",
+  "note": "函館市末広町の臥牛館3階。防音ブースでマンツーマンのボイトレ・歌のレッスン。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "MAIRU音楽館（KANAピアノ音楽教室）",
@@ -474,6 +568,23 @@
   "seniorCourse": ""
  },
  {
+  "name": "ボーカル教室 HAPPY I SCREAM",
+  "prefecture": "北海道",
+  "city": "帯広市",
+  "type": "音楽教室",
+  "genres": [],
+  "ages": "年齢制限なし（学生〜社会人・シニア）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "http://happy-i-scream.com/",
+  "note": "帯広市公園東町のボーカル教室。解剖学に基づく歌のレッスンのほか楽器も学べる。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "ミツノミュージックスクール 月寒中央通10丁目教室",
   "prefecture": "北海道",
   "city": "札幌市豊平区",
@@ -512,6 +623,23 @@
   "listingOnly": true,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "平井音楽事務所 HiraiMusic School",
+  "prefecture": "北海道",
+  "city": "帯広市",
+  "type": "音楽教室",
+  "genres": [],
+  "ages": "6歳〜70代",
+  "ageTags": [
+   "toddler",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://hiraimusic.com/",
+  "note": "十勝・帯広の音楽教室。ボーカルやギター・ドラムなどの個人レッスン。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "札幌コンセルヴァトワール",
@@ -797,6 +925,52 @@
   "seniorCourse": ""
  },
  {
+  "name": "エルム楽器 苫小牧センター（声楽・ボイストレーニング）",
+  "prefecture": "北海道",
+  "city": "苫小牧市",
+  "type": "チェーン",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明（センターは子どもからシニアまで）",
+  "ageTags": [],
+  "online": "あり",
+  "url": "https://www.elm-t.co.jp/classroom/tomakomai/",
+  "note": "苫小牧市寿町の音楽教室。主にクラシックの声楽・ボイトレ。声楽・ボーカルのオンラインレッスンもある。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "エルム楽器 苫小牧東センター（ボーカル・ボイストレーニング）",
+  "prefecture": "北海道",
+  "city": "苫小牧市",
+  "type": "チェーン",
+  "genres": [],
+  "ages": "不明（センターは子どもからシニアまで）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.elm-t.co.jp/classroom/tomakomaihigashi/",
+  "note": "苫小牧市新開町の音楽教室。主にポピュラーのボーカル・ボイトレコースがある。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "エルム楽器 釧路センター（ボーカル・ボイストレーニング）",
+  "prefecture": "北海道",
+  "city": "釧路市",
+  "type": "チェーン",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "あり",
+  "url": "https://www.elm-t.co.jp/classroom/kushiro/",
+  "note": "釧路市新橋大通の音楽教室。ボーカル・ボイトレ（主にポピュラー）、ボーカル・声楽のオンラインレッスンがある。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "シアーミュージック 札幌校",
   "prefecture": "北海道",
   "city": "札幌市中央区",
@@ -940,6 +1114,25 @@
   "online": "不明",
   "url": "https://www.shimamura.co.jp/lesson/course/kids/kids-vocalperformance/",
   "note": "札幌クラシック店でキッズヴォーカル開講（日曜）",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "旭楽器音楽教室（ボーカルコース）",
+  "prefecture": "北海道",
+  "city": "帯広市",
+  "type": "チェーン",
+  "genres": [],
+  "ages": "小学生以上〜大人（50歳以上向けボイトレもあり）",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://asahigakki.jp/school/asahigakki/",
+  "note": "帯広市の楽器店の音楽教室。ボーカルコースと50歳以上向けボイストレーニングがある。",
   "listingOnly": false,
   "senior": ""
  },
@@ -9909,6 +10102,23 @@
   "senior": ""
  },
  {
+  "name": "つつじヶ丘スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "調布市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-128/",
+  "note": "調布市菊野台のスタジオ ラ・ヴィで月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "はちおうじキッズシンガーズ",
   "prefecture": "東京都",
   "city": "八王子市",
@@ -10058,6 +10268,23 @@
   "senior": ""
  },
  {
+  "name": "三鷹スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "三鷹市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-33/",
+  "note": "三鷹市芸術文化センターで月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "世田谷ジュニア合唱団",
   "prefecture": "東京都",
   "city": "世田谷区",
@@ -10079,6 +10306,73 @@
   "senior": ""
  },
  {
+  "name": "中央区・プリエールジュニアコーラス",
+  "prefecture": "東京都",
+  "city": "中央区",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.chuo-city-priere.jp/contact.html",
+  "note": "2014年に中央区・教育委員会の支援で発足した児童合唱団。毎週土曜練習、団員随時募集。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "中野スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "中野区",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-89/",
+  "note": "中野バプテスト教会で月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "五反田スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "品川区",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-6/",
+  "note": "五反田文化センターで月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "保谷スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "西東京市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-88/",
+  "note": "保谷こもれびホールで月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "初音の杜ジュニアコーラス",
   "prefecture": "東京都",
   "city": "台東区",
@@ -10091,6 +10385,22 @@
   "online": "不明",
   "url": "http://hatsune-jc.com/",
   "note": "下町ジュニアコーラス出演団体",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "台東区民合唱団",
+  "prefecture": "東京都",
+  "city": "台東区",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明（区外からの参加も可）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.taitocivicchoir.tokyo/aboutus/",
+  "note": "1981年発足の混声合唱団（約60名）。第九などを歌い、団員随時募集。2026年に45周年演奏会。",
   "listingOnly": false,
   "senior": ""
  },
@@ -10134,6 +10444,23 @@
   "online": "不明",
   "url": "https://kjmt.jimdofree.com/",
   "note": "児童合唱とミュージカル",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "国立スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "国立市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-119/",
+  "note": "国立ヴィオレホールで月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
   "listingOnly": false,
   "senior": ""
  },
@@ -10220,6 +10547,23 @@
   "senior": ""
  },
  {
+  "name": "御茶ノ水スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "千代田区",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-95/",
+  "note": "万世橋区民館で月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "新宿区少年少女合唱団",
   "prefecture": "東京都",
   "city": "新宿区",
@@ -10237,6 +10581,40 @@
   "url": "https://jmty.jp/tokyo/les-mus/article-1o25ge",
   "note": "赤城生涯学習センターで練習",
   "listingOnly": true,
+  "senior": ""
+ },
+ {
+  "name": "春日スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "文京区",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-26/",
+  "note": "文京シビックセンターで月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "昭島スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "昭島市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-23/",
+  "note": "昭島市勤労商工市民センターで月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
+  "listingOnly": false,
   "senior": ""
  },
  {
@@ -10259,6 +10637,23 @@
   "online": "不明",
   "url": "https://www.sugi-ji.jp/",
   "note": "1964年杉並区で誕生",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "東久留米スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "東久留米市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-80/",
+  "note": "成美教育文化会館で月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
   "listingOnly": false,
   "senior": ""
  },
@@ -10397,6 +10792,23 @@
   "senior": ""
  },
  {
+  "name": "武蔵小金井スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "小金井市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-22/",
+  "note": "小金井 宮地楽器ホールで月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "江戸川区少年少女合唱団",
   "prefecture": "東京都",
   "city": "江戸川区",
@@ -10450,6 +10862,22 @@
   "online": "不明",
   "url": "https://1640fjgh.wixsite.com/asakawa",
   "note": "日曜午前・合唱とミュージカル",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "混声合唱団AMC",
+  "prefecture": "東京都",
+  "city": "あきる野市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "あきる野市在住・在勤の合唱愛好者（市外の方も可）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://akirunoamc.stars.ne.jp/m1_shoukai.html",
+  "note": "あきる野市中央公民館で月3回土曜に練習する混声合唱団。",
   "listingOnly": false,
   "senior": ""
  },
@@ -10529,6 +10957,40 @@
   "online": "不明",
   "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/bunka/kominkan/moyooshi/jido.html",
   "note": "生涯学習センター事業・D組は基礎",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "羽村スマイル合唱団",
+  "prefecture": "東京都",
+  "city": "羽村市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "性別・年齢不問（初心者歓迎、40〜80代中心）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-94/",
+  "note": "羽村市生涯学習センターゆとろぎで月2回練習。スマイル合唱団の一つ。童謡・唱歌などを楽しく歌う。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "調布市民オペラ振興会合唱団",
+  "prefecture": "東京都",
+  "city": "調布市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "声楽"
+  ],
+  "ages": "不問（初心者・市外の方も歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.chofucityopera.com/chorus",
+  "note": "調布市文化会館たづくりで毎週土曜夜に練習するアマチュア混声合唱団。オペラ・ガラ公演に出演。",
   "listingOnly": false,
   "senior": ""
  },
@@ -11491,6 +11953,22 @@
   "seniorCourse": "地域音楽療法訪問レッスン（シニア世代向け）"
  },
  {
+  "name": "しゃむろっくボーカルスクール",
+  "prefecture": "東京都",
+  "city": "西東京市",
+  "type": "音楽教室",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://shamrock-vocal.com/access/",
+  "note": "西東京市南町のボーカルスクール。ボイトレ・弾き語りの個人/グループレッスンやGleeコーラスがある。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "のんのんじゃんるプロジェクト 高円寺南教室",
   "prefecture": "東京都",
   "city": "杉並区",
@@ -12053,6 +12531,24 @@
   "senior": ""
  },
  {
+  "name": "上野ヴォーカルアカデミー",
+  "prefecture": "東京都",
+  "city": "荒川区",
+  "type": "音楽教室",
+  "genres": [],
+  "ages": "中学生・高校生（ジュニアコース）〜大人",
+  "ageTags": [
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "あり",
+  "url": "https://www.e-koe.com/",
+  "note": "日暮里駅近くのボイトレ教室。歌のコースと話す声のコースがあり、LINEでのオンラインレッスンも可。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "両国スタジオK",
   "prefecture": "東京都",
   "city": "墨田区",
@@ -12092,6 +12588,25 @@
   "listingOnly": false,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "学園坂スタジオ（ヴォーカル＆声楽教室）",
+  "prefecture": "東京都",
+  "city": "小平市",
+  "type": "音楽教室",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "幼児〜シニア",
+  "ageTags": [
+   "toddler",
+   "adult"
+  ],
+  "online": "あり",
+  "url": "https://www.gakuenzaka.com/vocal-lesson",
+  "note": "小平市学園東町のスタジオ。ヴォーカル・声楽の個人レッスンを行い、Zoomでのオンラインも常時対応。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "小林音楽教室",
@@ -12349,6 +12864,26 @@
   "seniorCourse": ""
  },
  {
+  "name": "Kidsミュージカルファクトリー",
+  "prefecture": "東京都",
+  "city": "西東京市",
+  "type": "ミュージカル・劇団スクール",
+  "genres": [
+   "ミュージカル"
+  ],
+  "ages": "小学生〜高校生",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high"
+  ],
+  "online": "不明",
+  "url": "https://www.kidsmf.net/",
+  "note": "西東京市の子どもミュージカル団体。新規会員募集中、無料体験あり。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "M MUSIC School（ミュージカルスタジオコバヤシ）",
   "prefecture": "東京都",
   "city": "大田区",
@@ -12462,6 +12997,23 @@
   "online": "あり",
   "url": "https://ss-kids-musical.com/",
   "note": "ミュージカルクラス・個人ヴォーカル",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "SMCC（セゾンミュージカルコーラス）",
+  "prefecture": "東京都",
+  "city": "東村山市",
+  "type": "ミュージカル・劇団スクール",
+  "genres": [
+   "ミュージカル",
+   "合唱"
+  ],
+  "ages": "不明（経験不問）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.smcc-music.com/member",
+  "note": "東村山・東大和・小平の公共施設で毎週土曜に練習。歌・演技・ダンスを学び2026年11月に本公演。",
   "listingOnly": false,
   "senior": ""
  },
@@ -13012,6 +13564,22 @@
   "seniorCourse": ""
  },
  {
+  "name": "宮地楽器 河辺センター（声楽・ボイストレーニング）",
+  "prefecture": "東京都",
+  "city": "青梅市",
+  "type": "チェーン",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.miyajimusic.com/school/kabe/",
+  "note": "青梅市河辺町の宮地楽器の音楽教室。声楽・ボイストレーニングのコースがある。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "島村楽器（キッズヴォーカル）",
   "prefecture": "東京都",
   "city": "都内に複数",
@@ -13049,6 +13617,44 @@
   "listingOnly": true,
   "senior": "歓迎",
   "seniorCourse": ""
+ },
+ {
+  "name": "NHK文化センター青山教室「ミュージカルを歌おう」",
+  "prefecture": "東京都",
+  "city": "港区",
+  "type": "カルチャーセンター",
+  "genres": [
+   "ミュージカル"
+  ],
+  "ages": "大人（初心者可）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "なし",
+  "url": "https://www.nhk-cul.co.jp/programs/program_1248647.html",
+  "note": "元劇団四季の講師とミュージカルの名曲を歌う夜間講座（第2・4金曜）。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "NHK文化センター青山教室「大人から始める声楽レッスン」",
+  "prefecture": "東京都",
+  "city": "港区",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "大人（楽譜が読めなくても可）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "なし",
+  "url": "https://www.nhk-cul.co.jp/programs/program_934777.html",
+  "note": "二期会会員の講師が発声・呼吸から歌曲を指導する夜間講座（第1・3火曜）。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "かなりあ少年少女合唱団",
@@ -34777,6 +35383,54 @@
   "senior": ""
  },
  {
+  "name": "コーロ・ヴァイン",
+  "prefecture": "広島県",
+  "city": "広島市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不問（転勤者・再開者も歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://corovine.jimdofree.com/",
+  "note": "広島市を拠点とする混声合唱団。団員募集中、練習見学可。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "合唱団ある",
+  "prefecture": "広島県",
+  "city": "広島市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不問（見学から入団可）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://chor-aru.vercel.app/page/recruitment",
+  "note": "広島市内の区民文化センター・公民館で週1回土日に練習する合唱団。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "合唱団ぽっきり",
+  "prefecture": "広島県",
+  "city": "広島市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "20代中心（見学・入団随時）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://hiroshimachoral.wixsite.com/gassyoudanpokkiri",
+  "note": "広島市中心部と広島大学東広島キャンパスで練習する混声合唱団。2026年県合唱コンクール金賞。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "呉ジュニアコーラスみらい",
   "prefecture": "広島県",
   "city": "呉市",
@@ -34815,6 +35469,25 @@
   "senior": ""
  },
  {
+  "name": "呉混声合唱団",
+  "prefecture": "広島県",
+  "city": "呉市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "高校生〜一般（幅広い年代）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://kurekonsei.cloud-line.com/freepage/",
+  "note": "呉市生涯学習センター（つばき会館）で毎週火曜夜に練習する混声合唱団。全パート募集。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "広島ジュニアコーラス",
   "prefecture": "広島県",
   "city": "",
@@ -34843,6 +35516,22 @@
   "online": "不明",
   "url": "https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/035/520/20251213-2.pdf",
   "note": "2025年12月 市イベント出演",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "広島県庁合唱団",
+  "prefecture": "広島県",
+  "city": "広島市中区",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "合唱が好きな方（県職員以外も可・初心者歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://prfchor-hiroshima.jimdofree.com/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E5%8B%9F%E9%9B%86/",
+  "note": "広島県民文化センターで第2・4金曜夜に練習。職員以外も参加できる。",
   "listingOnly": false,
   "senior": ""
  },
@@ -35066,6 +35755,20 @@
   "seniorCourse": ""
  },
  {
+  "name": "Voice RENOVA",
+  "prefecture": "広島県",
+  "city": "広島市",
+  "type": "音楽教室",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://voicerenova.com/",
+  "note": "広島・東広島エリアのボイストレーニング・ボーカルスクール。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "lifeone music 五日市中央教室",
   "prefecture": "広島県",
   "city": "広島市",
@@ -35152,6 +35855,23 @@
   "listingOnly": false,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "ギタースクールTSG ボーカル教室（福山）",
+  "prefecture": "広島県",
+  "city": "福山市",
+  "type": "音楽教室",
+  "genres": [],
+  "ages": "子どもから大人まで（年齢層は幅広い）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://tsg-gt.com/fukuyama-vo/",
+  "note": "福山駅近くのスタジオで行うボーカル・ボイトレの個人レッスン。弾き語りにも対応。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "セシリア音楽教室 矢野教室",
@@ -35446,6 +36166,47 @@
   "listingOnly": true,
   "senior": "歓迎",
   "seniorCourse": ""
+ },
+ {
+  "name": "スガナミ楽器 伊勢丘センター（ボーカル・ボイストレーニング・コーラス）",
+  "prefecture": "広島県",
+  "city": "福山市",
+  "type": "チェーン",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "幼児〜シニア（歌の会はシニアコーラス）",
+  "ageTags": [
+   "toddler",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.suganami-inc.co.jp/isegaokaG43",
+  "note": "福山市伊勢丘の音楽教室。ボイトレ個人レッスンとシニア向け「歌の会」がある。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "ミュージックパークスガナミ（ボーカル・声楽・コーラス）",
+  "prefecture": "広島県",
+  "city": "福山市",
+  "type": "チェーン",
+  "genres": [
+   "声楽",
+   "合唱"
+  ],
+  "ages": "ボイトレ等は子ども（小学生以下）〜大人",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.suganami-inc.co.jp/mpsG39",
+  "note": "福山市入船町のポートプラザ内。ボイトレ・弾き語り・声楽・シニアコーラスなどのコース。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "ヤマハ音楽教室（ボーカル）",
