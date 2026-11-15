@@ -20360,6 +20360,22 @@
   "seniorCourse": ""
  },
  {
+  "name": "HAMAMATSU Chamber Choir（浜松チェンバークワイア）",
+  "prefecture": "静岡県",
+  "city": "浜松市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢の記載なし（意欲のある方、経験者歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://hcc.singsong.jp/",
+  "note": "県居協働センターで主に日曜夜に練習するアカペラの混声合唱団。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "ジュニアクワイア浜松",
   "prefecture": "静岡県",
   "city": "浜松市",
@@ -20372,6 +20388,27 @@
   "online": "なし",
   "url": "https://shizuoka-jca.com/association/link.html",
   "note": "県合唱連盟（児童の部）",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "ジュニアコーラスふくで",
+  "prefecture": "静岡県",
+  "city": "磐田市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "未就学児〜高校生",
+  "ageTags": [
+   "toddler",
+   "elem",
+   "jhs",
+   "high"
+  ],
+  "online": "不明",
+  "url": "https://iwatabunkyo.com/member/327/",
+  "note": "磐田市文化協会の加盟団体。楽譜の読み方や発声を学ぶ子どもの合唱団。",
   "listingOnly": false,
   "senior": ""
  },
@@ -20470,6 +20507,22 @@
   "senior": ""
  },
  {
+  "name": "沼津コーロ・ソルジェンテ",
+  "prefecture": "静岡県",
+  "city": "沼津市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明（見学はいつでも歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://sorgente.amebaownd.com/",
+  "note": "沼津・三島など県東部で活動する混声合唱団。ルネサンス・バロック音楽が中心。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "浜松キッズコーラス",
   "prefecture": "静岡県",
   "city": "浜松市中央区",
@@ -20502,6 +20555,22 @@
   "online": "なし",
   "url": "http://www.lionet.cc/",
   "note": "県合唱連盟（児童の部）",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "浜松合唱団",
+  "prefecture": "静岡県",
+  "city": "浜松市中央区",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢制限なし・オーディションなし（市外の方も可）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://hamamatsu-choir.blogspot.com/p/blog-page_24.html",
+  "note": "県居協働センターで毎週水曜夜に練習する混声合唱団。",
   "listingOnly": false,
   "senior": ""
  },
@@ -20546,6 +20615,24 @@
   "senior": ""
  },
  {
+  "name": "県民参加による第九合唱団（富士山静岡交響楽団）",
+  "prefecture": "静岡県",
+  "city": "静岡市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "高校生以上（経験不問・オーディションなし）",
+  "ageTags": [
+   "high"
+  ],
+  "online": "不明",
+  "url": "https://www.shizukyo.or.jp/post/20261219_chorus",
+  "note": "毎年秋に募集し、12月に清水マリナートで第九を歌う合唱団。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "藤枝市子ども合唱アカデミー",
   "prefecture": "静岡県",
   "city": "藤枝市",
@@ -20577,6 +20664,22 @@
   "online": "なし",
   "url": "https://shizuoka-jca.com/association/link.html",
   "note": "県合唱連盟（児童の部）",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "静岡混声合唱団ひびき",
+  "prefecture": "静岡県",
+  "city": "静岡市葵区",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "初心者・シニア・ブランクのある方も歓迎（年齢の記載なし）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://chor-hibiki.jp/bosyu/",
+  "note": "静岡市女性会館アイセル21で毎週木曜夜に練習する混声合唱団。",
   "listingOnly": false,
   "senior": ""
  },
@@ -20624,6 +20727,20 @@
   "listingOnly": false,
   "senior": "歓迎",
   "seniorCourse": ""
+ },
+ {
+  "name": "おうたむボイストレーニング",
+  "prefecture": "静岡県",
+  "city": "静岡市駿河区",
+  "type": "個人教室",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "あり",
+  "url": "https://autumn-vt.jp/",
+  "note": "話し声と歌のボイストレーニング教室。個人・ペア・グループ・オンラインに対応。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "かなこ音楽院",
@@ -21568,6 +21685,22 @@
   "seniorCourse": ""
  },
  {
+  "name": "ヤマハ ミュージックアベニュー浜松（声楽）",
+  "prefecture": "静岡県",
+  "city": "浜松市中央区",
+  "type": "チェーン",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://retailing.jp.yamaha.com/course/tokai/music_avenue_hamamatsu/singing?media=pc",
+  "note": "クラシック声楽・オペラをマンツーマンで基礎から学べる個人レッスン。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "島村楽器 ららぽーと磐田店（ヴォーカル）",
   "prefecture": "静岡県",
   "city": "磐田市",
@@ -21612,6 +21745,24 @@
   "listingOnly": false,
   "senior": "歓迎",
   "seniorCourse": ""
+ },
+ {
+  "name": "富士市まちづくりセンター講座（音楽・歌）",
+  "prefecture": "静岡県",
+  "city": "富士市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "合唱",
+   "声楽",
+   "童謡"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.city.fuji.shizuoka.jp/4005150000/p007701.html",
+  "note": "市内のまちづくりセンターでコーラス・歌声サロン・ボイトレなどの講座を開く（2026年度後期）。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "うぐいす児童合唱団",
@@ -25512,6 +25663,22 @@
   "senior": ""
  },
  {
+  "name": "Eden Gospel Choir（エデン ゴスペルクワイア）",
+  "prefecture": "京都府",
+  "city": "京都市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "初心者歓迎（年齢の記載なし）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://kyoto-oasis-choir.jimdofree.com/",
+  "note": "京都市内（北大路・西陣・四条烏丸）と長岡京市で練習するゴスペルクワイア。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "きらきらランド少年少女合唱団",
   "prefecture": "京都府",
   "city": "綴喜郡井手町",
@@ -25564,6 +25731,22 @@
   "senior": ""
  },
  {
+  "name": "京都シティーフィル合唱団",
+  "prefecture": "京都府",
+  "city": "京都市上京区",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢の記載なし（オーディションなし、初心者・経験者とも歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://cityphil.com/",
+  "note": "鴨沂会館で毎週土曜に練習。プロのオーケストラと共演しクラシックを歌う混声合唱団。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "京都市少年合唱団",
   "prefecture": "京都府",
   "city": "京都市中京区",
@@ -25584,6 +25767,38 @@
   "senior": ""
  },
  {
+  "name": "京都混声合唱団",
+  "prefecture": "京都府",
+  "city": "京都市上京区",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "20〜80代の団員が在籍（オーディションなし・経験不問、30歳未満の学生は団費割引）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://kyou-kon.jp/main/boshuu.html",
+  "note": "鴨沂会館で毎週金曜夜に練習。バッハなど宗教曲の大曲を歌う混声合唱団。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "合唱団「葡萄の樹」",
+  "prefecture": "京都府",
+  "city": "京都市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "入団時50歳未満の方（歌が好きな方）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://sites.google.com/site/budounokichoir/boshu",
+  "note": "京都市北文化会館などで毎週金曜夜に練習。アカペラ中心の混声合唱団。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "城陽市少年少女合唱団",
   "prefecture": "京都府",
   "city": "城陽市",
@@ -25596,6 +25811,23 @@
   "online": "不明",
   "url": "https://www.pref.kyoto.jp/yamashiro/ki-kikaku/documents/syoukai.pdf",
   "note": "京都府山城地域の団体紹介に掲載",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "城陽童謡コーラス",
+  "prefecture": "京都府",
+  "city": "城陽市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://d-chorusblog.com/?p=26664",
+  "note": "文化パルク城陽の音楽練習室で火曜午後に活動する童謡コーラス。",
   "listingOnly": false,
   "senior": ""
  },
@@ -25697,6 +25929,23 @@
   "senior": ""
  },
  {
+  "name": "西院童謡コーラス",
+  "prefecture": "京都府",
+  "city": "京都市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://d-chorusblog.com/?p=16533",
+  "note": "西院のリノホールで木曜午前に活動する童謡コーラス。無料の体験練習あり。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "長岡京市少年少女合唱団",
   "prefecture": "京都府",
   "city": "長岡京市",
@@ -25772,6 +26021,22 @@
   "url": "https://www.smiling-garden.jp/",
   "note": "紹介サイトで確認",
   "listingOnly": true,
+  "senior": ""
+ },
+ {
+  "name": "ねいろ音楽教室（なかもと音楽教室）",
+  "prefecture": "京都府",
+  "city": "京都市下京区",
+  "type": "個人教室",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://neiro-music.crayonsite.com/",
+  "note": "ピアノ・声楽・ボイストレーニングを教える教室。2026年6月に西七条教室を開設。",
+  "listingOnly": false,
   "senior": ""
  },
  {
@@ -25852,6 +26117,23 @@
   "listingOnly": false,
   "senior": "歓迎",
   "seniorCourse": ""
+ },
+ {
+  "name": "烏丸御池ひかり声楽教室",
+  "prefecture": "京都府",
+  "city": "京都市中京区",
+  "type": "個人教室",
+  "genres": [
+   "声楽",
+   "合唱"
+  ],
+  "ages": "若い方からシニアまで（男性は紹介制）。60歳以上向けのコーラスクラスあり",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://hikarisoprano.com/lesson.html",
+  "note": "ソプラノ歌手による声楽の個人レッスン。音大・宝塚受験コースもある。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "Amabile音楽教室",
@@ -25985,6 +26267,22 @@
   "url": "https://kodomo-booster.com/schools/s314106",
   "note": "子ども習い事サイト掲載のみ・要確認",
   "listingOnly": true,
+  "senior": ""
+ },
+ {
+  "name": "Satisfy My Soul 大宮校（京都）",
+  "prefecture": "京都府",
+  "city": "京都市下京区",
+  "type": "音楽教室",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "初心者歓迎・経験不問（年齢の記載なし）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://i-sms-gospel.jp/%F0%9F%8E%B6-%E3%82%B4%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%92%E5%A7%8B%E3%82%81%E3%82%88%E3%81%86%EF%BC%81%E4%BA%AC%E9%83%BD%E3%83%BB%E5%A4%A7%E5%AE%AE%E3%81%A7%E6%96%B0%E3%83%A1%E3%83%B3%E3%83%90/",
+  "note": "四条大宮で第2・4木曜夜にレッスンするゴスペルクワイア。無料体験あり。",
+  "listingOnly": false,
   "senior": ""
  },
  {
@@ -26778,6 +27076,37 @@
   "listingOnly": false,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "JEUGIAカルチャーセンター イオンモール高の原（ボーカル・ボイストレーニング）",
+  "prefecture": "京都府",
+  "city": "木津川市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://culture.jeugia.co.jp/lesson_list_10.html?c=07&s_kind=2&bg=6&mg=281&sg=288",
+  "note": "ポピュラーヴォーカルやボイストレーニングなど3講座を開講（体験会あり）。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "NHK文化センター京都教室「歌のためのヴォイストレーニング」",
+  "prefecture": "京都府",
+  "city": "京都市下京区",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽",
+   "童謡"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.nhk-cul.co.jp/programs/program_473265.html",
+  "note": "月1回火曜の対面講座。腹式呼吸と発声を学び、世界の名曲や童謡を歌う。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "やお児童合唱団（八尾児童合唱団）",
@@ -30688,6 +31017,24 @@
   "senior": ""
  },
  {
+  "name": "姫路第九合唱団",
+  "prefecture": "兵庫県",
+  "city": "姫路市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "小学生以上（初心者歓迎、2025年の募集要項より）",
+  "ageTags": [
+   "elem"
+  ],
+  "online": "不明",
+  "url": "https://www.himeji-mitai.com/himeji_rouon/menu-d.html",
+  "note": "毎年夏に団員を募集し、12月にアクリエひめじで第九を歌う合唱団。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "宝塚少年少女合唱団",
   "prefecture": "兵庫県",
   "city": "宝塚市",
@@ -30700,6 +31047,41 @@
   "online": "不明",
   "url": "https://hyogo-jca.com/aboutus/kameidantai/",
   "note": "兵庫県児童合唱連盟 加盟",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "尼崎市合唱団",
+  "prefecture": "兵庫県",
+  "city": "尼崎市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://sites.google.com/view/amacitychorus",
+  "note": "アルカイックホールなどで練習。2026年に第60回定期演奏会を開催。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "尼崎混声合唱団（あまこん）",
+  "prefecture": "兵庫県",
+  "city": "尼崎市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "大学生〜退職者まで（初心者・見学歓迎）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://amacon.amebaownd.com/",
+  "note": "東園田町総合会館で毎週木曜夜に練習する混声合唱団。",
   "listingOnly": false,
   "senior": ""
  },
@@ -30719,6 +31101,56 @@
   "online": "不明",
   "url": "https://akashicentralcc.wixsite.com/chorus",
   "note": "第2・第4土曜に明石小学校コミュニティ・センターで練習",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "明石童謡コーラス",
+  "prefecture": "兵庫県",
+  "city": "明石市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://d-chorusblog.com/?p=20012",
+  "note": "ウィズあかし（明石市生涯学習センター）などで活動する童謡コーラス。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "東加古川童謡コーラス",
+  "prefecture": "兵庫県",
+  "city": "加古川市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://d-chorusblog.com/?p=19946",
+  "note": "加古川総合文化センターの音楽練習室で活動する童謡コーラス。見学歓迎。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "混声合唱団ノイエファルベ",
+  "prefecture": "兵庫県",
+  "city": "明石市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明（見学はいつでも歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://neuefarbe.net/",
+  "note": "明石市内を中心に第1・3日曜に練習。2022年結成の混声合唱団。",
   "listingOnly": false,
   "senior": ""
  },
@@ -30790,6 +31222,22 @@
   "online": "なし",
   "url": "https://www.nishi.or.jp/bunka/bunka/joho/gasshodan.html",
   "note": "1961年創立・土曜練習",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "西宮混声合唱団",
+  "prefecture": "兵庫県",
+  "city": "西宮市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "歌が好きな方なら経験不問",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.nishikon.net/",
+  "note": "西宮市民会館などで毎週月曜夜に練習。1953年創立の混声合唱団。",
   "listingOnly": false,
   "senior": ""
  },
@@ -33080,6 +33528,25 @@
   "seniorCourse": ""
  },
  {
+  "name": "NHK文化センター西宮ガーデンズ教室「歌のためのヴォイストレーニング」",
+  "prefecture": "兵庫県",
+  "city": "西宮市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "大人",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "なし",
+  "url": "https://www.nhk-cul.co.jp/programs/program_473551.html",
+  "note": "第2・4土曜の対面講座。コンコーネなどで発声を学び、日本や世界の歌を歌う。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "姫路カルチャーセンター（ボーカル）",
   "prefecture": "兵庫県",
   "city": "姫路市",
@@ -33093,6 +33560,20 @@
   "url": "https://www.singyourheart.com/classroom/hyogo",
   "note": "歌唱・ボイトレの個人レッスン",
   "listingOnly": true,
+  "senior": ""
+ },
+ {
+  "name": "神戸新聞文化センター 姫路KCC「歌う力を引き出す 呼吸と発声」",
+  "prefecture": "兵庫県",
+  "city": "姫路市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "歌を上達したい方（年齢の記載なし）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "http://k-cc.jp/Course/Detail/07/17404013",
+  "note": "第2・4月曜の個人レッスン（30分）。J-POPやクラシックなど好きな曲で発声を学ぶ。",
+  "listingOnly": false,
   "senior": ""
  },
  {
@@ -38256,6 +38737,22 @@
   "senior": ""
  },
  {
+  "name": "コール・グラウベン福岡",
+  "prefecture": "福岡県",
+  "city": "福岡市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.chorglaubenfukuoka.com/",
+  "note": "2022年結成の混声合唱団。2027年7月にアクロス福岡で演奏会を予定。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "久留米児童合唱団",
   "prefecture": "福岡県",
   "city": "久留米市",
@@ -38351,6 +38848,39 @@
   "senior": ""
  },
  {
+  "name": "北九州聖楽研究会",
+  "prefecture": "福岡県",
+  "city": "北九州市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://seigakukenkyukai.jimdofree.com/",
+  "note": "バッハやヘンデルなど宗教曲を中心に歌うアマチュア混声合唱団。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "北九州記念混声合唱団",
+  "prefecture": "福岡県",
+  "city": "北九州市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "どなたでも歓迎",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://kinenkonsei.wixsite.com/kinenkonsei",
+  "note": "浅生市民センターで練習。2027年6月に戸畑市民会館で定期演奏会を予定。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "大牟田ジュニア合唱団",
   "prefecture": "福岡県",
   "city": "大牟田市",
@@ -38423,6 +38953,58 @@
   "online": "不明",
   "url": "https://kasuga-j-choir.net/",
   "note": "",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "混声合唱レヴール",
+  "prefecture": "福岡県",
+  "city": "飯塚市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "童謡"
+  ],
+  "ages": "20〜70代の団員（経験不問）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://reveur-iizuka.jimdofree.com/",
+  "note": "童謡やポップスなど楽しく歌える曲を歌う飯塚市の混声合唱団。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "混声合唱団 コーロ・サンガ",
+  "prefecture": "福岡県",
+  "city": "飯塚市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢・経験を問わず随時募集",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://sanga29.wixsite.com/coro-samgha",
+  "note": "飯塚市の寺で練習し、仏教讃歌を中心に歌う混声合唱団（1975年結成）。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "混声合唱団うたうたい",
+  "prefecture": "福岡県",
+  "city": "福岡市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "大学生〜社会人・主婦など（見学歓迎）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://utautai09.wixsite.com/utautai-choir",
+  "note": "福岡市を拠点とする混声合唱団。団員募集中。",
   "listingOnly": false,
   "senior": ""
  },
@@ -39493,6 +40075,22 @@
   "senior": ""
  },
  {
+  "name": "ミュージカル劇団 九州アクターズクラブ",
+  "prefecture": "福岡県",
+  "city": "北九州市",
+  "type": "ミュージカル・劇団スクール",
+  "genres": [
+   "ミュージカル"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://katsclub1999.com/",
+  "note": "北九州・福岡で活動するミュージカル劇団。劇団員を募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "劇団ひまわり 福岡俳優養成所 ミュージカルクラス",
   "prefecture": "福岡県",
   "city": "",
@@ -39640,6 +40238,39 @@
   "seniorCourse": ""
  },
  {
+  "name": "島村楽器 ゆめタウン久留米店（ヴォーカル）",
+  "prefecture": "福岡県",
+  "city": "久留米市",
+  "type": "チェーン",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/shop/kurume/article/lesson/20230329/8896",
+  "note": "ジャンルを問わないオーダーメイドのヴォーカル個人レッスン（30分）。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "島村楽器 イオンモール福岡店（声楽）",
+  "prefecture": "福岡県",
+  "city": "糟屋郡粕屋町",
+  "type": "チェーン",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "子どもから大人まで",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/shop/fukuoka-a/article/lesson/20250711/9401",
+  "note": "水曜に開講する声楽の個人レッスン（30分）。体験レッスンあり。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "島村楽器 音楽教室",
   "prefecture": "福岡県",
   "city": "県内に複数",
@@ -39658,6 +40289,43 @@
   "listingOnly": false,
   "senior": "可",
   "seniorCourse": ""
+ },
+ {
+  "name": "JEUGIAカルチャーセンター木の葉モール橋本「はじめての声楽レッスン」",
+  "prefecture": "福岡県",
+  "city": "福岡市西区",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "小学校高学年以上",
+  "ageTags": [
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "なし",
+  "url": "https://culture.jeugia.co.jp/lesson_detail_55-25219.html",
+  "note": "ベルカント唱法の個人レッスン（第2・4木曜）。初心者歓迎。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "朝日カルチャーセンター福岡教室「たのしむ女声コーラス」",
+  "prefecture": "福岡県",
+  "city": "福岡市博多区",
+  "type": "カルチャーセンター",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "女性（初心者・合唱未経験も可）",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.asahiculture.com/asahiculture/asp-webapp/web/WWebKozaShosaiNyuryoku.do?kozaId=9059991",
+  "note": "毎週木曜午前の女声コーラス講座。発声から宗教曲まで歌う。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "やまびこジュニア合唱団",
