@@ -5067,7 +5067,7 @@
     "restriction": null,
     "source": "https://www.bakky.net/karaokezenkoku.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   },
   {
     "id": "bakky-karaoke-fukuoka",
@@ -5099,7 +5099,7 @@
     "restriction": null,
     "source": "https://www.bakky.net/karaokezenkoku.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   },
   {
     "id": "bakky-karaoke-osaka-1226",
@@ -5131,7 +5131,7 @@
     "restriction": null,
     "source": "https://www.bakky.net/karaokezenkoku.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   },
   {
     "id": "gunma-vocal-ensemble-20",
@@ -5311,7 +5311,7 @@
     "restriction": "課題曲22曲（ギターセンパイの無料レッスン曲。糸、マリーゴールド、3月9日、残酷な天使のテーゼ など）から選び、音源に合わせて演奏・歌唱した動画で応募。課題曲以外の音源は失格。ソロ・グループどちらも可。動画は審査のみに使用。合格者は広告・SNS露出への協力が必要",
     "source": "https://www.shimamura.co.jp/p/service/guitarsenpai/2609-audition.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/guitarsenpai-audition/"
   },
   {
     "id": "kirakuyama-karaoke-12",
@@ -5401,7 +5401,7 @@
     "restriction": null,
     "source": "https://www.bakky.net/kanteidan.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   },
   {
     "id": "bakky-kanteidan-wakayama-20270123",
@@ -5433,7 +5433,7 @@
     "restriction": null,
     "source": "https://www.bakky.net/kanteidan.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   },
   {
     "id": "bakky-kanteidan-kishiwada-20270213",
@@ -5465,7 +5465,7 @@
     "restriction": null,
     "source": "https://www.bakky.net/kanteidan.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   },
   {
     "id": "bakky-kanteidan-himeji-20270307",
@@ -5497,7 +5497,7 @@
     "restriction": null,
     "source": "https://www.bakky.net/kanteidan.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   },
   {
     "id": "bakky-kanteidan-otsu-20270327",
@@ -5529,7 +5529,7 @@
     "restriction": null,
     "source": "https://www.bakky.net/kanteidan.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   },
   {
     "id": "bakky-kanteidan-kyoto-20270417",
@@ -5561,7 +5561,7 @@
     "restriction": null,
     "source": "https://www.bakky.net/kanteidan.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   },
   {
     "id": "bakky-kanteidan-neyagawa-20270508",
@@ -5593,7 +5593,7 @@
     "restriction": null,
     "source": "https://www.bakky.net/kanteidan.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   },
   {
     "id": "bakky-kanteidan-sakai-20270529",
@@ -5625,6 +5625,6 @@
     "restriction": null,
     "source": "https://www.bakky.net/kanteidan.html",
     "checked": "2026-11-12",
-    "guide": null
+    "guide": "/bakky-karaoke/"
   }
 ]
