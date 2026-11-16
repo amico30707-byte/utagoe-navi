@@ -3622,6 +3622,23 @@
   "senior": ""
  },
  {
+  "name": "ひたちオペラ合唱団",
+  "prefecture": "茨城県",
+  "city": "日立市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "声楽"
+  ],
+  "ages": "不明（初心者から経験者まで歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://hitachiopera.net/wp/",
+  "note": "日立市を拠点とする市民オペラ合唱団。団員を随時募集。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "勝田混声合唱団",
   "prefecture": "茨城県",
   "city": "ひたちなか市",
@@ -3812,6 +3829,28 @@
   "url": "https://tama-on.jp/2941",
   "note": "つくば教室と守谷教室（土曜）",
   "listingOnly": true,
+  "senior": ""
+ },
+ {
+  "name": "ゆうき音楽教室（キッズボーカル）",
+  "prefecture": "茨城県",
+  "city": "結城市・古河市",
+  "type": "個人教室",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "5歳以上",
+  "ageTags": [
+   "toddler",
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://yuukimusic.com/kidsvocal/",
+  "note": "うた・ピアノ・リトミックの教室。子ども向けのボーカルと表現力のレッスン。",
+  "listingOnly": false,
   "senior": ""
  },
  {
@@ -4168,6 +4207,34 @@
   "senior": ""
  },
  {
+  "name": "島村楽器 イオンモール水戸内原店（ヴォーカル）",
+  "prefecture": "茨城県",
+  "city": "水戸市",
+  "type": "チェーン",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/lesson/search/shopsrch.php?scd=261",
+  "note": "イオンモール水戸内原3F。ヴォーカルコースを開講。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "島村楽器 水戸マイム店（ヴォーカル）",
+  "prefecture": "茨城県",
+  "city": "水戸市",
+  "type": "チェーン",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/lesson/search/shopsrch.php?scd=50",
+  "note": "水戸駅近くのマイムビルB1。火曜にヴォーカルコースを開講。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "島村楽器の音楽教室 イオンモール土浦店（ヴォーカル）",
   "prefecture": "茨城県",
   "city": "土浦市",
@@ -4187,6 +4254,22 @@
   "listingOnly": true,
   "senior": "歓迎",
   "seniorCourse": ""
+ },
+ {
+  "name": "NHK文化センター水戸教室「カンツォーネを歌う」",
+  "prefecture": "茨城県",
+  "city": "水戸市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明（テキストはシニア向け）",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.nhk-cul.co.jp/programs/program_418338.html",
+  "note": "二期会会員の講師とイタリアの歌を歌う講座。第1・第3月曜。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "エクセルカルチャーセンター",
@@ -4218,6 +4301,20 @@
   "online": "不明",
   "url": "https://www.culture.gr.jp/detail/toride/toride.pdf",
   "note": "アトレ取手5F。ヴォイストレーニング、J-POPヴォーカル、ゴスペル等の歌唱講座多数。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "古河カルチャーセンター「気持ちよく歌おう♪ ヴォイス&カラオケ」",
+  "prefecture": "茨城県",
+  "city": "古河市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.culture.gr.jp/detail/koga/2003305",
+  "note": "イオン古河店。声の柔軟体操をしながら歌を楽しむ講座、第2・第4水曜。",
   "listingOnly": false,
   "senior": ""
  },
@@ -4288,6 +4385,41 @@
   "url": "http://ul-singers.jp/",
   "note": "毎週土曜午後に練習（公式サイトは未確認）",
   "listingOnly": true,
+  "senior": ""
+ },
+ {
+  "name": "混声合唱団 クライスコア那須",
+  "prefecture": "栃木県",
+  "city": "那須塩原市",
+  "type": "合唱団",
+  "genres": [
+   "合唱",
+   "声楽"
+  ],
+  "ages": "どなたでも（学生は中学生から会費半額）",
+  "ageTags": [
+   "jhs"
+  ],
+  "online": "不明",
+  "url": "https://nasukc.club/",
+  "note": "宗教曲が中心の混声合唱団。テノール歌手の声楽指導あり、団員募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "真岡市民合唱団",
+  "prefecture": "栃木県",
+  "city": "真岡市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "年齢・経験は問わない",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://mokacchorus.wixsite.com/mookashiminchorus",
+  "note": "真岡市の混声合唱団。毎週水曜夜に練習、入団歓迎。",
+  "listingOnly": false,
   "senior": ""
  },
  {
@@ -5022,6 +5154,54 @@
   "seniorCourse": ""
  },
  {
+  "name": "島村楽器 宇都宮インターパークビレッジ店（ヴォーカル）",
+  "prefecture": "栃木県",
+  "city": "宇都宮市",
+  "type": "チェーン",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/shop/utsunomiya-interpark/?p=6546",
+  "note": "インターパークビレッジ内。土曜にヴォーカル個人レッスン、初心者から経験者まで。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "小山カルチャーセンター「火曜ヴォイス（個人レッスン）」",
+  "prefecture": "栃木県",
+  "city": "小山市",
+  "type": "カルチャーセンター",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.culture.gr.jp/detail/oyama/1995184/",
+  "note": "イオンモール小山2階。呼吸法と発声を学ぶ個人ボイトレ、第1・第3火曜。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "足利カルチャーセンター「ソプラノリリコ」",
+  "prefecture": "栃木県",
+  "city": "足利市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "15歳以上",
+  "ageTags": [
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "なし",
+  "url": "https://www.culture.gr.jp/detail/asikaga/4737175/",
+  "note": "呼吸法・発声法・歌唱法をゼロから学ぶグループレッスン。第2・第4土曜。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "前橋市児童文化センター 合唱団",
   "prefecture": "群馬県",
   "city": "前橋市",
@@ -5661,6 +5841,22 @@
   "senior": ""
  },
  {
+  "name": "サンシティ市民合唱団",
+  "prefecture": "埼玉県",
+  "city": "越谷市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明（学生は会費無料）",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://ameblo.jp/suncity-choir-koshigaya/",
+  "note": "越谷駅近くの山咲ホールで毎週土曜夜に練習する混声合唱団。団員募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "ステラジュニアコーラス",
   "prefecture": "埼玉県",
   "city": "ふじみ野市",
@@ -5694,6 +5890,38 @@
   "online": "不明",
   "url": "https://jmty.jp/saitama/les-mus/g-1734",
   "note": "親子で歌うゴスペル。紹介サイトで確認",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "リングコーラス越谷",
+  "prefecture": "埼玉県",
+  "city": "越谷市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明（初心者・楽譜が読めない方も歓迎）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://ringchorus-koshigaya.site/",
+  "note": "越谷市の合唱団。声楽家による発声指導あり、無料体験あり。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "川越スマイル合唱団",
+  "prefecture": "埼玉県",
+  "city": "川越市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "性別・年齢を問わずどなたでも",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-90/",
+  "note": "スマイル合唱団の一つ。月2回月曜午前に練習、見学・無料体験あり。",
   "listingOnly": false,
   "senior": ""
  },
@@ -5736,6 +5964,22 @@
   "online": "不明",
   "url": "http://www.feny.jp/",
   "note": "コダーイの考えにもとづく合唱団",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "春日部スマイル合唱団",
+  "prefecture": "埼玉県",
+  "city": "春日部市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "性別・年齢を問わずどなたでも",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-45/",
+  "note": "春日部市民文化会館で月2回火曜午前に練習。団員募集中。",
   "listingOnly": false,
   "senior": ""
  },
@@ -7896,6 +8140,58 @@
   "seniorCourse": ""
  },
  {
+  "name": "島村楽器 イオンモール春日部店（声楽）",
+  "prefecture": "埼玉県",
+  "city": "春日部市",
+  "type": "チェーン",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明（大人向けの案内）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/shop/kasukabe/?p=10246",
+  "note": "イオンモール春日部3F。金曜に声楽・ソルフェージュの個人レッスン。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "島村楽器 エミテラス所沢店（ヴォーカル）",
+  "prefecture": "埼玉県",
+  "city": "所沢市",
+  "type": "チェーン",
+  "genres": [],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/lesson/search/shopsrch.php?scd=21",
+  "note": "エミテラス所沢内の音楽教室。ヴォーカルコース（30分・60分）を開講。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "島村楽器 モラージュ菖蒲店（声楽）",
+  "prefecture": "埼玉県",
+  "city": "久喜市",
+  "type": "チェーン",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明（大人向けの案内）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/shop/shoubu/?p=9353",
+  "note": "モラージュ菖蒲3F。日曜に大人の声楽個人レッスン、体験レッスンあり。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "椿音楽教室",
   "prefecture": "埼玉県",
   "city": "県内に複数",
@@ -7916,6 +8212,90 @@
   "listingOnly": true,
   "senior": "歓迎",
   "seniorCourse": ""
+ },
+ {
+  "name": "よみうりカルチャー川越「歌う！声のレッスン（個人）」",
+  "prefecture": "埼玉県",
+  "city": "川越市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明（初心者から経験者まで）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.ync.ne.jp/kawagoe/kouza/202610-09636470.htm",
+  "note": "声楽家による30分の個人レッスン。第2・第4火曜。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "ヨークカルチャーセンター上尾（歌・声楽講座）",
+  "prefecture": "埼玉県",
+  "city": "上尾市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽",
+   "合唱"
+  ],
+  "ages": "講座による（声楽個人レッスンは3才〜大人の枠あり）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.culture.gr.jp/detail/ageo/ageo.pdf",
+  "note": "ショーサンプラザ5階。コーラス、ゴスペル、声楽個人レッスンなどを開講。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "所沢カルチャーセンター「火曜日の童謡・愛唱歌」",
+  "prefecture": "埼玉県",
+  "city": "所沢市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "童謡"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.culture.gr.jp/detail/shintokorozawa/1944730",
+  "note": "ストレッチと無理のない発声で童謡・愛唱歌を歌う講座。第2・第4火曜。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "熊谷カルチャーセンター（歌・ヴォイトレ講座）",
+  "prefecture": "埼玉県",
+  "city": "熊谷市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.culture.gr.jp/detail/kumagaya/kumagaya.pdf",
+  "note": "イオン熊谷店3階。愛唱歌の講座やヴォイストレーニング個人レッスンを開講。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "草加カルチャーセンター（歌・ヴォイトレ講座）",
+  "prefecture": "埼玉県",
+  "city": "草加市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.culture.gr.jp/detail/souka/souka.pdf",
+  "note": "マツバラテラス3階。声とうたのトレーニングや声楽の個人ヴォイトレなどを開講。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "きみつ少年少女合唱団",
@@ -7993,6 +8373,22 @@
   "senior": ""
  },
  {
+  "name": "佐倉スマイル合唱団",
+  "prefecture": "千葉県",
+  "city": "佐倉市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "性別・年齢を問わずどなたでも",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-161/",
+  "note": "佐倉市立美術館ホールで月2回水曜午前に練習。団員募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "八千代少年少女合唱団",
   "prefecture": "千葉県",
   "city": "八千代市",
@@ -8054,6 +8450,38 @@
   "senior": ""
  },
  {
+  "name": "市原グリークラブ",
+  "prefecture": "千葉県",
+  "city": "市原市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明（男声合唱団）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://ichiharagleeclub.amebaownd.com/posts/59345035",
+  "note": "市原市合唱祭に出演する男声合唱団。見学自由、団員募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "市原市楽友協会合唱団",
+  "prefecture": "千葉県",
+  "city": "市原市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "不明（歌ってみたい方なら誰でも）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://ichiharasigakuyuchoras.amebaownd.com",
+  "note": "市原市楽友協会オーケストラと共に活動する合唱団。各パート団員募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "市川児童合唱団",
   "prefecture": "千葉県",
   "city": "市川市",
@@ -8070,6 +8498,38 @@
   "online": "不明",
   "url": "https://www.ichikawacc.com/",
   "note": "見学・体験あり",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "常盤平スマイル合唱団",
+  "prefecture": "千葉県",
+  "city": "松戸市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "性別・年齢を問わずどなたでも",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-56/",
+  "note": "常盤平駅近くで月2回金曜午前に練習。2015年結成、団員募集中。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "木更津スマイル合唱団",
+  "prefecture": "千葉県",
+  "city": "木更津市",
+  "type": "合唱団",
+  "genres": [
+   "合唱"
+  ],
+  "ages": "性別・年齢を問わずどなたでも",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.smile-chorus.com/choirs/choira-temp01-2-155/",
+  "note": "木更津市民総合福祉会館で月2回月曜午前に練習。団員募集中。",
   "listingOnly": false,
   "senior": ""
  },
@@ -8218,6 +8678,23 @@
   "url": "",
   "note": "ピアノ教室のボイトレ。紹介サイトで確認",
   "listingOnly": true,
+  "senior": ""
+ },
+ {
+  "name": "ソードミュージックボーカル教室 船橋教室",
+  "prefecture": "千葉県",
+  "city": "船橋市",
+  "type": "個人教室",
+  "genres": [
+   "声楽",
+   "ミュージカル"
+  ],
+  "ages": "不明（初心者からプロ志向まで）",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.swordmusic.com/nagasawa3",
+  "note": "船橋市山手の教室。ボイトレ・ボーカル、ミュージカルや声楽にも対応。",
+  "listingOnly": false,
   "senior": ""
  },
  {
@@ -9807,6 +10284,42 @@
   "senior": ""
  },
  {
+  "name": "島村楽器 ららぽーと柏の葉店（声楽）",
+  "prefecture": "千葉県",
+  "city": "柏市",
+  "type": "チェーン",
+  "genres": [
+   "声楽",
+   "童謡"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/shop/kashiwa-h/?p=11991",
+  "note": "ららぽーと柏の葉3F。水曜に声楽個人レッスン、唱歌からオペラまで対応。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "島村楽器 イオンモール八千代緑が丘店（ヴォーカル）",
+  "prefecture": "千葉県",
+  "city": "八千代市",
+  "type": "チェーン",
+  "genres": [
+   "キッズボーカル"
+  ],
+  "ages": "小さなお子様から大人まで（18歳未満は保護者名義で申込）",
+  "ageTags": [
+   "high",
+   "adult"
+  ],
+  "online": "不明",
+  "url": "https://www.shimamura.co.jp/shop/yachiyo-midorigaoka/?p=4522",
+  "note": "イオンモール八千代緑が丘4F。木曜にヴォーカル科（個人・グループ）。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "島村楽器 イオンモール船橋店（キッズボーカル）",
   "prefecture": "千葉県",
   "city": "船橋市",
@@ -9925,6 +10438,75 @@
   "listingOnly": true,
   "senior": "歓迎",
   "seniorCourse": ""
+ },
+ {
+  "name": "NHK文化センター柏教室「声楽 個人レッスン（金曜クラス）」",
+  "prefecture": "千葉県",
+  "city": "柏市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽",
+   "童謡"
+  ],
+  "ages": "初心者から上級者まで",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.nhk-cul.co.jp/programs/program_572777.html",
+  "note": "ソプラノ講師による45分の個人レッスン。歌曲・童謡・唱歌が中心。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "カルチャープラザ公津の杜「月曜の声楽レッスン（個人）」",
+  "prefecture": "千葉県",
+  "city": "成田市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.culture.gr.jp/detail/kouzunomori/1946133",
+  "note": "二期会ソプラノ歌手による声楽個人レッスン。第2・第4月曜。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "ヨークカルチャーセンター八柱「キッズエンターテイメント ミュージカル基礎」",
+  "prefecture": "千葉県",
+  "city": "松戸市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "ミュージカル",
+   "キッズボーカル"
+  ],
+  "ages": "2歳〜小学5年生",
+  "ageTags": [
+   "toddler",
+   "elem"
+  ],
+  "online": "なし",
+  "url": "https://www.culture.gr.jp/detail/yabasira/2045645",
+  "note": "イトーヨーカドー八柱店。歌・ダンス・表現を学ぶ子ども向け講座、第2・第4木曜。",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
+  "name": "津田沼カルチャーセンター「（月）声楽レッスン（30分個人）」",
+  "prefecture": "千葉県",
+  "city": "習志野市",
+  "type": "カルチャーセンター",
+  "genres": [
+   "声楽"
+  ],
+  "ages": "不明",
+  "ageTags": [],
+  "online": "なし",
+  "url": "https://www.culture.gr.jp/detail/tudanuma/1987582",
+  "note": "津田沼ビート内。発声練習のあと希望の曲を歌う30分の個人レッスン。",
+  "listingOnly": false,
+  "senior": ""
  },
  {
   "name": "ICC三鷹ジュニア合唱団",
