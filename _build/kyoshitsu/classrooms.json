@@ -22886,6 +22886,29 @@
   "seniorCourse": ""
  },
  {
+  "name": "みゆき音楽教室",
+  "prefecture": "愛知県",
+  "city": "名古屋市千種区",
+  "type": "個人教室",
+  "genres": [
+   "童謡",
+   "声楽"
+  ],
+  "ages": "年齢・性別を問わず（幼児・小学生・中学生・高校生から大人・シニアまで）",
+  "ageTags": [
+   "toddler",
+   "elem",
+   "jhs",
+   "high",
+   "adult"
+  ],
+  "online": "あり",
+  "url": "https://miyukimusic.jp/",
+  "note": "声楽とピアノが専門。童謡（子どもの歌）から大人まで。オンラインレッスンあり（教室からのご連絡で確認）",
+  "listingOnly": false,
+  "senior": ""
+ },
+ {
   "name": "ジェニーボーカルアカデミー",
   "prefecture": "愛知県",
   "city": "知立市",
