@@ -39,3 +39,4 @@ GitHub Pages で公開しています。`_build/` はページを作るための
 - RSS：`python3 _build/feed.py`（さいご）。/feed.xml（新しい記事30本）と /concours/shimekiri.xml（しめきり順）。毎日の自動更新でも実行。
 - 参加費まとめ：`python3 _build/fee_page.py`（feed.py の前）。/concours/sankahi/。
 - 教室データの追加：/home/claude/directory/verified/ に公式サイトで確認したJSONを足す → directory/build.py → directory/update_pref_pages.py → classrooms.json と pref-pages/pages-list.csv を _build/kyoshitsu/ へコピー → サイト全体を作りなおす。（build.py の出力を head などでとめない。とちゅうで止まると検索ページのデータが古いままになる）
+- 掲載のご案内：`python3 _build/listing_cta.py`（fee_page.py のあと）。教室ページ・コンクールさがしに「掲載は無料・申しこみはこちら」の箱を入れる。
