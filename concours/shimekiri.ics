@@ -589,6 +589,15 @@ DESCRIPTION:くわしくは公式サイトでご確認ください https://www.c
 URL:https://www.city.takasaki.gunma.jp/page/98221.html
 END:VEVENT
 BEGIN:VEVENT
+UID:nhk-nodojiman-shingu-2027@utagoe-navi.jp
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:しめきり：NHKのど自慢（和歌山県新宮市）（2027年1月31日 生放送／丹鶴ホール 文化ホール（主催：NHK和歌山放送局・新宮市・新宮市教育委員会））
+DESCRIPTION:くわしくは公式サイトでご確認ください https://www.shingu-bunka.jp/event/40344/
+URL:https://www.shingu-bunka.jp/event/40344/
+END:VEVENT
+BEGIN:VEVENT
 UID:tokyo-enjoy-karaoke-2027@utagoe-navi.jp
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261203
